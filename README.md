@@ -30,6 +30,7 @@ Requisitos: Windows para Power BI Desktop (gratuito), Windows o Mac para Tableau
 
 * **Power BI** es la herramienta de BI más pedida en las vacantes de analista en Colombia. El curso cubre las cuatro áreas del examen **PL-300** (preparar, modelar, visualizar, administrar).
 * **Tableau Public** permite publicar un tablero con un enlace público para la hoja de vida y LinkedIn, algo que la cuenta gratuita de Power BI no permite.
+* Las **fichas de herramientas** muestran la pantalla de Power BI Desktop y de Tableau Public con cada parte señalada.
 * **Colab** verifica: cada cuaderno calcula las mismas medidas en Python para comparar con las tarjetas de Power BI.
 
 ## Las 8 claves

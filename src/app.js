@@ -27,7 +27,7 @@ function viewInicio(){
       <div class="path" style="grid-template-columns:repeat(auto-fit,minmax(180px,1fr))">
         <a href="#perfil"><span class="n">1</span><b>Conoce el perfil</b><span>Qué piden las vacantes y cómo encaja este curso en la línea de formación.</span></a>
         <a href="#modelo"><span class="n">2</span><b>Conoce los datos</b><span>Las siete tablas de Distribuidora Andina y sus cifras de control.</span></a>
-        <a href="#taller-0"><span class="n">3</span><b>Monta tu laboratorio</b><span>Instala Power BI Desktop y Tableau Public (Taller P0).</span></a>
+        <a href="#herramientas"><span class="n">3</span><b>Conoce las herramientas</b><span>Fichas de Power BI Desktop y Tableau Public, pantalla por pantalla, y su instalación (Taller P0).</span></a>
         <a href="#ruta"><span class="n">4</span><b>Estudia las claves</b><span>Simulador, pasos en Power BI, la versión en Tableau, Colab e IA.</span></a>
         <a href="#laboratorio"><span class="n">5</span><b>Construye y publica</b><span>Del modelo al tablero del comité y a tu portafolio público.</span></a>
       </div>
@@ -195,6 +195,7 @@ function route(){
   document.querySelectorAll("nav.main a[aria-current]").forEach(a=>a.setAttribute("aria-current","page"));
   if(h==="ruta") viewRuta();
   else if(h==="perfil") viewPerfil();
+  else if(h==="herramientas") viewHerramientas();
   else if(h==="modelo") viewModelo();
   else if(h==="laboratorio") viewLaboratorio();
   else if(h.startsWith("taller-")) viewTaller(+h.slice(7));

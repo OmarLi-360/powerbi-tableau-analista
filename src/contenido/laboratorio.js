@@ -9,7 +9,7 @@ const TALLERES = [
  {n:0, t:"Monta tu laboratorio", sub:"Power BI Desktop, Tableau Public y los datos listos en 25 minutos", min:25, nivel:"Inicial",
   her:"Power BI Desktop · Tableau Public", ent:"Captura de Power BI con la tabla Ventas cargada (17.106 filas)",
   obj:"Instalar las dos herramientas, crear tu cuenta de Tableau Public y comprobar que los datos de Distribuidora Andina cargan bien. Son los mismos datos del curso de Excel: si ya lo hiciste, conoces la empresa.",
-  antes:["Computador con Windows 10 u 11 para Power BI Desktop. Tableau Public funciona en Windows y Mac.","Permiso para instalar programas (en salas de cómputo, pídelo con anticipación).","Un correo para la cuenta de Tableau Public.","Conexión a internet."],
+  antes:["Haber visto las <a href=\"#herramientas\">fichas de las herramientas</a> (5 minutos).","Computador con Windows 10 u 11 para Power BI Desktop. Tableau Public funciona en Windows y Mac.","Permiso para instalar programas (en salas de cómputo, pídelo con anticipación).","Un correo para la cuenta de Tableau Public.","Conexión a internet."],
   pasos:[
    {h:"Carpeta", t:"Crea la carpeta del laboratorio", d:`En tu computador: <code>Laboratorio_Analista</code> con tres subcarpetas:<pre class="code">Laboratorio_Analista/
 ├── 1_datos      ← los CSV de Distribuidora Andina
