@@ -8,6 +8,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from cuadernos.comun import escribir  # noqa: E402
+from cuadernos.dax import tutorial_dax  # noqa: E402
 from cuadernos.piloto import cuaderno_03, cuaderno_04, cuaderno_06  # noqa: E402
 from cuadernos.resto import cuaderno_01, cuaderno_02, cuaderno_05, cuaderno_07, cuaderno_08  # noqa: E402
 
@@ -20,3 +21,4 @@ if __name__ == "__main__":
     escribir("06_informe_que_responde.ipynb", cuaderno_06())
     escribir("07_interactividad_y_narrativa.ipynb", cuaderno_07())
     escribir("08_publicar_y_gobernar.ipynb", cuaderno_08())
+    escribir("tutorial_dax.ipynb", tutorial_dax())

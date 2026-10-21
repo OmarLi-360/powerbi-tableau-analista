@@ -27,6 +27,7 @@ SCRIPTS = [
     "src/contenido/perfil_modelo.js",
     "src/contenido/laboratorio.js",
     "src/contenido/herramientas.js",
+    "src/contenido/dax.js",
     "src/app.js",
 ]
 

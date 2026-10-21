@@ -196,6 +196,7 @@ function route(){
   if(h==="ruta") viewRuta();
   else if(h==="perfil") viewPerfil();
   else if(h==="herramientas") viewHerramientas();
+  else if(h==="dax") viewDax();
   else if(h==="modelo") viewModelo();
   else if(h==="laboratorio") viewLaboratorio();
   else if(h.startsWith("taller-")) viewTaller(+h.slice(7));

@@ -88,6 +88,7 @@ Participación = DIVIDE([Venta neta], CALCULATE([Venta neta], ALL(Sedes)))</pre>
   <ol><li><b>CALCULATE</b> evalúa una expresión con un contexto modificado: aquí, sin las anuladas.</li>
   <li><b>DIVIDE</b> divide sin error cuando el divisor es cero.</li>
   <li><b>ALL(Sedes)</b> quita el filtro de sede: el denominador es el total de todas las sedes, y por eso la participación funciona en cada fila.</li></ol>
+  <p class="small">¿Primera vez con DAX? Haz antes el <a href="#dax">tutorial de DAX</a>: ocho lecciones con ejemplos que se calculan en vivo.</p>
   <p>Una <b>columna calculada</b> se calcula una vez, fila por fila, y se guarda. Sirve para clasificar filas (por ejemplo, «Grande» si la factura supera 10 millones). Para porcentajes, promedios y totales, siempre medidas: una columna de porcentaje se <b>suma</b> en los totales.</p>`,
  brechaTxt:"El error más común de quien llega de Excel es calcular porcentajes en columnas: en la fila se ve bien, y en el total aparece una suma sin sentido.",
  pbi:[

@@ -48,6 +48,10 @@ Requisitos: Windows para Power BI Desktop (gratuito), Windows o Mac para Tableau
 
 Cada clave completa tiene ocho pasos: para qué sirve (con su equivalente en Tableau), entender, ver el error, simulador, pasos en Power BI y en Tableau, verificación en Colab, apoyo de IA y autoevaluación.
 
+## Tutorial de DAX
+
+Ocho lecciones (qué es DAX, agregaciones, contexto de filtro, CALCULATE, iteradores, variables, inteligencia de tiempo y errores comunes) con un **constructor de medidas** que calcula en vivo sobre los datos, un **recetario de 18 medidas** con su valor de control y el cuaderno `tutorial_dax` para verificarlas.
+
 ## Laboratorio
 
 | Taller | Qué construyes | Control |
@@ -63,6 +67,7 @@ Cada clave completa tiene ocho pasos: para qué sirve (con su equivalente en Tab
 |---|---|---|
 | `01_conectar_y_perfilar` | Calidad y distribución de cada columna de la exportación del ERP | [Abrir](https://colab.research.google.com/github/OmarLi-360/powerbi-tableau-analista/blob/main/notebooks/01_conectar_y_perfilar.ipynb) |
 | `02_transformar_para_el_modelo` | Días sin ventas, tabla plana frente a estrella y granularidad | [Abrir](https://colab.research.google.com/github/OmarLi-360/powerbi-tableau-analista/blob/main/notebooks/02_transformar_para_el_modelo.ipynb) |
+| `tutorial_dax` | Recetario de medidas con cifras de control y el contexto de filtro en gráficos | [Abrir](https://colab.research.google.com/github/OmarLi-360/powerbi-tableau-analista/blob/main/notebooks/tutorial_dax.ipynb) |
 | `03_modelo_estrella` | Tamaño de las tablas, verificación de llaves y el síntoma de una relación que falta | [Abrir](https://colab.research.google.com/github/OmarLi-360/powerbi-tableau-analista/blob/main/notebooks/03_modelo_estrella.ipynb) |
 | `04_medidas_dax` | Tabla de control de las seis medidas y el contexto de filtro | [Abrir](https://colab.research.google.com/github/OmarLi-360/powerbi-tableau-analista/blob/main/notebooks/04_medidas_dax.ipynb) |
 | `05_inteligencia_de_tiempo` | Acumulado del año, variación mensual y anual por sede | [Abrir](https://colab.research.google.com/github/OmarLi-360/powerbi-tableau-analista/blob/main/notebooks/05_inteligencia_de_tiempo.ipynb) |
