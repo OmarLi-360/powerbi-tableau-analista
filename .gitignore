@@ -1,0 +1,7 @@
+dist/
+__pycache__/
+.ipynb_checkpoints/
+notebooks/*.html
+notebooks/*.xlsx
+notebooks/huerfanos_para_maestro.csv
+.DS_Store

@@ -1,0 +1,19 @@
+id_vendedor,nombre_vendedor,id_sede,fecha_ingreso,fecha_retiro,estado
+V01,Alejandro Rodríguez,S01,2019-02-20,,Activo
+V02,Diego Gómez,S01,2020-09-27,,Activo
+V03,Alejandro Salazar,S01,2022-04-18,2025-06-30,Retirado
+V04,Manuela Ospina,S01,2022-01-20,,Activo
+V05,Valentina Duarte,S01,2022-05-28,,Activo
+V06,Esteban Patiño,S02,2022-07-09,,Activo
+V07,Diego Ospina,S02,2022-01-26,,Activo
+V08,Natalia Rodríguez,S02,2024-10-01,,Activo
+V09,Alejandro Suárez,S02,2019-06-11,,Activo
+V10,Natalia Ospina,S03,2019-01-28,,Activo
+V11,Luisa Moreno,S03,2019-10-14,2024-09-15,Retirado
+V12,Santiago Ramírez,S03,2021-01-16,,Activo
+V13,Luisa Herrera,S04,2023-05-15,,Activo
+V14,Manuela Suárez,S04,2021-11-03,,Activo
+V15,Carlos Arango,S05,2022-09-19,,Activo
+V16,Julián Ortiz,S05,2023-03-17,,Activo
+V17,Sebastián Mejía,S06,2025-02-03,,Activo
+V18,Felipe Martínez,S06,2022-04-12,,Activo

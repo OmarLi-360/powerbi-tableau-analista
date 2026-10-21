@@ -1,0 +1,74 @@
+sku,producto,categoria,subcategoria,unidad,precio_lista_2025,costo_unitario_2025,precio_lista_2024,costo_unitario_2024
+P-001,Bolígrafo negro x12,Papelería,Escritura,Paquete,14500,9850,13600,9340
+P-002,Lápiz HB x12,Papelería,Escritura,Paquete,9800,6160,9200,5840
+P-003,Resaltador surtido x4,Papelería,Escritura,Paquete,11200,6560,10500,6220
+P-004,Marcador borrable x4,Papelería,Escritura,Paquete,16900,10340,15900,9800
+P-005,Portaminas 0.5,Papelería,Escritura,Paquete,6400,4150,6000,3930
+P-006,Corrector cinta,Papelería,Escritura,Paquete,5200,3210,4900,3040
+P-007,Resma carta 75 g,Papelería,Papel,Paquete,21900,13710,20600,13000
+P-008,Resma oficio 75 g,Papelería,Papel,Paquete,24800,17130,23300,16240
+P-009,Cuaderno argollado 100 h,Papelería,Papel,Paquete,12900,8570,12100,8120
+P-010,Block cuadriculado,Papelería,Papel,Paquete,6900,4290,6500,4070
+P-011,Notas adhesivas 3x3 x6,Papelería,Papel,Paquete,13400,8610,12600,8160
+P-012,Cartulina pliego x10,Papelería,Papel,Paquete,18900,11850,17700,11230
+P-013,AZ oficio lomo ancho,Papelería,Archivo,Paquete,11900,7190,11200,6820
+P-014,Carpeta legajadora x25,Papelería,Archivo,Paquete,17500,12890,16400,12220
+P-015,Sobre manila x50,Papelería,Archivo,Paquete,15800,9180,14800,8700
+P-016,Caja archivo inactivo,Papelería,Archivo,Paquete,7900,5660,7400,5360
+P-017,Separadores x10,Papelería,Archivo,Paquete,4900,3130,4600,2970
+P-018,Bisturí y repuestos,Papelería,Archivo,Paquete,6200,3930,5800,3730
+P-019,Colores x24,Papelería,Escolar,Paquete,18900,12210,17700,11570
+P-020,Tijera punta roma,Papelería,Escolar,Paquete,4600,2910,4300,2760
+P-021,Pegante en barra x3,Papelería,Escolar,Paquete,8900,5900,8400,5590
+P-022,Regla 30 cm,Papelería,Escolar,Paquete,2900,1940,2700,1840
+P-023,Kit geometría,Papelería,Escolar,Paquete,9600,6180,9000,5860
+P-024,Plastilina x12,Papelería,Escolar,Paquete,7400,4690,6900,4450
+P-025,"Portátil 14"" i5 16GB",Tecnología,Cómputo,Unidad,3290000,2821530,3089200,2674440
+P-026,"Portátil 15"" i7 16GB",Tecnología,Cómputo,Unidad,4190000,3424650,3934300,3246110
+P-027,"Monitor 24"" FHD",Tecnología,Cómputo,Unidad,689000,595830,646900,564770
+P-028,Mini PC oficina,Tecnología,Cómputo,Unidad,2150000,1835510,2018800,1739820
+P-029,"Tablet 10""",Tecnología,Cómputo,Unidad,1190000,999490,1117400,947380
+P-030,Teclado y mouse inalámbrico,Tecnología,Periféricos,Unidad,119000,96680,111700,91640
+P-031,Mouse ergonómico,Tecnología,Periféricos,Unidad,79000,66580,74200,63110
+P-032,Diadema USB con micrófono,Tecnología,Periféricos,Unidad,98000,79840,92000,75680
+P-033,Cámara web FHD,Tecnología,Periféricos,Unidad,149000,114120,139900,108170
+P-034,Base refrigerante,Tecnología,Periféricos,Unidad,69000,58610,64800,55550
+P-035,Hub USB-C 7 en 1,Tecnología,Periféricos,Unidad,139000,108190,130500,102550
+P-036,Memoria USB 64GB,Tecnología,Almacenamiento,Paquete,32000,28270,30000,26800
+P-037,Disco externo 1TB,Tecnología,Almacenamiento,Unidad,259000,208390,243200,197530
+P-038,SSD 1TB,Tecnología,Almacenamiento,Unidad,329000,275770,308900,261390
+P-039,Memoria microSD 128GB,Tecnología,Almacenamiento,Paquete,54000,40290,50700,38190
+P-040,Router WiFi 6,Tecnología,Redes y energía,Unidad,289000,245900,271400,233080
+P-041,Switch 8 puertos,Tecnología,Redes y energía,Unidad,119000,102800,111700,97440
+P-042,UPS 1000VA,Tecnología,Redes y energía,Unidad,529000,417070,496700,395330
+P-043,Regleta protectora,Tecnología,Redes y energía,Paquete,49000,39890,46000,37810
+P-044,Cable HDMI 2 m,Tecnología,Redes y energía,Paquete,22000,18210,20700,17260
+P-045,Papel higiénico institucional x4,Aseo y cafetería,Aseo,Paquete,46900,37860,44000,35890
+P-046,Toalla de manos x6,Aseo y cafetería,Aseo,Paquete,38900,27030,36500,25620
+P-047,Jabón líquido galón,Aseo y cafetería,Aseo,Paquete,29900,21380,28100,20270
+P-048,Desinfectante galón,Aseo y cafetería,Aseo,Paquete,24900,17610,23400,16690
+P-049,Bolsa basura x10,Aseo y cafetería,Aseo,Paquete,7900,5860,7400,5550
+P-050,Gel antibacterial 1 L,Aseo y cafetería,Aseo,Paquete,18900,12450,17700,11800
+P-051,Café molido 500 g,Aseo y cafetería,Cafetería,Paquete,21900,15580,20600,14770
+P-052,Azúcar en sobres x200,Aseo y cafetería,Cafetería,Paquete,16900,12180,15900,11550
+P-053,Vaso desechable x50,Aseo y cafetería,Cafetería,Paquete,6900,5340,6500,5060
+P-054,Mezcladores x1000,Aseo y cafetería,Cafetería,Paquete,9900,7120,9300,6750
+P-055,Té surtido x100,Aseo y cafetería,Cafetería,Paquete,26900,20310,25300,19250
+P-056,Agua botella x24,Aseo y cafetería,Cafetería,Paquete,23900,15690,22400,14870
+P-057,Silla ergonómica malla,Mobiliario,Sillas,Unidad,689000,490060,646900,464510
+P-058,Silla interlocutora,Mobiliario,Sillas,Unidad,219000,163250,205600,154740
+P-059,Silla gerencial,Mobiliario,Sillas,Unidad,1290000,939820,1211300,890820
+P-060,Escritorio 120 cm,Mobiliario,Escritorios,Unidad,549000,364120,515500,345140
+P-061,Escritorio en L,Mobiliario,Escritorios,Unidad,989000,707810,928600,670910
+P-062,Mesa de juntas 6 puestos,Mobiliario,Escritorios,Unidad,1690000,1219870,1586900,1156270
+P-063,Archivador 4 gavetas,Mobiliario,Almacenaje,Unidad,789000,510500,740800,483890
+P-064,Locker 6 puestos,Mobiliario,Almacenaje,Unidad,1190000,840700,1117400,796870
+P-065,Biblioteca 5 entrepaños,Mobiliario,Almacenaje,Unidad,459000,314470,431000,298080
+P-066,Tóner negro alto rendimiento,Impresión,Tóner y tinta,Unidad,389000,301620,365300,285900
+P-067,Kit tinta 4 colores,Impresión,Tóner y tinta,Unidad,189000,146770,177500,139120
+P-068,Tóner color c/u,Impresión,Tóner y tinta,Unidad,349000,253920,327700,240680
+P-069,Cinta para rotuladora,Impresión,Tóner y tinta,Paquete,59000,45030,55400,42680
+P-070,Impresora láser mono,Impresión,Equipos,Unidad,789000,589360,740800,558640
+P-071,Multifuncional tinta continua,Impresión,Equipos,Unidad,1090000,832670,1023500,789260
+P-072,Rotuladora,Impresión,Equipos,Unidad,249000,189570,233800,179690
+P-073,Destructora de papel,Impresión,Equipos,Unidad,389000,298230,365300,282680

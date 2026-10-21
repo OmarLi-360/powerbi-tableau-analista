@@ -1,0 +1,421 @@
+id_cliente,razon_social,segmento,id_sede,ciudad,dias_credito,fecha_alta
+C-0001,Transportes Bambú S.A.S.,Corporativo,S01,Bogotá,30,2020-02-27
+C-0002,Secretaría de Magdalena,Gobierno,S03,Cali,60,2023-09-11
+C-0003,Colegio Guayacán S.A.S.,Educación,S02,Medellín,30,2025-03-24
+C-0004,Hotel Palmas S.A.S.,Pyme,S02,Medellín,0,2024-09-19
+C-0005,Fundación Chicamocha S.A.S.,Educación,S01,Bogotá,30,2021-12-13
+C-0006,Inversiones El Prado S.A.,Pyme,S06,Pereira,0,2022-04-04
+C-0007,Colegio Guadalupe Ltda.,Educación,S01,Bogotá,30,2019-12-27
+C-0008,Ferretería El Prado Ltda.,Pyme,S06,Pereira,60,2017-09-08
+C-0009,Agencia Caribe S.A.S.,Pyme,S06,Pereira,0,2025-04-17
+C-0010,Consultores Cafetal S.A.S.,Pyme,S03,Cali,30,2023-05-12
+C-0011,Inversiones Guayacán S.A.S.,Pyme,S03,Cali,30,2020-04-23
+C-0012,Agencia Aurora S.A.S.,Pyme,S05,Bucaramanga,60,2022-10-20
+C-0013,Distribuciones Pacífico S.A.,Pyme,S04,Barranquilla,30,2024-12-24
+C-0014,Hotel Altamira S.A.S.,Pyme,S05,Bucaramanga,0,2018-12-09
+C-0015,Constructora Monserrate S.A.,Corporativo,S01,Bogotá,30,2023-01-20
+C-0016,Ferretería La Sabana Ltda.,Pyme,S01,Bogotá,30,2020-01-31
+C-0017,Instituto Guayacán Ltda.,Educación,S01,Bogotá,30,2020-01-09
+C-0018,Clínica Magdalena Ltda.,Corporativo,S01,Bogotá,0,2021-10-02
+C-0019,Comercializadora Horizonte S.A.S.,Pyme,S03,Cali,0,2017-10-29
+C-0020,Transportes Cafetal Ltda.,Corporativo,S05,Bucaramanga,30,2018-11-16
+C-0021,Clínica Sinú S.A.S.,Corporativo,S01,Bogotá,30,2022-01-16
+C-0022,Centro Médico Pacífico S.A.S.,Pyme,S03,Cali,60,2017-11-30
+C-0023,Hotel Ceiba Ltda.,Pyme,S05,Bucaramanga,0,2024-02-19
+C-0024,Hotel Guadalupe Ltda.,Pyme,S05,Bucaramanga,0,2019-05-29
+C-0025,Hotel Cóndor Ltda.,Pyme,S02,Medellín,0,2023-11-26
+C-0026,Colegio Cordillera S.A.,Educación,S01,Bogotá,0,2019-08-27
+C-0027,Colegio Cóndor S.A.S.,Educación,S01,Bogotá,60,2021-08-02
+C-0028,Clínica Del Valle S.A.S.,Corporativo,S01,Bogotá,30,2022-12-21
+C-0029,Grupo Pacífico Ltda.,Corporativo,S02,Medellín,0,2019-08-06
+C-0030,Fundación Sinú S.A.S.,Educación,S02,Medellín,0,2020-10-18
+C-0031,Fundación Pacífico S.A.S.,Educación,S01,Bogotá,60,2020-03-09
+C-0032,Comercializadora Orquídea S.A.S.,Pyme,S02,Medellín,0,2022-10-11
+C-0033,Clínica Aurora S.A.S.,Corporativo,S06,Pereira,60,2020-04-11
+C-0034,Inversiones Chicamocha S.A.,Pyme,S01,Bogotá,60,2017-12-16
+C-0035,Consultores Bambú Ltda.,Pyme,S04,Barranquilla,60,2023-01-20
+C-0036,Secretaría de Guadalupe,Gobierno,S03,Cali,60,2022-02-18
+C-0037,Laboratorios Monserrate Ltda.,Corporativo,S03,Cali,0,2023-05-28
+C-0038,Transportes La Sabana S.A.,Corporativo,S02,Medellín,30,2020-05-09
+C-0039,Transportes Llanos S.A.S.,Corporativo,S05,Bucaramanga,0,2020-09-07
+C-0040,Instituto Caribe S.A.,Educación,S04,Barranquilla,30,2021-08-10
+C-0041,Comercializadora Nogal S.A.,Pyme,S04,Barranquilla,30,2019-02-02
+C-0042,Transportes Altamira S.A.S.,Corporativo,S05,Bucaramanga,60,2022-07-18
+C-0043,Clínica Nogal S.A.S.,Corporativo,S01,Bogotá,30,2020-05-05
+C-0044,Hotel Los Andes S.A.S.,Pyme,S01,Bogotá,60,2022-02-03
+C-0045,Laboratorios Orquídea Ltda.,Corporativo,S02,Medellín,30,2022-10-08
+C-0046,Grupo Llanos S.A.,Corporativo,S02,Medellín,0,2020-06-19
+C-0047,Transportes Orquídea S.A.S.,Corporativo,S03,Cali,60,2017-08-03
+C-0048,Agencia Los Andes S.A.S.,Pyme,S05,Bucaramanga,30,2022-08-08
+C-0049,Agencia Bambú S.A.S.,Pyme,S01,Bogotá,30,2021-07-11
+C-0050,Notaría Guayacán S.A.S.,Gobierno,S04,Barranquilla,60,2024-12-14
+C-0051,Comercializadora Yarumo S.A.,Pyme,S02,Medellín,0,2017-06-22
+C-0052,Colegio Los Andes S.A.S.,Educación,S01,Bogotá,0,2020-09-16
+C-0053,Servicios Pacífico S.A.S.,Pyme,S01,Bogotá,0,2017-06-25
+C-0054,Comercializadora Farallones S.A.S.,Pyme,S04,Barranquilla,30,2019-11-19
+C-0055,Inversiones Yarumo S.A.S.,Pyme,S03,Cali,60,2017-08-02
+C-0056,Instituto Ceiba S.A.S.,Educación,S04,Barranquilla,30,2021-01-24
+C-0057,Centro Médico Nogal Ltda.,Pyme,S01,Bogotá,60,2020-07-30
+C-0058,Inversiones Magdalena S.A.S.,Pyme,S06,Pereira,60,2023-08-15
+C-0059,Fundación Monserrate S.A.S.,Educación,S03,Cali,0,2021-02-13
+C-0060,Agencia Santa Fe S.A.,Pyme,S02,Medellín,30,2021-10-09
+C-0061,Instituto El Prado S.A.S.,Educación,S03,Cali,60,2025-05-08
+C-0062,Secretaría de Chicamocha,Gobierno,S04,Barranquilla,60,2022-02-10
+C-0063,Secretaría de Quimbaya,Gobierno,S04,Barranquilla,60,2024-04-27
+C-0064,Clínica Horizonte S.A.S.,Corporativo,S05,Bucaramanga,30,2021-08-17
+C-0065,Grupo Monserrate S.A.,Corporativo,S01,Bogotá,0,2020-09-11
+C-0066,Servicios Ceiba S.A.S.,Pyme,S04,Barranquilla,0,2019-04-30
+C-0067,Instituto Los Andes Ltda.,Educación,S01,Bogotá,0,2020-06-16
+C-0068,Comercializadora Magdalena S.A.S.,Pyme,S02,Medellín,0,2021-05-18
+C-0069,Colegio El Prado S.A.,Educación,S02,Medellín,60,2018-06-16
+C-0070,Agencia Sinú S.A.S.,Pyme,S02,Medellín,30,2022-09-01
+C-0071,Inversiones Cordillera S.A.,Pyme,S05,Bucaramanga,30,2017-09-12
+C-0072,Notaría Tequendama S.A.S.,Gobierno,S04,Barranquilla,60,2021-07-09
+C-0073,Clínica Guadalupe S.A.S.,Corporativo,S05,Bucaramanga,60,2021-04-15
+C-0074,Clínica Arrayán S.A.,Corporativo,S02,Medellín,30,2020-08-30
+C-0075,Notaría Arrayán S.A.S.,Gobierno,S05,Bucaramanga,60,2024-10-11
+C-0076,Laboratorios Sinú S.A.,Corporativo,S06,Pereira,60,2021-01-31
+C-0077,Alcaldía de Arrayán,Gobierno,S03,Cali,60,2022-12-19
+C-0078,Servicios Monserrate Ltda.,Pyme,S02,Medellín,0,2024-05-11
+C-0079,Constructora La Sabana Ltda.,Corporativo,S01,Bogotá,30,2018-11-02
+C-0080,Grupo Altamira Ltda.,Corporativo,S01,Bogotá,30,2021-03-30
+C-0081,Laboratorios Guayacán S.A.S.,Corporativo,S02,Medellín,30,2022-04-21
+C-0082,Distribuciones Quimbaya Ltda.,Pyme,S04,Barranquilla,60,2025-07-15
+C-0083,Colegio Orquídea S.A.,Educación,S01,Bogotá,60,2020-11-27
+C-0084,Servicios Chicamocha S.A.S.,Pyme,S01,Bogotá,60,2021-05-25
+C-0085,Laboratorios Pacífico S.A.,Corporativo,S01,Bogotá,60,2022-07-04
+C-0086,Colegio Arrayán S.A.S.,Educación,S03,Cali,0,2022-10-21
+C-0087,Transportes Yarumo S.A.S.,Corporativo,S01,Bogotá,30,2021-01-19
+C-0088,Clínica Cóndor S.A.S.,Corporativo,S06,Pereira,30,2020-03-16
+C-0089,Distribuciones Orquídea Ltda.,Pyme,S02,Medellín,30,2024-08-25
+C-0090,Colegio Del Valle Ltda.,Educación,S03,Cali,0,2025-03-15
+C-0091,Centro Médico Magdalena Ltda.,Pyme,S03,Cali,0,2019-10-13
+C-0092,Consultores Magdalena S.A.S.,Pyme,S01,Bogotá,0,2021-07-22
+C-0093,Hotel Pacífico S.A.S.,Pyme,S04,Barranquilla,0,2021-09-22
+C-0094,Notaría Sinú S.A.S.,Gobierno,S05,Bucaramanga,60,2023-02-10
+C-0095,Alcaldía de Cordillera,Gobierno,S02,Medellín,60,2019-06-13
+C-0096,Colegio Los Andes S.A.,Educación,S03,Cali,0,2018-12-25
+C-0097,Colegio Orquídea S.A.S.,Educación,S02,Medellín,30,2025-03-25
+C-0098,Consultores Arrayán S.A.,Pyme,S01,Bogotá,0,2022-01-13
+C-0099,Notaría Del Valle S.A.S.,Gobierno,S05,Bucaramanga,60,2017-11-16
+C-0100,Inversiones Del Valle S.A.S.,Pyme,S06,Pereira,0,2021-11-14
+C-0101,Grupo Farallones Ltda.,Corporativo,S01,Bogotá,30,2022-06-21
+C-0102,Ferretería Horizonte Ltda.,Pyme,S02,Medellín,60,2023-04-28
+C-0103,Laboratorios Monserrate S.A.S.,Corporativo,S01,Bogotá,30,2018-12-18
+C-0104,Servicios Cafetal Ltda.,Pyme,S03,Cali,60,2024-10-26
+C-0105,Inversiones Chicamocha S.A.S.,Pyme,S03,Cali,0,2020-09-15
+C-0106,Grupo Magdalena S.A.,Corporativo,S04,Barranquilla,0,2018-04-04
+C-0107,Inversiones Guadalupe S.A.,Pyme,S03,Cali,60,2023-09-16
+C-0108,Transportes Horizonte S.A.S.,Corporativo,S01,Bogotá,30,2025-09-06
+C-0109,Hotel Llanos S.A.S.,Pyme,S02,Medellín,30,2021-02-27
+C-0110,Hotel Chicamocha S.A.,Pyme,S05,Bucaramanga,60,2021-10-23
+C-0111,Alcaldía de Chicamocha,Gobierno,S01,Bogotá,60,2020-09-07
+C-0112,Centro Médico Altamira S.A.S.,Pyme,S02,Medellín,0,2017-07-11
+C-0113,Laboratorios Arrayán S.A.S.,Corporativo,S06,Pereira,0,2025-09-04
+C-0114,Laboratorios Llanos S.A.,Corporativo,S01,Bogotá,30,2020-05-31
+C-0115,Transportes Nogal Ltda.,Corporativo,S03,Cali,60,2023-05-18
+C-0116,Fundación Cóndor S.A.S.,Educación,S02,Medellín,0,2021-10-03
+C-0117,Distribuciones Aurora S.A.,Pyme,S01,Bogotá,60,2017-10-04
+C-0118,Clínica Quimbaya S.A.S.,Corporativo,S01,Bogotá,30,2023-04-13
+C-0119,Grupo Orquídea S.A.S.,Corporativo,S04,Barranquilla,30,2021-11-14
+C-0120,Laboratorios Santa Fe S.A.,Corporativo,S01,Bogotá,30,2019-02-02
+C-0121,Secretaría de Tequendama,Gobierno,S03,Cali,60,2020-09-14
+C-0122,Alcaldía de Magdalena,Gobierno,S01,Bogotá,60,2021-01-26
+C-0123,Notaría Arrayán S.A.,Gobierno,S06,Pereira,60,2023-07-07
+C-0124,Constructora Pacífico S.A.S.,Corporativo,S03,Cali,60,2021-05-05
+C-0125,Secretaría de Caribe,Gobierno,S06,Pereira,60,2022-01-31
+C-0126,Inversiones Guadalupe S.A.S.,Pyme,S01,Bogotá,60,2018-04-06
+C-0127,Grupo Monserrate S.A.S.,Corporativo,S02,Medellín,0,2022-11-03
+C-0128,Comercializadora Guadalupe S.A.S.,Pyme,S03,Cali,60,2020-01-22
+C-0129,Grupo Palmas S.A.S.,Corporativo,S04,Barranquilla,30,2023-04-29
+C-0130,Distribuciones El Prado S.A.S.,Pyme,S02,Medellín,60,2021-09-01
+C-0131,Comercializadora Chicamocha S.A.S.,Pyme,S02,Medellín,60,2023-04-05
+C-0132,Inversiones Cóndor S.A.,Pyme,S03,Cali,0,2018-05-16
+C-0133,Transportes Nogal S.A.,Corporativo,S02,Medellín,0,2020-10-04
+C-0134,Notaría Bambú S.A.S.,Gobierno,S03,Cali,60,2017-08-01
+C-0135,Inversiones Tequendama S.A.S.,Pyme,S04,Barranquilla,60,2017-11-10
+C-0136,Constructora Cóndor S.A.S.,Corporativo,S01,Bogotá,30,2019-10-22
+C-0137,Inversiones Cafetal S.A.S.,Pyme,S04,Barranquilla,30,2020-08-18
+C-0138,Grupo Cóndor S.A.S.,Corporativo,S03,Cali,0,2021-04-10
+C-0139,Constructora Sinú S.A.S.,Corporativo,S02,Medellín,30,2022-03-29
+C-0140,Alcaldía de Orquídea,Gobierno,S06,Pereira,60,2023-05-08
+C-0141,Servicios Cafetal S.A.S.,Pyme,S01,Bogotá,30,2019-09-07
+C-0142,Colegio Caribe S.A.,Educación,S01,Bogotá,30,2022-10-30
+C-0143,Fundación Ceiba S.A.S.,Educación,S02,Medellín,60,2022-07-31
+C-0144,Transportes Horizonte S.A.,Corporativo,S01,Bogotá,30,2022-07-06
+C-0145,Agencia El Prado S.A.,Pyme,S01,Bogotá,60,2021-08-19
+C-0146,Hotel Arrayán S.A.,Pyme,S03,Cali,30,2019-03-22
+C-0147,Fundación Guayacán S.A.S.,Educación,S01,Bogotá,30,2019-07-17
+C-0148,Centro Médico Palmas S.A.,Pyme,S02,Medellín,30,2021-06-22
+C-0149,Notaría El Prado S.A.S.,Gobierno,S04,Barranquilla,60,2023-06-05
+C-0150,Secretaría de Palmas,Gobierno,S01,Bogotá,60,2021-08-20
+C-0151,Grupo Orquídea S.A.,Corporativo,S03,Cali,60,2018-03-23
+C-0152,Ferretería Farallones S.A.S.,Pyme,S04,Barranquilla,0,2024-06-01
+C-0153,Ferretería Guayacán S.A.S.,Pyme,S02,Medellín,0,2018-08-30
+C-0154,Fundación Del Valle S.A.S.,Educación,S03,Cali,60,2022-06-22
+C-0155,Notaría Cordillera S.A.,Gobierno,S01,Bogotá,60,2018-10-18
+C-0156,Inversiones Arrayán S.A.S.,Pyme,S02,Medellín,30,2024-12-29
+C-0157,Transportes Farallones S.A.S.,Corporativo,S06,Pereira,60,2024-04-27
+C-0158,Comercializadora Yarumo S.A.S.,Pyme,S02,Medellín,30,2018-02-20
+C-0159,Hotel Ceiba S.A.S.,Pyme,S06,Pereira,0,2021-12-17
+C-0160,Agencia Pacífico S.A.S.,Pyme,S06,Pereira,0,2017-11-23
+C-0161,Centro Médico Cafetal Ltda.,Pyme,S04,Barranquilla,30,2018-08-25
+C-0162,Notaría Cordillera S.A.S.,Gobierno,S02,Medellín,60,2023-11-11
+C-0163,Hotel Cordillera Ltda.,Pyme,S01,Bogotá,0,2023-05-23
+C-0164,Fundación Bambú Ltda.,Educación,S03,Cali,30,2018-11-24
+C-0165,Fundación Palmas S.A.S.,Educación,S02,Medellín,30,2018-06-02
+C-0166,Inversiones Bambú Ltda.,Pyme,S04,Barranquilla,30,2022-01-20
+C-0167,Notaría Bambú S.A.,Gobierno,S04,Barranquilla,60,2024-10-17
+C-0168,Transportes Yarumo Ltda.,Corporativo,S04,Barranquilla,30,2018-03-05
+C-0169,Comercializadora Farallones S.A.,Pyme,S02,Medellín,0,2022-10-01
+C-0170,Consultores Chicamocha S.A.S.,Pyme,S03,Cali,30,2021-01-17
+C-0171,Colegio Tequendama S.A.S.,Educación,S06,Pereira,0,2018-03-19
+C-0172,Alcaldía de Aurora,Gobierno,S02,Medellín,60,2023-09-18
+C-0173,Alcaldía de Palmas,Gobierno,S03,Cali,60,2018-08-31
+C-0174,Notaría Aurora S.A.S.,Gobierno,S05,Bucaramanga,60,2020-05-16
+C-0175,Colegio Cafetal S.A.S.,Educación,S04,Barranquilla,60,2019-01-09
+C-0176,Ferretería Guadalupe S.A.S.,Pyme,S02,Medellín,30,2019-12-14
+C-0177,Inversiones Llanos S.A.S.,Pyme,S01,Bogotá,0,2019-11-13
+C-0178,Hotel Horizonte S.A.S.,Pyme,S03,Cali,60,2022-01-20
+C-0179,Centro Médico Quimbaya S.A.S.,Pyme,S04,Barranquilla,0,2020-02-15
+C-0180,Agencia Llanos S.A.S.,Pyme,S05,Bucaramanga,0,2021-12-03
+C-0181,Colegio La Sabana Ltda.,Educación,S01,Bogotá,0,2018-05-20
+C-0182,Secretaría de Altamira,Gobierno,S04,Barranquilla,60,2025-11-04
+C-0183,Centro Médico Del Valle S.A.,Pyme,S04,Barranquilla,60,2022-12-03
+C-0184,Alcaldía de Caribe,Gobierno,S03,Cali,60,2024-07-17
+C-0185,Constructora Yarumo Ltda.,Corporativo,S01,Bogotá,60,2020-08-01
+C-0186,Transportes Del Valle S.A.S.,Corporativo,S06,Pereira,30,2020-02-19
+C-0187,Laboratorios El Prado S.A.S.,Corporativo,S03,Cali,30,2017-07-15
+C-0188,Constructora Aurora Ltda.,Corporativo,S06,Pereira,30,2017-11-06
+C-0189,Centro Médico Caribe S.A.S.,Pyme,S05,Bucaramanga,60,2018-10-09
+C-0190,Distribuciones Los Andes S.A.S.,Pyme,S01,Bogotá,30,2020-08-18
+C-0191,Clínica Bambú S.A.S.,Corporativo,S06,Pereira,30,2022-06-30
+C-0192,Inversiones Cordillera S.A.S.,Pyme,S01,Bogotá,0,2018-10-06
+C-0193,Servicios Palmas S.A.S.,Pyme,S04,Barranquilla,30,2019-05-30
+C-0194,Servicios El Prado Ltda.,Pyme,S04,Barranquilla,60,2021-02-06
+C-0195,Alcaldía de Farallones,Gobierno,S06,Pereira,60,2021-06-19
+C-0196,Clínica Orquídea S.A.,Corporativo,S06,Pereira,0,2024-11-29
+C-0197,Comercializadora Cordillera S.A.S.,Pyme,S04,Barranquilla,60,2022-11-07
+C-0198,Consultores Chicamocha S.A.,Pyme,S01,Bogotá,30,2019-08-19
+C-0199,Distribuciones Cóndor Ltda.,Pyme,S01,Bogotá,30,2020-07-25
+C-0200,Hotel Quimbaya S.A.S.,Pyme,S02,Medellín,30,2017-09-30
+C-0201,Fundación Nogal S.A.S.,Educación,S01,Bogotá,60,2023-07-24
+C-0202,Distribuciones Los Andes S.A.,Pyme,S03,Cali,30,2025-02-11
+C-0203,Fundación Aurora S.A.S.,Educación,S01,Bogotá,30,2023-07-04
+C-0204,Distribuciones Chicamocha S.A.S.,Pyme,S02,Medellín,60,2020-10-16
+C-0205,Servicios Del Valle Ltda.,Pyme,S06,Pereira,30,2020-01-14
+C-0206,Instituto Quimbaya S.A.,Educación,S03,Cali,60,2021-07-03
+C-0207,Distribuciones Guadalupe S.A.S.,Pyme,S02,Medellín,30,2021-09-12
+C-0208,Alcaldía de Cóndor,Gobierno,S01,Bogotá,60,2022-03-20
+C-0209,Constructora Caribe Ltda.,Corporativo,S01,Bogotá,30,2018-02-23
+C-0210,Grupo Arrayán S.A.S.,Corporativo,S03,Cali,30,2024-09-17
+C-0211,Agencia Aurora Ltda.,Pyme,S01,Bogotá,30,2018-06-30
+C-0212,Transportes Los Andes S.A.S.,Corporativo,S04,Barranquilla,0,2022-03-22
+C-0213,Laboratorios La Sabana S.A.S.,Corporativo,S03,Cali,60,2022-08-08
+C-0214,Fundación Arrayán S.A.S.,Educación,S01,Bogotá,30,2018-08-18
+C-0215,Colegio Arrayán Ltda.,Educación,S02,Medellín,30,2021-12-08
+C-0216,Agencia Del Valle S.A.S.,Pyme,S05,Bucaramanga,30,2022-10-05
+C-0217,Fundación Palmas S.A.,Educación,S03,Cali,30,2020-09-03
+C-0218,Fundación Del Valle Ltda.,Educación,S06,Pereira,30,2020-07-06
+C-0219,Colegio Del Valle S.A.S.,Educación,S06,Pereira,0,2024-11-18
+C-0220,Alcaldía de Monserrate,Gobierno,S06,Pereira,60,2021-08-14
+C-0221,Ferretería Santa Fe Ltda.,Pyme,S04,Barranquilla,30,2022-05-08
+C-0222,Servicios Monserrate S.A.S.,Pyme,S05,Bucaramanga,30,2019-06-13
+C-0223,Fundación Altamira S.A.S.,Educación,S02,Medellín,60,2017-08-26
+C-0224,Alcaldía de Del Valle,Gobierno,S03,Cali,60,2020-01-21
+C-0225,Servicios Altamira Ltda.,Pyme,S03,Cali,30,2021-09-08
+C-0226,Centro Médico Quimbaya Ltda.,Pyme,S01,Bogotá,60,2019-05-12
+C-0227,Ferretería Nogal S.A.S.,Pyme,S02,Medellín,30,2019-04-06
+C-0228,Constructora Horizonte Ltda.,Corporativo,S03,Cali,60,2021-08-16
+C-0229,Clínica Tequendama S.A.S.,Corporativo,S01,Bogotá,0,2023-10-25
+C-0230,Inversiones Guayacán Ltda.,Pyme,S06,Pereira,0,2025-03-24
+C-0231,Grupo Aurora S.A.S.,Corporativo,S01,Bogotá,30,2023-01-03
+C-0232,Hotel Horizonte S.A.,Pyme,S04,Barranquilla,60,2025-03-31
+C-0233,Alcaldía de Pacífico,Gobierno,S01,Bogotá,60,2023-03-31
+C-0234,Fundación Farallones S.A.S.,Educación,S01,Bogotá,0,2024-12-19
+C-0235,Secretaría de Cordillera,Gobierno,S02,Medellín,60,2019-03-24
+C-0236,Colegio El Prado S.A.S.,Educación,S04,Barranquilla,60,2020-08-17
+C-0237,Comercializadora El Prado S.A.S.,Pyme,S02,Medellín,60,2025-07-13
+C-0238,Clínica Cafetal S.A.S.,Corporativo,S03,Cali,60,2023-05-03
+C-0239,Agencia Yarumo S.A.S.,Pyme,S01,Bogotá,0,2018-01-03
+C-0240,Alcaldía de Yarumo,Gobierno,S06,Pereira,60,2022-04-22
+C-0241,Agencia Ceiba S.A.S.,Pyme,S06,Pereira,30,2021-08-17
+C-0242,Notaría Yarumo S.A.S.,Gobierno,S03,Cali,60,2025-03-17
+C-0243,Centro Médico Cóndor S.A.S.,Pyme,S01,Bogotá,30,2024-07-08
+C-0244,Hotel Guadalupe S.A.S.,Pyme,S04,Barranquilla,0,2020-03-06
+C-0245,Grupo Yarumo Ltda.,Corporativo,S05,Bucaramanga,0,2024-12-20
+C-0246,Clínica La Sabana S.A.S.,Corporativo,S05,Bucaramanga,30,2020-12-15
+C-0247,Transportes Cordillera Ltda.,Corporativo,S01,Bogotá,30,2018-09-10
+C-0248,Alcaldía de Ceiba,Gobierno,S05,Bucaramanga,60,2021-04-24
+C-0249,Grupo Nogal S.A.S.,Corporativo,S01,Bogotá,0,2020-05-17
+C-0250,Clínica Llanos S.A.S.,Corporativo,S06,Pereira,30,2024-06-12
+C-0251,Colegio Caribe Ltda.,Educación,S01,Bogotá,30,2019-12-31
+C-0252,Alcaldía de Sinú,Gobierno,S04,Barranquilla,60,2017-11-05
+C-0253,Ferretería Llanos S.A.S.,Pyme,S06,Pereira,30,2022-01-26
+C-0254,Grupo Magdalena Ltda.,Corporativo,S05,Bucaramanga,30,2018-12-29
+C-0255,Centro Médico Altamira S.A.,Pyme,S05,Bucaramanga,0,2024-03-27
+C-0256,Instituto Caribe S.A.S.,Educación,S01,Bogotá,30,2020-07-31
+C-0257,Centro Médico La Sabana S.A.S.,Pyme,S05,Bucaramanga,60,2021-01-07
+C-0258,Distribuciones Tequendama Ltda.,Pyme,S03,Cali,60,2018-09-04
+C-0259,Centro Médico Guayacán S.A.S.,Pyme,S01,Bogotá,30,2023-06-17
+C-0260,Alcaldía de Los Andes,Gobierno,S05,Bucaramanga,60,2022-12-02
+C-0261,Distribuciones Arrayán S.A.,Pyme,S02,Medellín,0,2017-06-08
+C-0262,Notaría Nogal S.A.S.,Gobierno,S06,Pereira,60,2022-12-21
+C-0263,Constructora Horizonte S.A.S.,Corporativo,S01,Bogotá,0,2024-08-02
+C-0264,Notaría Cóndor Ltda.,Gobierno,S01,Bogotá,60,2021-09-23
+C-0265,Agencia La Sabana S.A.S.,Pyme,S06,Pereira,30,2018-12-31
+C-0266,Fundación Cordillera S.A.S.,Educación,S01,Bogotá,0,2022-01-09
+C-0267,Inversiones Tequendama S.A.,Pyme,S01,Bogotá,30,2023-09-22
+C-0268,Fundación La Sabana S.A.S.,Educación,S05,Bucaramanga,30,2021-08-13
+C-0269,Consultores La Sabana S.A.S.,Pyme,S01,Bogotá,60,2020-01-22
+C-0270,Fundación Chicamocha Ltda.,Educación,S03,Cali,30,2020-09-15
+C-0271,Alcaldía de Guayacán,Gobierno,S01,Bogotá,60,2019-03-08
+C-0272,Ferretería Los Andes S.A.S.,Pyme,S03,Cali,30,2025-02-23
+C-0273,Inversiones Palmas S.A.,Pyme,S01,Bogotá,0,2018-11-01
+C-0274,Inversiones Aurora S.A.S.,Pyme,S06,Pereira,30,2018-07-26
+C-0275,Laboratorios Guadalupe S.A.,Corporativo,S06,Pereira,30,2019-10-01
+C-0276,Fundación Cóndor S.A.,Educación,S01,Bogotá,30,2019-10-17
+C-0277,Hotel Monserrate S.A.S.,Pyme,S01,Bogotá,0,2020-10-23
+C-0278,Instituto Pacífico S.A.,Educación,S01,Bogotá,30,2024-02-22
+C-0279,Hotel Santa Fe S.A.S.,Pyme,S02,Medellín,0,2020-03-02
+C-0280,Notaría Palmas S.A.S.,Gobierno,S03,Cali,60,2022-10-12
+C-0281,Hotel Guayacán S.A.,Pyme,S03,Cali,0,2018-08-09
+C-0282,Secretaría de Los Andes,Gobierno,S02,Medellín,60,2020-04-02
+C-0283,Grupo Del Valle S.A.S.,Corporativo,S01,Bogotá,60,2023-10-24
+C-0284,Instituto Yarumo S.A.S.,Educación,S03,Cali,30,2023-04-14
+C-0285,Constructora Llanos S.A.S.,Corporativo,S02,Medellín,30,2024-03-11
+C-0286,Consultores Nogal S.A.S.,Pyme,S02,Medellín,0,2024-09-04
+C-0287,Transportes Caribe S.A.,Corporativo,S04,Barranquilla,30,2023-01-17
+C-0288,Grupo Ceiba S.A.S.,Corporativo,S02,Medellín,60,2019-12-19
+C-0289,Agencia Cordillera S.A.S.,Pyme,S02,Medellín,30,2018-08-31
+C-0290,Fundación Guadalupe S.A.S.,Educación,S01,Bogotá,0,2018-08-04
+C-0291,Consultores Aurora Ltda.,Pyme,S03,Cali,0,2017-08-17
+C-0292,Comercializadora Tequendama S.A.,Pyme,S04,Barranquilla,0,2025-05-09
+C-0293,Centro Médico Tequendama S.A.,Pyme,S06,Pereira,30,2017-09-20
+C-0294,Alcaldía de Altamira,Gobierno,S01,Bogotá,60,2019-05-05
+C-0295,Notaría Caribe S.A.,Gobierno,S01,Bogotá,60,2018-03-05
+C-0296,Instituto Quimbaya S.A.S.,Educación,S04,Barranquilla,0,2018-07-12
+C-0297,Servicios Ceiba S.A.,Pyme,S04,Barranquilla,0,2020-04-14
+C-0298,Colegio Monserrate S.A.,Educación,S03,Cali,60,2023-04-16
+C-0299,Ferretería El Prado S.A.S.,Pyme,S02,Medellín,0,2024-07-20
+C-0300,Constructora Ceiba S.A.S.,Corporativo,S02,Medellín,30,2022-09-07
+C-0301,Laboratorios Palmas S.A.S.,Corporativo,S05,Bucaramanga,30,2018-08-21
+C-0302,Clínica Farallones S.A.,Corporativo,S02,Medellín,0,2018-02-08
+C-0303,Servicios Guayacán S.A.S.,Pyme,S03,Cali,0,2019-01-30
+C-0304,Servicios Sinú S.A.S.,Pyme,S01,Bogotá,60,2019-09-24
+C-0305,Instituto Ceiba Ltda.,Educación,S02,Medellín,30,2025-04-27
+C-0306,Transportes Cafetal S.A.S.,Corporativo,S01,Bogotá,30,2019-06-24
+C-0307,Constructora Santa Fe S.A.,Corporativo,S04,Barranquilla,30,2024-05-02
+C-0308,Clínica Palmas Ltda.,Corporativo,S01,Bogotá,0,2021-02-15
+C-0309,Ferretería Guayacán S.A.,Pyme,S04,Barranquilla,0,2022-04-15
+C-0310,Consultores Guadalupe S.A.S.,Pyme,S03,Cali,60,2023-09-29
+C-0311,Agencia Cordillera Ltda.,Pyme,S02,Medellín,30,2020-11-18
+C-0312,Laboratorios Cordillera Ltda.,Corporativo,S01,Bogotá,30,2021-06-30
+C-0313,Servicios Del Valle S.A.S.,Pyme,S01,Bogotá,30,2025-05-31
+C-0314,Servicios Horizonte Ltda.,Pyme,S03,Cali,0,2017-06-26
+C-0315,Centro Médico Yarumo S.A.S.,Pyme,S06,Pereira,60,2018-04-21
+C-0316,Hotel Cafetal S.A.,Pyme,S02,Medellín,0,2017-09-20
+C-0317,Hotel Farallones Ltda.,Pyme,S05,Bucaramanga,60,2024-04-19
+C-0318,Distribuciones Cóndor S.A.,Pyme,S03,Cali,60,2022-01-23
+C-0319,Centro Médico Farallones S.A.S.,Pyme,S05,Bucaramanga,0,2021-09-04
+C-0320,Instituto Guadalupe S.A.,Educación,S03,Cali,0,2024-02-28
+C-0321,Clínica Yarumo Ltda.,Corporativo,S01,Bogotá,60,2020-02-10
+C-0322,Ferretería Arrayán S.A.S.,Pyme,S03,Cali,0,2017-10-31
+C-0323,Clínica Los Andes S.A.,Corporativo,S01,Bogotá,0,2022-04-02
+C-0324,Ferretería Nogal Ltda.,Pyme,S02,Medellín,30,2020-05-13
+C-0325,Grupo Los Andes S.A.S.,Corporativo,S02,Medellín,0,2018-03-30
+C-0326,Consultores Farallones Ltda.,Pyme,S02,Medellín,30,2021-04-21
+C-0327,Fundación Guayacán Ltda.,Educación,S04,Barranquilla,30,2023-09-23
+C-0328,Inversiones Monserrate S.A.,Pyme,S03,Cali,60,2023-06-29
+C-0329,Distribuciones Arrayán S.A.S.,Pyme,S05,Bucaramanga,0,2018-04-01
+C-0330,Secretaría de Santa Fe,Gobierno,S01,Bogotá,60,2019-01-05
+C-0331,Transportes Cóndor S.A.S.,Corporativo,S05,Bucaramanga,30,2021-09-15
+C-0332,Transportes Guadalupe Ltda.,Corporativo,S01,Bogotá,30,2022-01-23
+C-0333,Centro Médico Guadalupe S.A.S.,Pyme,S01,Bogotá,30,2017-12-31
+C-0334,Comercializadora Pacífico S.A.S.,Pyme,S05,Bucaramanga,30,2019-07-02
+C-0335,Alcaldía de Santa Fe,Gobierno,S03,Cali,60,2023-08-29
+C-0336,Comercializadora Del Valle S.A.S.,Pyme,S05,Bucaramanga,30,2021-05-03
+C-0337,Servicios Magdalena Ltda.,Pyme,S03,Cali,60,2017-10-14
+C-0338,Hotel Pacífico S.A.,Pyme,S04,Barranquilla,0,2017-08-17
+C-0339,Laboratorios Orquídea S.A.S.,Corporativo,S01,Bogotá,0,2022-12-02
+C-0340,Laboratorios Llanos S.A.S.,Corporativo,S01,Bogotá,60,2020-08-01
+C-0341,Inversiones Horizonte S.A.S.,Pyme,S03,Cali,0,2023-10-24
+C-0342,Laboratorios Quimbaya S.A.S.,Corporativo,S05,Bucaramanga,0,2022-08-02
+C-0343,Inversiones Caribe S.A.S.,Pyme,S04,Barranquilla,60,2023-02-11
+C-0344,Transportes Orquídea S.A.,Corporativo,S03,Cali,60,2018-11-01
+C-0345,Instituto Los Andes S.A.,Educación,S01,Bogotá,60,2025-10-17
+C-0346,Hotel Magdalena S.A.S.,Pyme,S01,Bogotá,0,2021-01-26
+C-0347,Secretaría de Horizonte,Gobierno,S01,Bogotá,60,2021-07-16
+C-0348,Comercializadora Aurora S.A.S.,Pyme,S01,Bogotá,60,2023-10-12
+C-0349,Hotel Magdalena Ltda.,Pyme,S06,Pereira,30,2022-11-16
+C-0350,Alcaldía de Nogal,Gobierno,S02,Medellín,60,2019-09-06
+C-0351,Colegio Pacífico S.A.,Educación,S02,Medellín,0,2020-02-25
+C-0352,Constructora Arrayán S.A.S.,Corporativo,S04,Barranquilla,30,2024-05-30
+C-0353,Clínica Los Andes S.A.S.,Corporativo,S06,Pereira,0,2023-02-14
+C-0354,Fundación Orquídea S.A.S.,Educación,S01,Bogotá,0,2021-05-22
+C-0355,Hotel Orquídea S.A.S.,Pyme,S06,Pereira,60,2020-11-28
+C-0356,Clínica Arrayán S.A.S.,Corporativo,S02,Medellín,0,2023-06-29
+C-0357,Ferretería Pacífico Ltda.,Pyme,S01,Bogotá,0,2021-02-20
+C-0358,Agencia Yarumo S.A.,Pyme,S02,Medellín,30,2020-03-30
+C-0359,Consultores Bambú S.A.S.,Pyme,S04,Barranquilla,0,2018-06-04
+C-0360,Agencia Bambú S.A.,Pyme,S02,Medellín,30,2023-09-08
+C-0361,Inversiones Palmas S.A.S.,Pyme,S03,Cali,30,2024-03-12
+C-0362,Centro Médico Aurora S.A.S.,Pyme,S04,Barranquilla,0,2019-06-26
+C-0363,Hotel Del Valle S.A.S.,Pyme,S01,Bogotá,60,2024-03-05
+C-0364,Instituto Nogal S.A.S.,Educación,S01,Bogotá,0,2025-05-09
+C-0365,Ferretería Altamira S.A.,Pyme,S01,Bogotá,0,2021-10-22
+C-0366,Hotel Monserrate Ltda.,Pyme,S03,Cali,0,2018-08-22
+C-0367,Servicios Farallones S.A.S.,Pyme,S05,Bucaramanga,30,2021-04-03
+C-0368,Secretaría de Nogal,Gobierno,S03,Cali,60,2025-06-11
+C-0369,Consultores Tequendama S.A.S.,Pyme,S02,Medellín,30,2023-03-29
+C-0370,Comercializadora Caribe S.A.S.,Pyme,S02,Medellín,0,2023-11-09
+C-0371,Agencia Orquídea S.A.S.,Pyme,S06,Pereira,0,2018-07-19
+C-0372,Consultores Yarumo S.A.S.,Pyme,S01,Bogotá,30,2021-07-23
+C-0373,Laboratorios Chicamocha S.A.S.,Corporativo,S01,Bogotá,0,2023-09-17
+C-0374,Fundación Llanos S.A.S.,Educación,S01,Bogotá,30,2018-09-20
+C-0375,Inversiones Los Andes Ltda.,Pyme,S01,Bogotá,30,2023-08-22
+C-0376,Servicios Tequendama S.A.S.,Pyme,S04,Barranquilla,60,2023-11-25
+C-0377,Ferretería Bambú Ltda.,Pyme,S01,Bogotá,30,2019-04-03
+C-0378,Servicios Los Andes S.A.S.,Pyme,S01,Bogotá,30,2021-11-01
+C-0379,Hotel Farallones S.A.,Pyme,S06,Pereira,0,2019-04-15
+C-0380,Agencia Altamira S.A.S.,Pyme,S01,Bogotá,60,2022-05-08
+C-0381,Hotel El Prado S.A.S.,Pyme,S05,Bucaramanga,30,2019-02-12
+C-0382,Grupo Quimbaya S.A.S.,Corporativo,S02,Medellín,30,2022-10-02
+C-0383,Secretaría de Yarumo,Gobierno,S01,Bogotá,60,2018-08-07
+C-0384,Notaría Cóndor S.A.S.,Gobierno,S05,Bucaramanga,60,2022-08-24
+C-0385,Inversiones Cordillera Ltda.,Pyme,S06,Pereira,30,2025-03-25
+C-0386,Colegio Guadalupe S.A.,Educación,S04,Barranquilla,30,2019-06-02
+C-0387,Consultores Chicamocha Ltda.,Pyme,S05,Bucaramanga,30,2021-12-19
+C-0388,Colegio Farallones S.A.,Educación,S01,Bogotá,0,2019-09-12
+C-0389,Secretaría de La Sabana,Gobierno,S01,Bogotá,60,2019-11-26
+C-0390,Instituto Magdalena S.A.S.,Educación,S06,Pereira,0,2017-06-11
+C-0391,Laboratorios Pacífico S.A.S.,Corporativo,S01,Bogotá,0,2022-03-06
+C-0392,Consultores Quimbaya S.A.,Pyme,S02,Medellín,0,2018-10-27
+C-0393,Agencia Cóndor S.A.S.,Pyme,S01,Bogotá,30,2023-07-29
+C-0394,Constructora Quimbaya Ltda.,Corporativo,S02,Medellín,60,2019-11-24
+C-0395,Clínica Altamira S.A.,Corporativo,S03,Cali,60,2024-04-30
+C-0396,Transportes El Prado S.A.S.,Corporativo,S01,Bogotá,60,2022-01-04
+C-0397,Servicios Caribe S.A.S.,Pyme,S05,Bucaramanga,30,2022-04-30
+C-0398,Comercializadora Nogal S.A.S.,Pyme,S03,Cali,30,2020-01-25
+C-0399,Ferretería Horizonte S.A.,Pyme,S03,Cali,60,2023-11-06
+C-0400,Ferretería El Prado S.A.,Pyme,S02,Medellín,0,2018-10-10
+C-0401,Distribuciones Guayacán S.A.S.,Pyme,S04,Barranquilla,30,2019-06-25
+C-0402,Grupo Magdalena S.A.S.,Corporativo,S04,Barranquilla,0,2018-09-01
+C-0403,Agencia El Prado S.A.S.,Pyme,S02,Medellín,0,2021-10-05
+C-0404,Secretaría de El Prado,Gobierno,S04,Barranquilla,60,2018-03-22
+C-0405,Clínica Cóndor S.A.,Corporativo,S02,Medellín,0,2024-09-28
+C-0406,Alcaldía de Horizonte,Gobierno,S02,Medellín,60,2022-03-13
+C-0407,Comercializadora Guayacán S.A.,Pyme,S01,Bogotá,30,2024-12-07
+C-0408,Clínica Sinú S.A.,Corporativo,S02,Medellín,30,2022-10-02
+C-0409,Ferretería Santa Fe S.A.S.,Pyme,S06,Pereira,60,2020-01-20
+C-0410,Comercializadora Ceiba S.A.S.,Pyme,S01,Bogotá,60,2022-08-09
+C-0411,Comercializadora Monserrate S.A.S.,Pyme,S02,Medellín,0,2018-12-07
+C-0412,Centro Médico Cordillera S.A.S.,Pyme,S01,Bogotá,0,2019-09-17
+C-0413,Laboratorios Nogal Ltda.,Corporativo,S02,Medellín,30,2025-01-13
+C-0414,Servicios Cordillera Ltda.,Pyme,S01,Bogotá,30,2021-02-20
+C-0415,Fundación Orquídea Ltda.,Educación,S04,Barranquilla,0,2017-10-19
+C-0416,Fundación Santa Fe Ltda.,Educación,S03,Cali,60,2024-08-18
+C-0417,Grupo Horizonte S.A.S.,Corporativo,S02,Medellín,30,2017-10-14
+C-0418,Centro Médico Arrayán S.A.S.,Pyme,S01,Bogotá,30,2020-11-26
+C-0419,Instituto Llanos S.A.S.,Educación,S02,Medellín,60,2020-05-30
+C-0420,Constructora El Prado S.A.S.,Corporativo,S02,Medellín,0,2017-11-17
