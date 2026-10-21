@@ -66,7 +66,7 @@ function paintDiag(){
   if(!set.length){ el.innerHTML = `<h3>Tienes bases sólidas.</h3><p class="muted">Repasa las claves 3 y 4 para confirmar y pasa directo al laboratorio.</p><div class="row" style="margin-top:10px"><a class="btn primary" href="#laboratorio">Ir al laboratorio</a></div>`; return }
   const first = set.find(n=>MOD[n]) || set[0];
   el.innerHTML = `<h3>Tu ruta sugerida: ${set.map(n=>`clave ${n}`).join(" → ")}</h3>
-    <p class="muted" style="margin-top:4px">Las claves completas tienen simulador, pasos en Power BI y Tableau, cuaderno de Colab y autoevaluación; las demás, por ahora, su orientación y un ejemplo.</p>
+    <p class="muted" style="margin-top:4px">Estúdialas en este orden: cada tramo se apoya en el anterior.</p>
     <div class="chips" style="margin-top:10px">${set.map(n=>{const k=CLAVES[n-1]; return `<a class="chip" href="#clave-${pad2(n)}">${n} · ${k.t}${MOD[n]?"":" (orientación)"}</a>`}).join("")}</div>
     <div class="row" style="margin-top:12px"><a class="btn primary" href="#clave-${pad2(first)}">Empezar por la clave ${first}</a></div>`;
 }
@@ -75,7 +75,7 @@ function paintDiag(){
 function viewRuta(){
   app.innerHTML = `<div class="wrap">
     <div class="mhead"><span class="eyebrow">Ruta de aprendizaje</span><h1>8 claves de Power BI y Tableau</h1>
-      <p class="muted read">Cada tramo corresponde a un área del examen PL-300 y se apoya en el anterior. Las claves 3, 4 y 6 están completas (piloto); las demás tienen su orientación, su equivalente en Tableau y un ejemplo de aplicación.</p></div>
+      <p class="muted read">Cada tramo corresponde a un área del examen PL-300 y se apoya en el anterior. Las 8 claves están completas: cada una con su caso real, simulador, pasos en Power BI y en Tableau, cuaderno de Colab de control, apoyo de IA y autoevaluación.</p></div>
     ${TRAMOS.map((t,ti)=>`<div class="tramo">
       <div class="stack" style="gap:6px"><span class="eyebrow">Tramo ${ti+1}</span><h2>${t.t}</h2><p class="muted small">${t.d}</p></div>
       <div class="cards">${CLAVES.filter(k=>k.tramo===ti).map(card).join("")}</div></div>`).join("")}

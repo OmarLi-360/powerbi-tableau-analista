@@ -1,0 +1,1855 @@
+Linea,Factura,Fecha,Cod Cliente,Cliente,Ciudad,SKU,Cantidad,Valor Neto,Estado
+7,FV-000004,02/01/2024,C-0191,Clínica Bambú S.A.S.,Pereira,P-055,457,9827785,Pagada
+19,FV-000008,02/01/2024,C-0120,Laboratorios Santa Fe S.A.,Bogotá,P-017,101,441370,Pagada
+20,FV-000009,2024-01-02,C-0123,Notaría Arrayán S.A.,Bogotá,P-048,60,1333800,Pagada
+27,FV-000012,2024-01-03,C-0229,Clínica Tequendama S.A.S.,Bogotá,P-060,8,$ 3.917.800,Pagada
+31,FV-000014,03/01/2024,C-0065,Grupo Monserrate S.A.,Bogotá,P-066,1,$ 347.035,Pagada
+32,FV-000014,03/01/2024,C-0065,Grupo Monserrate S.A.,Bogotá,P-022,79,202635,Pagada
+38,FV-000017,03/01/2024,C-0179,Centro Médico Quimbaya S.A.S.,Barranquilla,P-054,42,390600,Pagada
+41,FV-000017,03/01/2024,C-0179,Centro Médico Quimbaya S.A.S.,Barranquilla,P-060,1,$ 515.500,Pagada
+45,FV-000018,03/01/2024,C-0229,Clínica Tequendama S.A.S.,Bogotá,P-065,3,1228350,Pagada
+61,FV-000028,04/01/2024,C-0051,Comercializadora Yarumo S.A.,Medellín,P-017,10,46000,Pagada
+77,FV-000033,05/01/2024,C-0208,Alcaldía de Cóndor,Bogotá,P-072,10,2104200,Pagada
+90,FV-000039,05/01/2024,C-0017,Instituto Guayacán Ltda.,BOGOTÁ,P-067,7,1242500,Pagada
+108,FV-000047,06/01/2024,C-0043,Clínica Nogal S.A.S.,Bogotá,P-053,41,253175,Pagada
+110,FV-000048,08/01/2024,C-0038,Transportes La Sabana S.A.,Medellín,P-051,91,1780870,Pagada
+113,FV-000049,08/01/2024,C-0139,Constructora Sinú S.A.S.,Medellín,P-022,82,199260,Pagada
+117,FV-000052,45299,C-0396,Transportes El Prado S.A.S.,Bogota,P-051,34,$ 665.380,Pagada
+117,FV-000052,45299,C-0396,Transportes El Prado S.A.S.,Bogota,P-051,34,$ 665.380,Pagada
+125,FV-000057,08/01/2024,C-0227,Ferretería Nogal S.A.S.,Medellín,P-069,37,2049800,Pagada
+144,FV-000065,10/01/2024,C-0139,Constructora Sinú S.A.S.,Medellín,P-011,40,478800,Pagada
+157,FV-000069,10/01/2024,C-0332,Transportes Guadalupe Ltda.,Bogotá,P-034,10,615600,Pagada
+177,FV-000078,10/01/2024,C-0239,Agencia Yarumo S.A.S.,Bogotá,P-014,54,885600,Pagada
+185,FV-000080,11/01/2024,C-0065,Grupo Monserrate S.A.,Bogotá,P-038,11,3228005,Pagada
+186,FV-000080,11/01/2024,C-0065,Grupo Monserrate S.A.,Bogotá,P-058,9,1665360,Pagada
+190,FV-000082,11/01/2024,C-0135,Inversiones Tequendama S.A.S.,B/quilla,P-003,60,630000,Anulada
+195,FV-000084,11/01/2024,C-0095,Alcaldía de Cordillera,Medellín,P-028,2,3835720,Pagada
+201,FV-000087,11/01/2024,C-0120,Laboratorios Santa Fe S.A.,Bogotá,P-068,1,$ 311.315,Pagada
+206,FV-000088,11/01/2024,C-0332,Transportes Guadalupe Ltda.,Bogotá,P-016,147,$ 1.033.410,Pagada
+227,FV-000098,11/01/2024,C-0059 ,Fundación Monserrate S.A.S.,Santiago de Cali,P-004,127,2019300,Pagada
+239,FV-000102,45303,C-0392,Consultores Quimbaya S.A.,Medellín,P-009,19,229900,Pagada
+241,FV-000103,2024-01-12,C-9497,Colegio Guadalupe S.A.,Barranquilla,P-009,59,713900,Pagada
+242,FV-000103,12/01/2024,C-0386,Colegio Guadalupe S.A.,Barranquilla,P-048,49,1146600,Pagada
+253,FV-000107,13/01/2024,C-0181,Colegio La Sabana Ltda.,Bogotá,P-051,40,782800,Pagada
+261,FV-000110,13/01/2024,C-0400,Ferretería El Prado S.A.,Medellín,P-004,11,174900,Pagada
+266,FV-000113,15/01/2024,C-0161,Centro Médico Cafetal Ltda.,Barranquilla,P-006,34,166600,Pagada
+282,FV-000118,15/01/2024,C-0206 ,Instituto Quimbaya S.A.,Cali,P-009,30,363000,Pagada
+288,FV-000122,16/01/2024,C-0403,Agencia El Prado S.A.S.,Medellín,P-014,18,,Pagada
+289,FV-000122,2024-01-16,c-0403,Agencia El Prado S.A.S.,Medellín,P-049,20,148000,Pagada
+303,FV-000127,16/01/2024,c-0076,Laboratorios Sinú S.A.,Pereira,P-038,9,$ 2.641.095,Pagada
+305,FV-000128,16/01/2024,C-0138,Grupo Cóndor S.A.S.,Cali,P-017,19,78660,Pagada
+307,FV-000128,45307,C-0138,Grupo Cóndor S.A.S.,Cali,P-008,95,2102825,Pagada
+323,FV-000138,17/01/2024,C-0086 ,Colegio Arrayán S.A.S.,Cali,P-024,52,358800,Pagada
+333,FV-000141,17/01/2024,C-0119,Grupo Orquídea S.A.S.,Barranquilla,P-063,3,2111280,Pagada
+340,FV-000144,17/01/2024,C-0221,Ferretería Santa Fe Ltda.,Barranquilla,P-021,19,159600,Pagada
+344,FV-000145,17/01/2024,C-0284,Instituto Yarumo S.A.S.,Cali,P-061,1,$ 928.600,Pagada
+346,FV-000145,17/01/2024,C-0284,Instituto Yarumo S.A.S.,Cali,P-040,3,814200,Pagada
+354,FV-000147,18/01/2024,C-0290,Fundación Guadalupe S.A.S.,Bogotá,P-018,46,266800,Pagada
+356,FV-000148,18/01/2024,C-0298,Colegio Monserrate S.A.,Cali,P-066,4,1461200,Pagada
+365,FV-000151,18/01/2024,C-0054,Comercializadora Farallones S.A.S.,Barranquilla,P-001,19,258400,Pagada
+377,FV-000156,18/01/2024,C-0225,Servicios Altamira Ltda.,Pereira,P-023,30,270000,Pagada
+378,FV-000156,18/01/2024,C-0225,Servicios Altamira Ltda.,Pereira,P-068,1,311315,Pagada
+389,FV-000161,19/01/2024,C-0179,Centro Médico Quimbaya S.A.S.,Barranquilla,P-011,17,214200,Pagada
+392,FV-000162,19/01/2024,C-0281,Hotel Guayacán S.A.,Cali,P-007,50,1030000,Pagada
+431,FV-000180,20/01/2024,C-0198 ,Consultores Chicamocha S.A.,Bogotá,P-003,40,420000,Pagada
+435,FV-000182,20/01/2024,C-0151,Grupo Orquídea S.A.,Cali,P-057,4,2458220,Pagada
+439,FV-000184,2024-01-22,C-0119,Grupo Orquídea S.A.S.,Barranquilla,P-033,7,930335,Pagada
+452,FV-000187,22/01/2024,C-9979,Laboratorios Santa Fe S.A.,Bogotá,P-020,4,$ 16.340,Pagada
+461,FV-000190,22/01/2024,C-0038,Transportes La Sabana S.A.,Medellín,P-031,29,2044210,Pagada
+462,FV-000191,22/01/2024,C-0241 ,Agencia Ceiba S.A.S.,Pereira,P-005,30,$ 180.000,Pagada
+464,FV-000192,2024-01-22,C-0244,Hotel Guadalupe S.A.S.,Barranquilla,P-037,2,486400,Pagada
+468,FV-000193,22/01/2024,C-0025,Hotel Cóndor Ltda.,Medellín,P-023,31,,Pagada
+476,FV-000196,22/01/2024,c-0149,Notaría El Prado S.A.S.,Barranquilla,P-070,6,4000320,Anulada
+485,FV-000200,2024-01-22,C-0110,Hotel Chicamocha S.A.,Bucaramanga,P-004,128,2035200,Pagada
+500,FV-000208,23/01/2024,C-0181,Colegio La Sabana Ltda.,Pereira,P-014,153,2509200,Pagada
+501,FV-000209,23/01/2024,C-0344,Transportes Orquídea S.A.,Cali,P-011,32,$ 362.880,Pagada
+505,FV-000211,23/01/2024,C-0281 ,Hotel Guayacán S.A.,Santiago de Cali,P-055,10,$ 253.000,Pagada
+513,FV-000215,24/01/2024,C-0323,Clínica Los Andes S.A.,Bogotá,P-005,201,$ 1.145.700,Pagada
+519,FV-000218,24/01/2024,C-0021,Clínica Sinú S.A.S.,Bogotá,P-028,1,,Pagada
+527,FV-000221,24/01/2024,C-0227,Ferretería Nogal S.A.S.,Medellín,P-026,2,7475170,Pagada
+529,FV-000222,24/01/2024,C-0068,Comercializadora Magdalena S.A.S.,MEDELLÍN,P-015,112,1657600,Pagada
+553,FV-000232,25/01/2024,C-0225,Servicios Altamira Ltda.,Cali,P-021,29,243600,Pagada
+572,FV-000240,25/01/2024,C-0038,Transportes La Sabana S.A.,Medellín,P-016,70,492100,Pagada
+582,FV-000242,2024-01-25,C-0086,Colegio Arrayán S.A.S.,Cali,P-061,14,$ 12.350.380,Pagada
+590,FV-000245,25/01/2024,c-0392,Consultores Quimbaya S.A.,Medellín,P-007,88,$ 1.722.160,Pagada
+598,FV-000247,26/01/2024,C-0394,Constructora Quimbaya Ltda.,Medellín,P-014,18,280440,Pagada
+599,FV-000247,26/01/2024,C-0394,Constructora Quimbaya Ltda.,Medellín,P-070,7,$ 4.667.040,Pagada
+603,FV-000248,45317,C-0392,Consultores Quimbaya S.A.,Medellín,P-010,36,$ 234.000,Pagada
+610,FV-000252,2024-01-26,C-0079,Constructora La Sabana Ltda.,Bogotá,P-014,135,2103300,Pagada
+612,FV-000253,26/01/2024,c-0187,Laboratorios El Prado S.A.S.,Cali,P-020,11,44935,Pagada
+613,FV-000253,26/01/2024,C-0187,Laboratorios El Prado S.A.S.,Cali,P-026,5,17704350,Pagada
+626,FV-000260,2024-01-29,C-0129 ,Grupo Palmas S.A.S.,Bucaramanga,P-053,22,135850,Pagada
+628,FV-000261,29/01/2024,C-0139,Constructora Sinú S.A.S.,Medellín,P-041,25,2513250,Pagada
+634,FV-000263,29/01/2024,C-0281,Hotel Guayacán S.A.,Cali,P-026,1,3934300,Pagada
+636,FV-000264,29/01/2024,C-0021,Clínica Sinú S.A.S.,BOGOTÁ,P-030,33 und,3501795,Pagada
+648,FV-000268,45321,C-0179,Centro Médico Quimbaya S.A.S.,Pereira,P-024,35,241500,Pagada
+654,FV-000270,45321,C-0129 ,Grupo Palmas S.A.S.,Barranquilla,P-072,6,1332660,Pagada
+658,FV-000273,2024-01-30,C-0064,Clínica Horizonte S.A.S.,Bucaramanga,P-050,161,2707215,Pagada
+659,FV-000273,30/01/2024,C-0064,Clínica Horizonte S.A.S.,Bucaramanga,P-053,42,259350,Pagada
+682,FV-000281,31/01/2024,C-0119,Grupo Orquídea S.A.S.,Bogotá,P-006,45,209475,Pagada
+689,FV-000283,31/01/2024,C-9211,Grupo Cóndor S.A.S.,Bucaramanga,P-017,69,$ 301.530,Pagada
+709,FV-000291,01/02/2024,c-0341,Inversiones Horizonte S.A.S.,Cali,P-042,4,1986800,Pagada
+726,FV-000297,01/02/2024,C-0332,Transportes Guadalupe Ltda.,BOGOTÁ,P-069,6,315780,Pagada
+731,FV-000298,01/02/2024,C-0106 ,Grupo Magdalena S.A.,Barranquilla,P-025,3,8340840,Pagada
+736,FV-000302,02/02/2024,C-0391,Laboratorios Pacífico S.A.S.,Pereira,P-024,79,$ 490.590,Pagada
+757,FV-000309,02/02/2024,C-0287,Transportes Caribe S.A.,Barranquilla,P-056,68,1447040,Pagada
+762,FV-000311,03/02/2024,C-0248,Alcaldía de Ceiba,Bucaramanga,P-050,161,2707215,Pagada
+764,FV-000312,03/02/2024,C-0081,Laboratorios Guayacán S.A.S.,Medellín,P-017,35,152950,Pagada
+769,FV-000314,03/02/2024,C-0041,Comercializadora Nogal S.A.,Barranquilla,P-073,7,2429245,Pagada
+770,FV-000315,2024-02-03,C-0112,Centro Médico Altamira S.A.S.,Medellín,P-065,2,$ 862.000,Pagada
+780,FV-000320,05/02/2024,C-0315,Centro Médico Yarumo S.A.S.,Pereira,P-052,65,$ 981.825,Pagada
+797,FV-000328,06/02/2024,C-0367 ,Servicios Farallones S.A.S.,Barranquilla,P-008,44,1025200,Pagada
+800,FV-000329,2024-02-06,C-0103,Laboratorios Monserrate S.A.S.,Bogotá,P-069,2,105260,Pagada
+804,FV-000332,06/02/2024,C-0221 ,Ferretería Santa Fe Ltda.,Barranquilla ,P-043,46,2116000,Pagada
+829,FV-000342,2024-02-08,C-0015,Constructora Monserrate S.A.,Bogotá,P-015,178,2502680,Pagada
+830,FV-000343,45330,C-0392,Consultores Quimbaya S.A.,Cali,P-023,35,$ 315.000,Pagada
+831,FV-000343,08/02/2024,C-0392,Consultores Quimbaya S.A.,Cali,P-071,1,1023500,Pagada
+842,FV-000348,08/02/2024,C-0119,Grupo Orquídea S.A.S.,Barranquilla,P-064,1,1061530,Pagada
+848,FV-000350,08/02/2024,C-0043,Clínica Nogal S.A.S.,Medellín,P-047,88,2349160,Pagada
+853,FV-000351,45330,C-0396,Transportes El Prado S.A.S.,bogota ,P-036,19,$ 541.500,Pagada
+861,FV-000354,08/02/2024,C-0187,Laboratorios El Prado S.A.S.,Cali,P-003,5,$ 49.875,Anulada
+865,FV-000357,09/02/2024,C-0031,Fundación Pacífico S.A.S.,Bogotá,P-013,54,604800,Pagada
+868,FV-000358,09/02/2024,C-0179,Centro Médico Quimbaya S.A.S.,Barranquilla,P-037,1,243200,Pagada
+879,FV-000361,09/02/2024,C-0393,Agencia Cóndor S.A.S.,Bogotá,P-014,53,869200,Pagada
+883,FV-000362,09/02/2024,C-0209 ,Constructora Caribe Ltda.,Bogotá,P-013,130,$ 1.383.200,Pagada
+900,FV-000373,12/02/2024,C-0086,Colegio Arrayán S.A.S.,Cali,P-006,17,83300,Pagada
+906,FV-000377,12/02/2024,C-0120,Laboratorios Santa Fe S.A.,Bogotá,P-004,81,1223505,Pagada
+907,FV-000377,12/02/2024,C-0120,Laboratorios Santa Fe S.A.,Bogotá,P-011,138 und,$ 1.651.860,Pagada
+909,FV-000378,12/02/2024,C-0316,Hotel Cafetal S.A.,Medellín,P-020,6,25800,Pagada
+915,FV-000381,12/02/2024,C-0239,Agencia Yarumo S.A.S.,Bogotá,P-051,31 und,$ 638.600,Pagada
+925,FV-000385,13/02/2024,C-0135,Inversiones Tequendama S.A.S.,Barranquilla,P-054,37,344100,Pagada
+958,FV-000399,2024-02-14,C-0316,Hotel Cafetal S.A.,Medellín,P-012,13,230100,Pagada
+959,FV-000399,45336,C-0316,Hotel Cafetal S.A.,Medellín,P-001,38,516800,Pagada
+967,FV-000402,14/02/2024,C-0039,Transportes Llanos S.A.S.,Bucaramanga,P-025,1,2934740,Pagada
+977,FV-000404,14/02/2024,C-0067,Instituto Los Andes Ltda.,Bogotá,P-030,31,3462700,Pagada
+986,FV-000407,14/02/2024,C-0224,Alcaldía de Del Valle,Cali,P-040,5 und,1289150,Pagada
+989,FV-000409,14/02/2024,C-0298,Colegio Monserrate S.A.,Cali,P-019,72,1274400,Pagada
+999,FV-000413,14/02/2024,C-0411 ,Comercializadora Monserrate S.A.S.,Medellín,P-026,1,3934300,Pagada
+1010,FV-000416,15/02/2024,C-0024 ,Hotel Guadalupe Ltda.,Bucaramanga,P-047,15,421500,Pagada
+1012,FV-000418,15/02/2024,C-0119,Grupo Orquídea S.A.S.,Pereira,P-026,7,24786090,Pagada
+1014,FV-000418,15/02/2024,C-0119 ,Grupo Orquídea S.A.S.,Pereira,P-006,166,772730,Pagada
+1018,FV-000419,15/02/2024,C-0044,Hotel Los Andes S.A.S.,Bogotá D.C.,P-072,4,935200,Pagada
+1037,FV-000428,16/02/2024,C-0005,Fundación Chicamocha S.A.S.,Bogotá,P-006,43,210700,Pagada
+1058,FV-000435,16/02/2024,C-0103,Laboratorios Monserrate S.A.S.,Bogotá,P-041,24,2546760,Pagada
+1060,FV-000437,16/02/2024,C-0001,Transportes Bambú S.A.S.,Bogotá,P-040,1,257830,Pagada
+1074,FV-000443,17/02/2024,C-0054 ,Comercializadora Farallones S.A.S.,Barranquilla,P-011,70,882000,Pagada
+1079,FV-000447,17/02/2024,C-0148,Centro Médico Palmas S.A.,MEDELLÍN,P-030,1,111700,Pagada
+1096,FV-000453,19/02/2024,C-0367,Servicios Farallones S.A.S.,Bucaramanga,P-012,14,$ 247.800,Anulada
+1098,FV-000454,19/02/2024,C-0409,Ferretería Santa Fe S.A.S.,Pereira,P-032,8,736000,Pagada
+1101,FV-000455,19/02/2024,C-0115,Transportes Nogal Ltda.,Cali,P-064,5,5028300,Pagada
+1108,FV-000458,19/02/2024,C-0031,Fundación Pacífico S.A.S.,bogota ,P-017,52,239200,Pagada
+1120,FV-000462,20/02/2024,C-0229,Clínica Tequendama S.A.S.,Bogotá,P-031,15,1001700,Pagada
+1124,FV-000463,20/02/2024,C-0288,Grupo Ceiba S.A.S.,Medellín,P-036,14,399000,Pagada
+1127,FV-000464,20/02/2024,C-0086,Colegio Arrayán S.A.S.,CALI,P-014,39,639600,Pagada
+1148,FV-000473,20/02/2024,C-0029,Grupo Pacífico Ltda.,Medellín,P-057,5,3072775,Pagada
+1158,FV-000476,20/02/2024,C-0044,Hotel Los Andes S.A.S.,Bogotá,P-051,23,473800,Pagada
+1161,FV-000477,2024-02-20,C-0406,Alcaldía de Horizonte,Medellín,P-045,17,$ 710.600,Pagada
+1164,FV-000479,21/02/2024,C-0301,Laboratorios Palmas S.A.S.,Bucaramanga,P-009,72,,Pagada
+1168,FV-000480,21/02/2024,C-0038,Transportes La Sabana S.A.,Medellín,P-040,3,$ 773.490,Pagada
+1175,FV-000482,2024-02-21,C-0339,Laboratorios Orquídea S.A.S.,Bogotá,P-060,3,1469175,Anulada
+1182,FV-000485,21/02/2024,C-0199,Distribuciones Cóndor Ltda.,Bogotá,P-007,27,$ 556.200,Pagada
+1201,FV-000492,22/02/2024,C-0064,Clínica Horizonte S.A.S.,Bucaramanga,P-010,54,333450,Pagada
+1204,FV-000493,22/02/2024,C-0270,Fundación Chicamocha Ltda.,Pereira,P-002,56,515200,Pagada
+1217,FV-000501,45345,C-0107,Inversiones Guadalupe S.A.,Cali,P-010,85,552500,Pagada
+1218,FV-000501,23/02/2024,C-0107 ,Inversiones Guadalupe S.A.,Cali,P-005,1,6000,Pagada
+1221,FV-000503,23/02/2024,C-0209,Constructora Caribe Ltda.,Bogotá,P-058,9,1757880,Pagada
+1228,FV-000505,23/02/2024,C-0119,Grupo Orquídea S.A.S.,Barranquilla,P-040,2,515660,Pagada
+1229,FV-000506,23/02/2024,C-0339,Laboratorios Orquídea S.A.S.,Bogotá,P-073,1,347035,Pagada
+1231,FV-000506,23/02/2024,C-0339,Laboratorios Orquídea S.A.S.,Bogotá,P-003,18,179550,Pagada
+1239,FV-000510,24/02/2024,C-0154,Fundación Del Valle S.A.S.,Cali,P-001,76,1033600,Pagada
+1243,FV-000513,24/02/2024,C-0094,Notaría Sinú S.A.S.,Bucaramanga,P-043,3,131100,Pagada
+1258,FV-000518,26/02/2024,C-0139 ,Constructora Sinú S.A.S.,Medellin,P-020,42,171570,Pagada
+1277,FV-000525,2024-02-26,C-0181 ,Colegio La Sabana Ltda.,Bogotá,P-008,20,466000,Pagada
+1307,FV-000537,27/02/2024,C-0111,Alcaldía de Chicamocha,Bogotá,P-021,184,$ 1.468.320,Pagada
+1310,FV-000538,27/02/2024,C-0138,Grupo Cóndor S.A.S.,CALI,P-028,6,$ 10.901.520,Pagada
+1312,FV-000539,27/02/2024,C-0418,Centro Médico Arrayán S.A.S.,Bogotá,P-030,36,4021200,Pagada
+1313,FV-000540,2024-02-27,C-0087 ,Transportes Yarumo S.A.S.,Bogotá,P-065,6,2327400,Pagada
+1315,FV-000541,27/02/2024,C-0153 ,Ferretería Guayacán S.A.S.,Pereira,P-054,10,93000,Pagada
+1328,FV-000544,27/02/2024,C-0231,Grupo Aurora S.A.S.,Bogotá,P-009,185,2126575,Pagada
+1337,FV-000548,28/02/2024,c-0072,Notaría Tequendama S.A.S.,Barranquilla,P-009,212,2436940,Pagada
+1340,FV-000548,28/02/2024,C-0072,Notaría Tequendama S.A.S.,B/quilla,P-012,255,4287825,Pagada
+1347,FV-000551,28/02/2024,C-0103,Laboratorios Monserrate S.A.S.,Bogotá,P-064,2,2123060,Pagada
+1349,FV-000551,28/02/2024,C-0103,Laboratorios Monserrate S.A.S.,Bogotá,P-041,32,3216960,Pagada
+1357,FV-000553,28/02/2024,C-0284 ,Instituto Yarumo S.A.S.,Cali,P-024,67,462300,Pagada
+1362,FV-000555,29/02/2024,C-0341,Inversiones Horizonte S.A.S.,Cali,P-024,13,89700,Pagada
+1391,FV-000569,29/02/2024,C-0191,Clínica Bambú S.A.S.,Pereira,P-013,34,$ 361.760,Pagada
+1393,FV-000570,2024-02-29,C-0192,Inversiones Cordillera S.A.S.,Bogotá,P-006,27,$ 132.300,Pagada
+1401,FV-000574,01/03/2024,C-0180,Agencia Llanos S.A.S.,Bucaramanga,P-069,8,$ 443.200,Pagada
+1402,FV-000574,2024-03-01,C-0180,Agencia Llanos S.A.S.,Bucaramanga,P-004,62,$ 985.800,Pagada
+1416,FV-000581,01/03/2024,C-0115,Transportes Nogal Ltda.,Cali,P-068,10 und,3113150,Pagada
+1436,FV-000589,02/03/2024,C-0301,Laboratorios Palmas S.A.S.,Bucaramanga,P-028,10 und,$ 18.169.200,Pagada
+1441,FV-000591,02/03/2024,C-0086,Colegio Arrayán S.A.S.,Cali,P-005,73,438000,Pagada
+1447,FV-000593,04/03/2024,C-0239,Agencia Yarumo S.A.S.,Bogotá,P-067,3,$ 532.500,Pagada
+1457,FV-000596,04/03/2024,C-0038,Transportes La Sabana S.A.,Medellín,P-038,2,586910,Pagada
+1476,FV-000603,2024-03-04,C-0120,Laboratorios Santa Fe S.A.,Bogotá,P-029,1,1061530,Pagada
+1478,FV-000604,05/03/2024,C-0150,Secretaría de Palmas,Bogotá,P-010,59,364325,Pagada
+1502,FV-000614,45357,C-0208,Alcaldía de Cóndor,Bogota,P-066,6,2082210,Pagada
+1503,FV-000615,06/03/2024,C-0124,Constructora Pacífico S.A.S.,Cali,P-026,7,23409085,Pagada
+1509,FV-000618,06/03/2024,C-0252,Alcaldía de Sinú,Barranquilla,P-071,8,$ 7.369.200,Pagada
+1515,FV-000621,2024-03-07,C-0392,Consultores Quimbaya S.A.,Medellín,P-048,38,$ 889.200,Pagada
+1529,FV-000625,07/03/2024,C-0265 ,Agencia La Sabana S.A.S.,Pereira,P-032,11,1012000,Pagada
+1536,FV-000628,07/03/2024,C-0065,Grupo Monserrate S.A.,Bogotá,P-042,11,4917330,Pagada
+1546,FV-000632,08/03/2024,C-0120,Laboratorios Santa Fe S.A.,Bogotá,P-023,6,48600,Pagada
+1563,FV-000641,09/03/2024,C-0192,Inversiones Cordillera S.A.S.,Bogota,P-060,1,515500,Pagada
+1578,FV-000647,11/03/2024,C-0248,Alcaldía de Ceiba,Bucaramanga,P-014,179,2788820,Pagada
+1587,FV-000652,45362,C-0033,Clínica Aurora S.A.S.,Medellín,P-031,4,281960,Pagada
+1599,FV-000657,11/03/2024,C-0314,Servicios Horizonte Ltda.,Bogotá,P-068,4,1310800,Pagada
+1640,FV-000675,13/03/2024,C-0375,Inversiones Los Andes Ltda.,Medellín,P-042,5,2483500,Pagada
+1644,FV-000676,13/03/2024,C-0301,Laboratorios Palmas S.A.S.,Bucaramanga,P-045,5,$ 209.000,Pagada
+1645,FV-000677,13/03/2024,C-0301 ,Laboratorios Palmas S.A.S.,Bucaramanga,P-060,3,1469175,Pagada
+1681,FV-000693,14/03/2024,C-0287 ,Transportes Caribe S.A.,Barranquilla,P-049,35,246050,Pagada
+1698,FV-000703,15/03/2024,C-0236,Colegio El Prado S.A.S.,Barranquilla,P-030,19,2016185,Pagada
+1698,FV-000703,15/03/2024,C-0236,Colegio El Prado S.A.S.,Barranquilla,P-030,19,2016185,Pagada
+1722,FV-000710,15/03/2024,C-0044,Hotel Los Andes S.A.S.,Bogotá,P-018,8 und,44080,Pagada
+1729,FV-000714,16/03/2024,C-0074,Clínica Arrayán S.A.,Medellín,P-068,1,311315,Pagada
+1738,FV-000716,18/03/2024,C-0224,Alcaldía de Del Valle,Cali,P-002,8,69920,Pagada
+1747,FV-000722,18/03/2024,C-0060,Agencia Santa Fe S.A.,Medellin,P-048,10,234000,Pagada
+1749,FV-000723,18/03/2024,C-0106,Grupo Magdalena S.A.,Barranquilla,P-051,80,1565600,Pagada
+1755,FV-000726,18/03/2024,C-0301,Laboratorios Palmas S.A.S.,Bucaramanga,P-001,275,$ 3.553.000,Pagada
+1764,FV-000731,19/03/2024,C-0180,Agencia Llanos S.A.S.,Bucaramanga,P-043,25,$ 1.150.000,Pagada
+1797,FV-000745,19/03/2024,C-0411,Comercializadora Monserrate S.A.S.,Medellín,P-040,3,814200,Pagada
+1805,FV-000749,20/03/2024,C-0111,Alcaldía de Chicamocha,Bogotá,P-040,2,515660,Pagada
+1810,FV-000750,20/03/2024,C-0129,Grupo Palmas S.A.S.,Barranquilla,P-026,2,$ 7.081.740,Pagada
+1821,FV-000754,20/03/2024,C-0350,Alcaldía de Nogal,Medellín,P-053,67,413725,Pagada
+1824,FV-000757,20/03/2024,C-0086 ,Colegio Arrayán S.A.S.,Cali,P-021,60,504000,Pagada
+1831,FV-000758,2024-03-20,C-0139,Constructora Sinú S.A.S.,Medellín,P-067,3,505875,Pagada
+1837,FV-000760,20/03/2024,C-0238,Clínica Cafetal S.A.S.,Cali,P-058,8,$ 1.562.560,Pagada
+1840,FV-000761,2024-03-20,c-0198,Consultores Chicamocha S.A.,BOGOTÁ,P-011,16,201600,Pagada
+1842,FV-000761,20/03/2024,C-0198,Consultores Chicamocha S.A.,Bogotá,P-066,3,1095900,Pagada
+1848,FV-000763,20/03/2024,C-0384,Notaría Cóndor S.A.S.,Bucaramanga,P-009,159,1731510,Pagada
+1850,FV-000763,20/03/2024,C-0384,Notaría Cóndor S.A.S.,Bucaramanga,P-055,54,1297890,Pagada
+1862,FV-000765,21/03/2024,C-0367,Servicios Farallones S.A.S.,Bucaramanga,P-035,6,783000,Pagada
+1864,FV-000767,21/03/2024,C-0038,Transportes La Sabana S.A.,Medellín,P-021,37,$ 295.260,Pagada
+1878,FV-000772,2024-03-22,C-0137,Inversiones Cafetal S.A.S.,Medellín,P-013,30,336000,Pagada
+1880,FV-000773,22/03/2024,C-0127,Grupo Monserrate S.A.S.,Medellín,P-064,3,3184590,Pagada
+1885,FV-000775,22/03/2024,C-0379,Hotel Farallones S.A.,Pereira,P-031,9,$ 667.800,Pagada
+1906,FV-000783,23/03/2024,C-0231,Grupo Aurora S.A.S.,Bogotá,P-039,20,,Pagada
+1919,FV-000787,45376,C-0129 ,Grupo Palmas S.A.S.,Barranquilla,P-050,69,1160235,Pagada
+1920,FV-000787,25/03/2024,C-0129,Grupo Palmas S.A.S.,Barranquilla,P-021,82,654360,Pagada
+1924,FV-000788,45376,c-0139,Constructora Sinú S.A.S.,Medellín,P-039,10,481650,Pagada
+1927,FV-000790,45376,C-0419,Instituto Llanos S.A.S.,Medellín,P-021,11,92400,Pagada
+1945,FV-000797,25/03/2024,C-0306,Transportes Cafetal S.A.S.,Bogotá,P-019,50,$ 840.750,Pagada
+1957,FV-000800,26/03/2024,C-0341,Inversiones Horizonte S.A.S.,Cali,P-057,1,646900,Pagada
+1959,FV-000802,2024-03-26,C-0321,Clínica Yarumo Ltda.,Bogotá,P-068,6,1867890,Pagada
+1991,FV-000817,27/03/2024,C-0139,Constructora Sinú S.A.S.,Medellín,P-061,8,6685920,Pagada
+1992,FV-000817,27/03/2024,C-0139,Constructora Sinú S.A.S.,Medellín,P-015,27,$ 379.620,Pagada
+1994,FV-000818,27/03/2024,C-0225,Servicios Altamira Ltda.,Cali,P-010,52,$ 338.000,Pagada
+1998,FV-000819,27/03/2024,C-0047,Transportes Orquídea S.A.S.,Cali,P-003,20,199500,Pagada
+2014,FV-000826,28/03/2024,C-0224,Alcaldía de Del Valle,Cali,P-040,3,732780,Pagada
+2019,FV-000830,28/03/2024,C-0239,Agencia Yarumo S.A.S.,Bucaramanga,P-044,33,683100,Pagada
+2030,FV-000835,28/03/2024,C-0281,Hotel Guayacán S.A.,Cali,P-055,31,784300,Pagada
+2038,FV-000838,28/03/2024,C-0161 ,Centro Médico Cafetal Ltda.,Pereira,P-047,66,1854600,Pagada
+2046,FV-000843,29/03/2024,C-0417,Grupo Horizonte S.A.S.,Medellín,P-067,2,337250,Pagada
+2058,FV-000849,29/03/2024,C-0111,Alcaldía de Chicamocha,Bogotá,P-033,49,$ 6.169.590,Pagada
+2060,FV-000850,29/03/2024,c-0051,Comercializadora Yarumo S.A.,Medellín,P-068,4,1310800,Pagada
+2073,FV-000855,30/03/2024,C-0086,Colegio Arrayán S.A.S.,Cali,P-020,4,17200,Pagada
+2077,FV-000857,01/04/2024,C-0298,Colegio Monserrate S.A.,Medellín,P-040,4,1085600,Pagada
+2090,FV-000864,01/04/2024,C-0239,Agencia Yarumo S.A.S.,Bogotá,P-051,115,2369000,Pagada
+2096,FV-000866,01/04/2024,C-0198,Consultores Chicamocha S.A.,Bogotá,P-041,46,4881290,Pagada
+2113,FV-000874,02/04/2024,C-0227,Ferretería Nogal S.A.S.,Medellín,P-017,65,$ 299.000,Pagada
+2115,FV-000874,02/04/2024,C-0227,Ferretería Nogal S.A.S.,Medellín,P-004,41,651900,Pagada
+2119,FV-000875,02/04/2024,C-0363,Hotel Del Valle S.A.S.,Bogotá,P-038,3,926700,Pagada
+2123,FV-000876,02/04/2024,C-0332,Transportes Guadalupe Ltda.,BOGOTÁ,P-064,7,$ 7.039.620,Pagada
+2125,FV-000877,03/04/2024,C-0074,Clínica Arrayán S.A.,Medellín,P-040,2,515660,Pagada
+2145,FV-000887,04/04/2024,C-0341,Inversiones Horizonte S.A.S.,Cali,P-072,4,$ 935.200,Pagada
+2151,FV-000889,04/04/2024,C-0106,Grupo Magdalena S.A.,Barranquilla,P-021,137,$ 1.035.720,Pagada
+2157,FV-000892,2024-04-05,C-0341,Inversiones Horizonte S.A.S.,Santiago de Cali,P-033,17,$ 2.378.300,Pagada
+2162,FV-000895,05/04/2024,C-0189,Centro Médico Caribe S.A.S.,Bucaramanga,P-049,18 und,133200,Pagada
+2174,FV-000898,05/04/2024,C-0129,Grupo Palmas S.A.S.,Barranquilla,P-059,5,5450850,Pagada
+2179,FV-000902,2024-04-06,C-0199,Distribuciones Cóndor Ltda.,Bogotá,P-046,2,73000,Pagada
+2182,FV-000902,06/04/2024,C-0199,Distribuciones Cóndor Ltda.,Bogotá D.C.,P-004,39,620100,Pagada
+2182,FV-000902,06/04/2024,C-0199,Distribuciones Cóndor Ltda.,Bogotá D.C.,P-004,39,620100,Pagada
+2184,FV-000904,06/04/2024,C-0396,Transportes El Prado S.A.S.,Pereira,P-046,44,1525700,Pagada
+2210,FV-000915,08/04/2024,C-0301 ,Laboratorios Palmas S.A.S.,Bucaramanga,P-008,62,$ 1.372.370,Pagada
+2214,FV-000917,09/04/2024,C-0129,Grupo Palmas S.A.S.,Barranquilla ,P-004,116,1752180,Pagada
+2224,FV-000921,2024-04-09,C-0363,Hotel Del Valle S.A.S.,bogota ,P-040,1,271400,Pagada
+2263,FV-000938,10/04/2024,C-9504,Hotel Chicamocha S.A.,Bucaramanga,P-030,10,$ 1.117.000,Pagada
+2266,FV-000940,10/04/2024,C-0012,Agencia Aurora S.A.S.,Bucaramanga,P-042,6,2980200,Pagada
+2279,FV-000946,11/04/2024,C-0032,Comercializadora Orquídea S.A.S.,Medellín,P-013,15,168000,Pagada
+2282,FV-000947,11/04/2024,C-0038 ,Transportes La Sabana S.A.,Medellín,P-018,60,330600,Pagada
+2283,FV-000947,2024-04-11,C-0038,Transportes La Sabana S.A.,Medellín,P-063,13,8667360,Pagada
+2286,FV-000949,2024-04-11,C-0282,Secretaría de Los Andes,Medellín,P-019,123,2068245,Pagada
+2292,FV-000950,12/04/2024,C-0288,Grupo Ceiba S.A.S.,Bucaramanga,P-054,20,176700,Pagada
+2313,FV-000960,13/04/2024,C-0127,Grupo Monserrate S.A.S.,Medellín,P-064,4,4246120,Pagada
+2319,FV-000961,13/04/2024,c-0181 ,Colegio La Sabana Ltda.,Bogotá,P-069,12,664800,Pagada
+2329,FV-000965,15/04/2024,C-0154,Fundación Del Valle S.A.S.,Cali,P-065,1,$ 431.000,Pagada
+2333,FV-000966,15/04/2024,C-0238,Clínica Cafetal S.A.S.,Cali,P-057,1,614555,Pagada
+2338,FV-000969,15/04/2024,C-0392,Consultores Quimbaya S.A.,MEDELLÍN,P-012,16,$ 269.040,Pagada
+2341,FV-000971,45398,c-0135,Inversiones Tequendama S.A.S.,Bogotá,P-056,10,224000,Pagada
+2344,FV-000971,16/04/2024,C-0135,Inversiones Tequendama S.A.S.,Bogotá,P-013,36,403200,Pagada
+2360,FV-000977,16/04/2024,c-0129,Grupo Palmas S.A.S.,B/quilla,P-025,3,8340840,Pagada
+2360,FV-000977,16/04/2024,c-0129,Grupo Palmas S.A.S.,B/quilla,P-025,3,8340840,Pagada
+2361,FV-000978,2024-04-17,C-0144 ,Transportes Horizonte S.A.,bogota ,P-047,72,1922040,Pagada
+2375,FV-000983,2024-04-17,C-0320,Instituto Guadalupe S.A.,CALI,P-058,1,$ 205.600,Pagada
+2380,FV-000986,45399,C-0302,Clínica Farallones S.A.,Medellín,P-023,76,,Anulada
+2385,FV-000989,18/04/2024,C-0135 ,Inversiones Tequendama S.A.S.,Medellin,P-046,8,292000,Pagada
+2387,FV-000990,18/04/2024,C-0129 ,Grupo Palmas S.A.S.,B/quilla,P-024,28,183540,Pagada
+2388,FV-000990,18/04/2024,C-0129,Grupo Palmas S.A.S.,Barranquilla,P-001,92,1188640,Pagada
+2414,FV-001000,2024-04-19,C-0213,Laboratorios La Sabana S.A.S.,Cali,P-007,143,2798510,Pagada
+2418,FV-001001,2024-04-19,C-0179,Centro Médico Quimbaya S.A.S.,Barranquilla ,P-006,23,112700,Pagada
+2446,FV-001011,22/04/2024,C-0181,Colegio La Sabana Ltda.,Bogotá,P-011,51,$ 642.600,Pagada
+2449,FV-001012,22/04/2024,C-9730,Consultores Quimbaya S.A.,Medellín,P-061,4,3714400,Pagada
+2454,FV-001016,22/04/2024,C-0240,Alcaldía de Yarumo,Pereira,P-071,8,$ 7.369.200,Pagada
+2460,FV-001018,22/04/2024,C-0248,Alcaldía de Ceiba,Bucaramanga,P-016,318,2235540,Pagada
+2467,FV-001023,22/04/2024,C-0386,Colegio Guadalupe S.A.,Barranquilla,P-008,65,1514500,Pagada
+2472,FV-001025,2024-04-23,C-0169,Comercializadora Farallones S.A.,Medellín,P-006,16,$ 78.400,Pagada
+2482,FV-001028,23/04/2024,C-0417,Grupo Horizonte S.A.S.,MEDELLÍN,P-020,10,$ 40.850,Pagada
+2488,FV-001030,23/04/2024,C-0298,Colegio Monserrate S.A.,Cali,P-018,54,313200,Pagada
+2494,FV-001032,23/04/2024,c-0281 ,Hotel Guayacán S.A.,CALI,P-008,39,908700,Pagada
+2501,FV-001034,23/04/2024,C-0317,Hotel Farallones Ltda.,Bucaramanga,P-051,7,144200,Pagada
+2512,FV-001040,23/04/2024,C-0287,Transportes Caribe S.A.,Barranquilla ,P-008,43,951805,Pagada
+2513,FV-001041,24/04/2024,C-0139,Constructora Sinú S.A.S.,Medellín,P-042,2,943730,Pagada
+2520,FV-001046,24/04/2024,c-0301,Laboratorios Palmas S.A.S.,Bucaramanga,P-043,14,611800,Pagada
+2539,FV-001054,25/04/2024,C-0229,Clínica Tequendama S.A.S.,Bogotá,P-064,1,$ 1.061.530,Pagada
+2551,FV-001059,25/04/2024,C-0284,Instituto Yarumo S.A.S.,Cali,P-069,24,1329600,Pagada
+2562,FV-001064,26/04/2024,C-0119 ,Grupo Orquídea S.A.S.,Barranquilla,P-023,1,8550,Pagada
+2571,FV-001070,26/04/2024,C-0124,Constructora Pacífico S.A.S.,Cali,P-065,4,1637800,Pagada
+2572,FV-001070,26/04/2024,C-0124,Constructora Pacífico S.A.S.,Cali,P-033,12,1594860,Pagada
+2576,FV-001072,27/04/2024,C-0120 ,Laboratorios Santa Fe S.A.,Bogotá,P-012,14,$ 235.410,Pagada
+2581,FV-001073,27/04/2024,C-0339,Laboratorios Orquídea S.A.S.,Bogotá,P-057,12,6986520,Pagada
+2594,FV-001078,29/04/2024,C-9387,Transportes La Sabana S.A.,Medellín,P-004,164,2477220,Pagada
+2603,FV-001082,29/04/2024,C-0051,Comercializadora Yarumo S.A.,Medellín,P-008,40,885400,Pagada
+2604,FV-001082,29/04/2024,C-0051,Comercializadora Yarumo S.A.,Medellín,P-028,2,4037600,Pagada
+2609,FV-001083,29/04/2024,C-0129,Grupo Palmas S.A.S.,Barranquilla ,P-001,173,2235160,Pagada
+2625,FV-001088,30/04/2024,C-0301,Laboratorios Palmas S.A.S.,Bucaramanga,P-057,3,1843665,Pagada
+2630,FV-001090,30/04/2024,C-0076,Laboratorios Sinú S.A.,Bogotá,P-029,9,9050940,Pagada
+2641,FV-001095,30/04/2024,C-0154,Fundación Del Valle S.A.S.,Cali,P-014,22,$ 360.800,Pagada
+2644,FV-001096,30/04/2024,C-0129,Grupo Palmas S.A.S.,Barranquilla,P-034,27,1662120,Pagada
+2650,FV-001098,30/04/2024,C-0038,Transportes La Sabana S.A.,Medellín,P-001,71,917320,Pagada
+2685,FV-001112,03/05/2024,C-0076,Laboratorios Sinú S.A.,Pereira,P-053,40,247000,Pagada
+2699,FV-001117,03/05/2024,C-0007,Colegio Guadalupe Ltda.,Bogotá,P-062,2,3173800,Pagada
+2719,FV-001125,06/05/2024,C-0410,Comercializadora Ceiba S.A.S.,Bogotá,P-066,2,730600,Pagada
+2731,FV-001129,06/05/2024,C-0021,Clínica Sinú S.A.S.,bogota ,P-039,4,192660,Pagada
+2739,FV-001132,06/05/2024,C-0325,Grupo Los Andes S.A.S.,MEDELLÍN,P-006,48,223440,Pagada
+2741,FV-001133,07/05/2024,C-0409,Ferretería Santa Fe S.A.S.,Pereira,P-034,4,259200,Pagada
+2755,FV-001137,07/05/2024,C-0411,Comercializadora Monserrate S.A.S.,Medellín,P-035,3,391500,Pagada
+2768,FV-001142,08/05/2024,c-0387,Consultores Chicamocha Ltda.,Bucaramanga,P-029,1,,Pagada
+2769,FV-001142,08/05/2024,C-0387,Consultores Chicamocha Ltda.,Bucaramanga,P-053,73,450775,Pagada
+2770,FV-001143,08/05/2024,C-0289,Agencia Cordillera S.A.S.,Medellin,P-069,6,332400,Pagada
+2770,FV-001143,08/05/2024,C-0289,Agencia Cordillera S.A.S.,Medellin,P-069,6,332400,Pagada
+2773,FV-001143,08/05/2024,C-0289,Agencia Cordillera S.A.S.,Medellín,P-024,24,165600,Pagada
+2779,FV-001145,08/05/2024,C-0406,Alcaldía de Horizonte,Medellín,P-065,10,4094500,Pagada
+2802,FV-001153,08/05/2024,C-0325,Grupo Los Andes S.A.S.,Medellín,P-029,2,$ 2.123.060,Pagada
+2804,FV-001154,08/05/2024,C-0137,Inversiones Cafetal S.A.S.,Barranquilla,P-057,1,646900,Pagada
+2816,FV-001158,08/05/2024,C-0038,Transportes La Sabana S.A.,Medellín,P-041,4,424460,Pagada
+2822,FV-001161,09/05/2024,C-0129,Grupo Palmas S.A.S.,Barranquilla,P-026,1,3737585,Pagada
+2834,FV-001166,09/05/2024,C-0119,Grupo Orquídea S.A.S.,Barranquilla,P-041,14,1407420,Pagada
+2839,FV-001167,09/05/2024,C-0239,Agencia Yarumo S.A.S.,Bogotá,P-072,1,$ 233.800,Pagada
+2879,FV-001183,10/05/2024,C-0297,Servicios Ceiba S.A.,Barranquilla,P-069,3,$ 166.200,Pagada
+2882,FV-001184,10/05/2024,C-0225,Servicios Altamira Ltda.,Cali,P-032,2,184000,Pagada
+2888,FV-001186,10/05/2024,C-0225,Servicios Altamira Ltda.,Cali,P-049,71,525400,Pagada
+2890,FV-001187,11/05/2024,C-0086,Colegio Arrayán S.A.S.,Santiago de Cali,P-037,2,$ 462.080,Pagada
+2891,FV-001187,11/05/2024,C-0086,Colegio Arrayán S.A.S.,Cali,P-015,117,$ 1.645.020,Pagada
+2892,FV-001188,11/05/2024,C-0054,Comercializadora Farallones S.A.S.,Barranquilla,P-073,3,1041105,Pagada
+2906,FV-001191,13/05/2024,C-0199,Distribuciones Cóndor Ltda.,Bogotá,P-063,5,3704000,Pagada
+2933,FV-001202,14/05/2024,C-0173,Alcaldía de Palmas,Cali,P-069,23,1210490,Pagada
+2935,FV-001204,14/05/2024,C-0392,Consultores Quimbaya S.A.,Medellin,P-031,7,519400,Pagada
+2944,FV-001209,2024-05-15,C-0036,Secretaría de Guadalupe,Cali,P-057,12,6986520,Pagada
+2966,FV-001221,16/05/2024,C-0120,Laboratorios Santa Fe S.A.,Bogotá,P-043,65,2840500,Pagada
+2971,FV-001223,16/05/2024,C-0332,Transportes Guadalupe Ltda.,Bogotá D.C.,P-066,6,2082210,Pagada
+2975,FV-001224,16/05/2024,C-0021 ,Clínica Sinú S.A.S.,Bogotá,P-011,43,514710,Pagada
+2977,FV-001224,16/05/2024,C-0021,Clínica Sinú S.A.S.,Bogotá,P-070,6,4222560,Pagada
+2984,FV-001229,17/05/2024,C-0040,Instituto Caribe S.A.,Barranquilla,P-056,31,694400,Pagada
+2987,FV-001231,17/05/2024,C-0138,Grupo Cóndor S.A.S.,Cali,P-003,50 und,498750,Pagada
+2998,FV-001237,17/05/2024,C-0216,Agencia Del Valle S.A.S.,Bucaramanga,P-066,6,2191800,Pagada
+3011,FV-001242,45430,C-0016,Ferretería La Sabana Ltda.,Bogotá,P-057,4,,Pagada
+3012,FV-001243,20/05/2024,C-0375,Inversiones Los Andes Ltda.,Bogotá,P-068,6,$ 1.966.200,Pagada
+3055,FV-001257,20/05/2024,C-0312,Laboratorios Cordillera Ltda.,Bogotá,P-019,260,$ 4.371.900,Pagada
+3056,FV-001257,20/05/2024,C-0312,Laboratorios Cordillera Ltda.,Bogotá,P-044,114,2241810,Pagada
+3057,FV-001257,20/05/2024,C-0312,Laboratorios Cordillera Ltda.,Bogotá,P-023,101,818100,Pagada
+3064,FV-001259,21/05/2024,C-0180,Agencia Llanos S.A.S.,Bucaramanga,P-011,58,694260,Pagada
+3073,FV-001264,21/05/2024,C-0374,Fundación Llanos S.A.S.,bogota ,P-003,26 und,$ 273.000,Pagada
+3075,FV-001265,21/05/2024,c-0139,Constructora Sinú S.A.S.,Medellín,P-010,32,$ 197.600,Pagada
+3077,FV-001266,21/05/2024,C-0115,Transportes Nogal Ltda.,Santiago de Cali,P-065,8,$ 3.275.600,Pagada
+3087,FV-001271,21/05/2024,C-0240,Alcaldía de Yarumo,Pereira,P-043,9,$ 393.300,Pagada
+3093,FV-001274,21/05/2024,C-0260,Alcaldía de Los Andes,Medellín,P-014,83,1293140,Pagada
+3094,FV-001274,21/05/2024,C-0260,Alcaldía de Los Andes,Medellín,P-072,6,1332660,Pagada
+3110,FV-001281,22/05/2024,C-0133,Transportes Nogal S.A.,Medellín,P-015,112,1491840,Pagada
+3119,FV-001285,23/05/2024,C-0248,Alcaldía de Ceiba,Bucaramanga,P-045,26,$ 1.086.800,Pagada
+3129,FV-001288,23/05/2024,C-0312,Laboratorios Cordillera Ltda.,Bogotá,P-025,1,2934740,Pagada
+3146,FV-001293,24/05/2024,C-0065,Grupo Monserrate S.A.,Bogotá,P-067,2,337250,Pagada
+3159,FV-001298,24/05/2024,C-0187,Laboratorios El Prado S.A.S.,Cali,P-061,6,5014440,Pagada
+3165,FV-001302,2024-05-24,C-0041,Comercializadora Nogal S.A.,Barranquilla,P-001,10,136000,Pagada
+3165,FV-001302,2024-05-24,C-0041,Comercializadora Nogal S.A.,Barranquilla,P-001,10,136000,Pagada
+3166,FV-001302,24/05/2024,C-0041,Comercializadora Nogal S.A.,B/quilla,P-030,3,$ 335.100,Pagada
+3175,FV-001306,2024-05-25,C-0051,Comercializadora Yarumo S.A.,Medellín,P-009,14,169400,Pagada
+3188,FV-001312,2024-05-27,C-0265,Agencia La Sabana S.A.S.,Pereira,P-072,2,$ 467.600,Pagada
+3205,FV-001318,27/05/2024,C-0164,Fundación Bambú Ltda.,Cali,P-053,86,559000,Pagada
+3212,FV-001321,27/05/2024,C-0119,Grupo Orquídea S.A.S.,Barranquilla,P-034,5,307800,Pagada
+3219,FV-001323,28/05/2024,C-0298,Colegio Monserrate S.A.,Cali,P-018,36 und,208800,Pagada
+3223,FV-001324,28/05/2024,C-0171,Colegio Tequendama S.A.S.,Pereira,P-020,92,395600,Pagada
+3228,FV-001326,28/05/2024,C-0119,Grupo Orquídea S.A.S.,Medellín,P-062,1,1428210,Pagada
+3229,FV-001326,28/05/2024,C-0119,Grupo Orquídea S.A.S.,Medellín,P-006,169,786695,Pagada
+3312,FV-001361,30/05/2024,C-0168,Transportes Yarumo Ltda.,Barranquilla,P-038,1,293455,Pagada
+3315,FV-001362,2024-05-30,C-0356,Clínica Arrayán S.A.S.,Medellín,P-025,9,$ 25.022.520,Pagada
+3316,FV-001362,30/05/2024,C-0356,Clínica Arrayán S.A.S.,Medellín,P-044,44,865260,Pagada
+3332,FV-001369,31/05/2024,C-0390,Instituto Magdalena S.A.S.,Pereira,P-005,110,660000,Pagada
+3334,FV-001369,31/05/2024,c-0390,Instituto Magdalena S.A.S.,Pereira,P-053,10,65000,Pagada
+3338,FV-001373,31/05/2024,C-0128,Comercializadora Guadalupe S.A.S.,Cali,P-011,23,289800,Pagada
+3349,FV-001376,01/06/2024,C-0401,Distribuciones Guayacán S.A.S.,Barranquilla,P-002,37,323380,Pagada
+3363,FV-001380,2024-06-03,c-0271,Alcaldía de Guayacán,Bogotá,P-016,62,435860,Anulada
+3366,FV-001381,03/06/2024,C-0229,Clínica Tequendama S.A.S.,Bogotá,P-050,43,$ 723.045,Pagada
+3368,FV-001382,2024-06-03,C-0301,Laboratorios Palmas S.A.S.,Bucaramanga,P-071,1,$ 972.325,Pagada
+3369,FV-001383,03/06/2024,C-0139,Constructora Sinú S.A.S.,Medellín,P-048,26,577980,Pagada
+3382,FV-001388,03/06/2024,C-0106,Grupo Magdalena S.A.,Barranquilla,P-065,7,2866150,Pagada
+3398,FV-001395,04/06/2024,C-0120,Laboratorios Santa Fe S.A.,Bogotá,P-044,102,2005830,Pagada
+3406,FV-001399,05/06/2024,C-0001,Transportes Bambú S.A.S.,Bogotá,P-030,17,1803955,Pagada
+3417,FV-001404,05/06/2024,C-0224,Alcaldía de Del Valle,Cali,P-063,4,2815040,Pagada
+3424,FV-001407,05/06/2024,C-0181,Colegio La Sabana Ltda.,Pereira,P-016,74,547600,Pagada
+3427,FV-001409,05/06/2024,C-0038,Transportes La Sabana S.A.,Medellín,P-007,30,587100,Pagada
+3442,FV-001414,06/06/2024,C-0317 ,Hotel Farallones Ltda.,Barranquilla,P-002,91,837200,Pagada
+3455,FV-001419,07/06/2024,C-0029,Grupo Pacífico Ltda.,Medellín,P-041,12,$ 1.273.380,Pagada
+3476,FV-001427,10/06/2024,C-0367,Servicios Farallones S.A.S.,Bucaramanga,P-001,46,$ 625.600,Pagada
+3483,FV-001430,10/06/2024,C-0120,Laboratorios Santa Fe S.A.,bogota ,P-027,14,8150940,Pagada
+3487,FV-001432,10/06/2024,C-0111 ,Alcaldía de Chicamocha,Bogotá,P-008,203,4493405,Pagada
+3495,FV-001437,2024-06-11,C-0363,Hotel Del Valle S.A.S.,Bogotá,P-017,69,317400,Pagada
+3496,FV-001438,11/06/2024,C-0353,Clínica Los Andes S.A.S.,Pereira,P-021,39,311220,Pagada
+3496,FV-001438,11/06/2024,C-0353,Clínica Los Andes S.A.S.,Pereira,P-021,39,311220,Pagada
+3507,FV-001444,12/06/2024,C-0187,Laboratorios El Prado S.A.S.,Cali,P-001,43,555560,Pagada
+3509,FV-001445,12/06/2024,C-0150,Secretaría de Palmas,Bogota,P-008,181,4006435,Pagada
+3519,FV-001450,12/06/2024,C-0021 ,Clínica Sinú S.A.S.,Bogotá,P-018,18,99180,Pagada
+3530,FV-001455,13/06/2024,C-0149,Notaría El Prado S.A.S.,Barranquilla,P-041,19 und,2016185,Pagada
+3541,FV-001457,13/06/2024,C-0400 ,Ferretería El Prado S.A.,Medellín,P-047,13,365300,Pagada
+3545,FV-001458,45456,C-0225,Servicios Altamira Ltda.,Cali,P-009,61,$ 738.100,Pagada
+3546,FV-001458,13/06/2024,C-0225,Servicios Altamira Ltda.,Cali,P-010,13,84500,Pagada
+3565,FV-001466,13/06/2024,C-0129,Grupo Palmas S.A.S.,Barranquilla,P-030,27,2865105,Pagada
+3568,FV-001466,13/06/2024,C-0129,Grupo Palmas S.A.S.,Barranquilla,P-031,17,1198330,Pagada
+3568,FV-001466,13/06/2024,C-0129,Grupo Palmas S.A.S.,Barranquilla,P-031,17,1198330,Pagada
+3571,FV-001468,14/06/2024,C-0106,Grupo Magdalena S.A.,Barranquilla,P-059,3,3452205,Pagada
+3583,FV-001474,14/06/2024,C-0327,Fundación Guayacán Ltda.,Barranquilla,P-053,59,383500,Pagada
+3589,FV-001476,2024-06-14,C-0086,Colegio Arrayán S.A.S.,Cali,P-039,23,1166100,Pagada
+3591,FV-001477,45457,C-0278,Instituto Pacífico S.A.,Bogota,P-072,4,935200,Pagada
+3594,FV-001479,15/06/2024,C-0079,Constructora La Sabana Ltda.,Bogotá,P-015,26,$ 365.560,Pagada
+3596,FV-001480,15/06/2024,C-0135 ,Inversiones Tequendama S.A.S.,B/quilla,P-023,53,477000,Pagada
+3602,FV-001483,17/06/2024,C-0301,Laboratorios Palmas S.A.S.,Bucaramanga,P-060,9,4407525,Pagada
+3608,FV-001485,17/06/2024,C-0411,Comercializadora Monserrate S.A.S.,Medellín,P-032,3,262200,Pagada
+3623,FV-001490,45460,C-0218,Fundación Del Valle Ltda.,Pereira,P-023,20,$ 180.000,Pagada
+3628,FV-001493,2024-06-17,C-0139,Constructora Sinú S.A.S.,Medellín,P-048,21,466830,Pagada
+3630,FV-001493,17/06/2024,C-9513,Constructora Sinú S.A.S.,Medellín,P-065,9,3685050,Pagada
+3647,FV-001500,18/06/2024,c-0275,Laboratorios Guadalupe S.A.,Pereira,P-041,43,4562945,Pagada
+3656,FV-001505,18/06/2024,C-0221,Ferretería Santa Fe Ltda.,Barranquilla,P-038,3,926700,Pagada
+3658,FV-001505,18/06/2024,c-0221,Ferretería Santa Fe Ltda.,Barranquilla,P-010,44,286000,Pagada
+3659,FV-001506,19/06/2024,C-0221,Ferretería Santa Fe Ltda.,Barranquilla,P-024,59 und,407100,Pagada
+3673,FV-001512,19/06/2024,C-0320,Instituto Guadalupe S.A.,Cali,P-011,36,453600,Pagada
+3680,FV-001515,19/06/2024,C-0142,Colegio Caribe S.A.,Bogotá,P-051,49,1009400,Pagada
+3735,FV-001537,22/06/2024,C-0221,Ferretería Santa Fe Ltda.,Barranquilla,P-034,13,842400,Pagada
+3778,FV-001553,26/06/2024,C-0244,Hotel Guadalupe S.A.S.,Barranquilla,P-027,4,2587600,Pagada
+3784,FV-001557,26/06/2024,C-0417,Grupo Horizonte S.A.S.,Medellín,P-028,9,16352280,Pagada
+3787,FV-001558,2024-06-26,C-0200,Hotel Quimbaya S.A.S.,Medellín,P-061,4,,Pagada
+3795,FV-001561,26/06/2024,C-0239,Agencia Yarumo S.A.S.,Bogotá,P-064,2,2234800,Pagada
+3813,FV-001569,45470,C-0342 ,Laboratorios Quimbaya S.A.S.,Pereira,P-055,122,2932270,Pagada
+3815,FV-001569,27/06/2024,C-0342,Laboratorios Quimbaya S.A.S.,Pereira,P-011,18,215460,Pagada
+3831,FV-001574,28/06/2024,C-0154,Fundación Del Valle S.A.S.,Cali,P-056,56,,Pagada
+3842,FV-001578,45471,C-0284,Instituto Yarumo S.A.S.,CALI,P-006,21,102900,Pagada
+3864,FV-001588,2024-07-01,C-0078,Servicios Monserrate Ltda.,Medellín,P-062,2,3173800,Pagada
+3868,FV-001590,01/07/2024,C-0417,Grupo Horizonte S.A.S.,Medellín,P-022,65,$ 166.725,Pagada
+3869,FV-001590,01/07/2024,C-0417,Grupo Horizonte S.A.S.,Medellin,P-034,28,1723680,Pagada
+3886,FV-001597,01/07/2024,C-0129,Grupo Palmas S.A.S.,B/quilla,P-038,9,2502090,Pagada
+3900,FV-001603,02/07/2024,c-0161,Centro Médico Cafetal Ltda.,Barranquilla,P-032,4,$ 368.000,Pagada
+3926,FV-001613,03/07/2024,C-9822,Laboratorios La Sabana S.A.S.,Santiago de Cali,P-029,5,4748950,Pagada
+3935,FV-001617,03/07/2024,C-0008,Ferretería El Prado Ltda.,Pereira,P-012,68,1203600,Anulada
+3939,FV-001619,03/07/2024,C-0198,Consultores Chicamocha S.A.,Bogotá,P-003,46,483000,Pagada
+3944,FV-001620,03/07/2024,C-0112,Centro Médico Altamira S.A.S.,Medellín,P-071,1,1023500,Pagada
+3952,FV-001624,45477,C-0342,Laboratorios Quimbaya S.A.S.,Bucaramanga,P-021,33,$ 263.340,Pagada
+3967,FV-001629,04/07/2024,C-0129,Grupo Palmas S.A.S.,Barranquilla,P-034,11,677160,Pagada
+3972,FV-001632,04/07/2024,C-0350,Alcaldía de Nogal,Medellín,P-068,15,4669725,Pagada
+3982,FV-001636,04/07/2024,C-0074,Clínica Arrayán S.A.,Medellín,P-073,2,$ 694.070,Pagada
+4000,FV-001646,2024-07-06,C-0274 ,Inversiones Aurora S.A.S.,Pereira,P-002,51,469200,Pagada
+4006,FV-001647,06/07/2024,C-0024,Hotel Guadalupe Ltda.,Bucaramanga,P-041,31,3462700,Pagada
+4007,FV-001647,06/07/2024,C-0024,Hotel Guadalupe Ltda.,Bucaramanga,P-036,16,480000,Pagada
+4009,FV-001648,06/07/2024,C-0224,Alcaldía de Del Valle,Cali,P-011,75,897750,Pagada
+4040,FV-001660,2024-07-10,C-0129,Grupo Palmas S.A.S.,Barranquilla,P-050,162,2724030,Pagada
+4045,FV-001661,10/07/2024,C-0128,Comercializadora Guadalupe S.A.S.,Cali,P-007,7,144200,Pagada
+4059,FV-001668,10/07/2024,C-0417,Grupo Horizonte S.A.S.,Medellín,P-003,34,$ 339.150,Pagada
+4075,FV-001675,11/07/2024,C-0137,Inversiones Cafetal S.A.S.,Barranquilla,P-070,2,1481600,Pagada
+4081,FV-001678,11/07/2024,C-0139,Constructora Sinú S.A.S.,Medellín,P-069,32,$ 1.684.160,Pagada
+4099,FV-001684,12/07/2024,C-0332,Transportes Guadalupe Ltda.,Bogotá,P-018,1,5510,Pagada
+4121,FV-001694,12/07/2024,C-0301 ,Laboratorios Palmas S.A.S.,Bucaramanga,P-057,1,614555,Pagada
+4131,FV-001699,13/07/2024,C-0120,Laboratorios Santa Fe S.A.,BOGOTÁ,P-031,11,775390,Pagada
+4136,FV-001701,13/07/2024,C-0034,Inversiones Chicamocha S.A.,Bogotá,P-033,5,699500,Pagada
+4153,FV-001707,15/07/2024,C-0311,Agencia Cordillera Ltda.,Bucaramanga,P-034,8,518400,Pagada
+4154,FV-001708,15/07/2024,C-0386 ,Colegio Guadalupe S.A.,Barranquilla,P-021,36,302400,Pagada
+4168,FV-001715,16/07/2024,C-0031 ,Fundación Pacífico S.A.S.,Bogotá D.C.,P-022,111,284715,Pagada
+4185,FV-001723,45490,C-0021,Clínica Sinú S.A.S.,Bogotá,P-072,5,1110550,Pagada
+4191,FV-001727,2024-07-17,C-0221 ,Ferretería Santa Fe Ltda.,Barranquilla,P-003,8,84000,Pagada
+4219,FV-001739,19/07/2024,C-0085,Laboratorios Pacífico S.A.,Bogotá,P-035,38,$ 4.711.050,Pagada
+4238,FV-001747,19/07/2024,C-0341 ,Inversiones Horizonte S.A.S.,Cali,P-007,25,515000,Pagada
+4284,FV-001762,23/07/2024,C-0285,Constructora Llanos S.A.S.,Medellín,P-038,2,556020,Pagada
+4292,FV-001767,23/07/2024,C-0298 ,Colegio Monserrate S.A.,Cali,P-013,49,548800,Pagada
+4305,FV-001773,24/07/2024,C-0129,Grupo Palmas S.A.S.,Barranquilla,P-022,67,171855,Pagada
+4359,FV-001794,2024-07-26,C-0331,Transportes Cóndor S.A.S.,Bucaramanga,P-037,3,$ 693.120,Pagada
+4374,FV-001801,26/07/2024,C-0139,Constructora Sinú S.A.S.,Medellin,P-025,6,16681680,Pagada
+4377,FV-001802,26/07/2024,C-0106 ,Grupo Magdalena S.A.,Barranquilla,P-048,33,733590,Pagada
+4382,FV-001803,45499,C-0243,Centro Médico Cóndor S.A.S.,Bogotá,P-029,4,4246120,Pagada
+4386,FV-001805,2024-07-27,C-0418,Centro Médico Arrayán S.A.S.,Bogotá D.C.,P-066,6,2191800,Pagada
+4400,FV-001810,45502,c-0119,Grupo Orquídea S.A.S.,Barranquilla,P-019,7,111510,Pagada
+4402,FV-001810,29/07/2024,c-0119,Grupo Orquídea S.A.S.,Barranquilla,P-027,11,6048515,Pagada
+4415,FV-001814,29/07/2024,C-9873,Fundación Chicamocha Ltda.,Cali,P-064,1,1117400,Pagada
+4444,FV-001825,31/07/2024,C-0137,Inversiones Cafetal S.A.S.,B/quilla,P-020,13,55900,Pagada
+4445,FV-001826,31/07/2024,C-0168,Transportes Yarumo Ltda.,Barranquilla,P-039,2,96330,Pagada
+4450,FV-001827,31/07/2024,C-0138,Grupo Cóndor S.A.S.,Cali,P-031,22,1550780,Pagada
+4456,FV-001831,2024-07-31,C-0172,Alcaldía de Aurora,Medellín,P-046,10,346750,Pagada
+4468,FV-001834,31/07/2024,C-9241,Hotel Quimbaya S.A.S.,Medellín,P-004,67,1065300,Pagada
+4491,FV-001844,01/08/2024,C-0111,Alcaldía de Chicamocha,Bogotá,P-051,42,821940,Pagada
+4505,FV-001850,02/08/2024,C-0023,Hotel Ceiba Ltda.,Bucaramanga,P-063,2,1481600,Pagada
+4512,FV-001853,2024-08-02,C-0133 ,Transportes Nogal S.A.,Medellín,P-050,154,2589510,Pagada
+4513,FV-001854,2024-08-02,C-0062,Secretaría de Chicamocha,Barranquilla ,P-068,4,,Pagada
+4520,FV-001857,02/08/2024,C-0274,Inversiones Aurora S.A.S.,Pereira,P-052,26,392730,Pagada
+4520,FV-001857,02/08/2024,C-0274,Inversiones Aurora S.A.S.,Pereira,P-052,26,392730,Pagada
+4526,FV-001859,02/08/2024,C-0079,Constructora La Sabana Ltda.,Bogotá,P-064,1,$ 1.005.660,Pagada
+4537,FV-001864,2024-08-05,C-0227,Ferretería Nogal S.A.S.,Medellín,P-068,3,983100,Anulada
+4543,FV-001866,05/08/2024,C-0260,Alcaldía de Los Andes,Bucaramanga,P-031,10,704900,Pagada
+4554,FV-001868,05/08/2024,C-0301,Laboratorios Palmas S.A.S.,Bucaramanga,P-040,6,$ 1.465.560,Pagada
+4574,FV-001874,05/08/2024,C-0340,Laboratorios Llanos S.A.S.,Bogotá,P-053,65,401375,Pagada
+4587,FV-001880,05/08/2024,C-0399,Ferretería Horizonte S.A.,Cali,P-018,55,319000,Pagada
+4598,FV-001884,06/08/2024,C-0106,Grupo Magdalena S.A.,Barranquilla,P-055,98,2355430,Pagada
+4616,FV-001893,08/08/2024,C-0332,Transportes Guadalupe Ltda.,Bogotá,P-056,4,85120,Pagada
+4620,FV-001893,2024-08-08,C-0332,Transportes Guadalupe Ltda.,Bogotá,P-053,44,$ 271.700,Pagada
+4632,FV-001899,08/08/2024,C-0241,Agencia Ceiba S.A.S.,Pereira,P-041,3,335100,Pagada
+4650,FV-001907,09/08/2024,C-0007,Colegio Guadalupe Ltda.,Bogotá,P-029,1,1117400,Pagada
+4651,FV-001908,09/08/2024,C-0396,Transportes El Prado S.A.S.,Bogotá,P-022,115,294975,Pagada
+4663,FV-001912,2024-08-09,C-0419,Instituto Llanos S.A.S.,Medellín,P-065,2,862000,Pagada
+4666,FV-001913,09/08/2024,C-0229 ,Clínica Tequendama S.A.S.,Bogotá,P-068,4,1245260,Pagada
+4671,FV-001916,10/08/2024,C-0197,Comercializadora Cordillera S.A.S.,Barranquilla,P-051,3,$ 61.800,Pagada
+4671,FV-001916,10/08/2024,C-0197,Comercializadora Cordillera S.A.S.,Barranquilla,P-051,3,$ 61.800,Pagada
+4676,FV-001918,45514,C-0192,Inversiones Cordillera S.A.S.,Bogotá,P-023,14,126000,Pagada
+4705,FV-001930,13/08/2024,C-0287 ,Transportes Caribe S.A.,Barranquilla,P-015,60,843600,Pagada
+4710,FV-001932,13/08/2024,C-0118 ,Clínica Quimbaya S.A.S.,Bogotá,P-025,1,2934740,Pagada
+4715,FV-001934,2024-08-13,C-0284,Instituto Yarumo S.A.S.,Cali,P-032,18,1656000,Pagada
+4716,FV-001934,13/08/2024,C-0284,Instituto Yarumo S.A.S.,Cali,P-053,11,71500,Pagada
+4723,FV-001936,14/08/2024,C-9097,Colegio Monserrate S.A.,Santiago de Cali,P-052,60,954000,Pagada
+4785,FV-001960,15/08/2024,C-9381,Comercializadora Guadalupe S.A.S.,Bucaramanga,P-003,2,21000,Pagada
+4792,FV-001961,2024-08-15,C-0119,Grupo Orquídea S.A.S.,Barranquilla,P-013,34,361760,Pagada
+4796,FV-001963,15/08/2024,C-0246,Clínica La Sabana S.A.S.,Bucaramanga,P-007,50,978500,Pagada
+4813,FV-001970,16/08/2024,C-0391,Laboratorios Pacífico S.A.S.,Santiago de Cali,P-014,168,2617440,Pagada
+4828,FV-001975,16/08/2024,C-0339,Laboratorios Orquídea S.A.S.,Bogotá,P-063,1,703760,Pagada
+4835,FV-001977,2024-08-17,C-0120,Laboratorios Santa Fe S.A.,Bogotá,P-064,2,$ 2.123.060,Pagada
+4845,FV-001981,17/08/2024,C-0314,Servicios Horizonte Ltda.,Cali,P-063,1,740800,Pagada
+4846,FV-001981,17/08/2024,C-0314,Servicios Horizonte Ltda.,CALI,P-047,64,1798400,Pagada
+4877,FV-001992,19/08/2024,C-0339,Laboratorios Orquídea S.A.S.,Cali,P-027,7,$ 4.301.885,Pagada
+4878,FV-001992,19/08/2024,C-0339,Laboratorios Orquídea S.A.S.,Cali,P-053,130,760500,Pagada
+4891,FV-001999,20/08/2024,C-0119,Grupo Orquídea S.A.S.,B/quilla,P-008,54,1195290,Pagada
+4911,FV-002009,20/08/2024,C-0133,Transportes Nogal S.A.,Medellín,P-052,114,1721970,Pagada
+4915,FV-002011,20/08/2024,C-0193,Servicios Palmas S.A.S.,B/quilla,P-004,55,874500,Pagada
+4917,FV-002011,20/08/2024,C-0193,Servicios Palmas S.A.S.,Barranquilla,P-043,7,322000,Pagada
+4928,FV-002017,21/08/2024,C-0339 ,Laboratorios Orquídea S.A.S.,Bogotá,P-060,12,5567400,Pagada
+4930,FV-002019,21/08/2024,C-0021,Clínica Sinú S.A.S.,Bogota,P-035,6,$ 743.850,Pagada
+4933,FV-002019,21/08/2024,C-0021,Clínica Sinú S.A.S.,Bogotá,P-053,39,240825,Pagada
+4939,FV-002022,22/08/2024,C-0239,Agencia Yarumo S.A.S.,Bogotá,P-046,17,$ 620.500,Pagada
+4958,FV-002028,22/08/2024,C-0414,Servicios Cordillera Ltda.,Bogotá,P-020,11,47300,Pagada
+4963,FV-002029,22/08/2024,C-0001,Transportes Bambú S.A.S.,Bogotá D.C.,P-025,2,5560560,Pagada
+4966,FV-002031,22/08/2024,C-0392,Consultores Quimbaya S.A.,Medellin,P-014,2,32800,Pagada
+4970,FV-002032,22/08/2024,C-0339 ,Laboratorios Orquídea S.A.S.,Bogotá,P-013,152,$ 1.617.280,Pagada
+4973,FV-002033,22/08/2024,C-9328,Consultores Chicamocha S.A.,Medellín,P-015,40,$ 592.000,Pagada
+5030,FV-002059,24/08/2024,C-0396,Transportes El Prado S.A.S.,Bogotá,P-040,7,1804810,Pagada
+5033,FV-002061,26/08/2024,C-0086 ,Colegio Arrayán S.A.S.,Cali,P-016,39,288600,Pagada
+5033,FV-002061,26/08/2024,C-0086 ,Colegio Arrayán S.A.S.,Cali,P-016,39,288600,Pagada
+5046,FV-002066,26/08/2024,C-0174,Notaría Aurora S.A.S.,Bucaramanga,P-047,85,2269075,Pagada
+5050,FV-002067,26/08/2024,C-0396,Transportes El Prado S.A.S.,Bogotá,P-043,12,524400,Pagada
+5070,FV-002076,27/08/2024,C-0129,Grupo Palmas S.A.S.,Barranquilla,P-066,3,1041105,Pagada
+5074,FV-002078,27/08/2024,C-0241,Agencia Ceiba S.A.S.,Bogota,P-057,7,4528300,Pagada
+5078,FV-002080,27/08/2024,C-0317,Hotel Farallones Ltda.,Bucaramanga,P-035,5,652500,Pagada
+5078,FV-002080,27/08/2024,C-0317,Hotel Farallones Ltda.,Bucaramanga,P-035,5,652500,Pagada
+5089,FV-002083,27/08/2024,C-0129,Grupo Palmas S.A.S.,Barranquilla,P-072,1,222110,Pagada
+5107,FV-002090,2024-08-28,C-0106 ,Grupo Magdalena S.A.,Barranquilla ,P-038,2,586910,Pagada
+5122,FV-002095,28/08/2024,C-0132,Inversiones Cóndor S.A.,CALI,P-066,5,1826500,Pagada
+5125,FV-002095,28/08/2024,C-0132,Inversiones Cóndor S.A.,Cali,P-012,40,708000,Pagada
+5130,FV-002098,28/08/2024,C-0198,Consultores Chicamocha S.A.,Bogotá,P-052,9,143100,Pagada
+5143,FV-002102,29/08/2024,C-0350,Alcaldía de Nogal,Medellín,P-043,3,131100,Pagada
+5159,FV-002110,29/08/2024,C-0189,Centro Médico Caribe S.A.S.,Bucaramanga,P-043,12,524400,Pagada
+5167,FV-002114,29/08/2024,C-0128,Comercializadora Guadalupe S.A.S.,Cali,P-029,2,$ 2.234.800,Pagada
+5173,FV-002116,45533,C-0187,Laboratorios El Prado S.A.S.,Cali,P-027,3,1843665,Pagada
+5183,FV-002118,29/08/2024,C-0243,Centro Médico Cóndor S.A.S.,Bogotá,P-032,17,1564000,Pagada
+5191,FV-002121,30/08/2024,C-0129,Grupo Palmas S.A.S.,Barranquilla ,P-045,12,501600,Pagada
+5194,FV-002123,30/08/2024,C-0115 ,Transportes Nogal Ltda.,Cali,P-030,82,8243460,Pagada
+5219,FV-002131,31/08/2024,c-0177,Inversiones Llanos S.A.S.,Bogotá,P-053,46,299000,Pagada
+5220,FV-002132,31/08/2024,C-0179,Centro Médico Quimbaya S.A.S.,Barranquilla,P-008,81,1887300,Pagada
+5222,FV-002132,31/08/2024,C-0179,Centro Médico Quimbaya S.A.S.,Barranquilla,P-056,48,1075200,Pagada
+5226,FV-002134,31/08/2024,C-0367,Servicios Farallones S.A.S.,Bucaramanga,P-044,4,82800,Pagada
+5230,FV-002136,31/08/2024,C-0339,Laboratorios Orquídea S.A.S.,Bogota,P-058,4,$ 781.280,Pagada
+5252,FV-002146,02/09/2024,C-0187,Laboratorios El Prado S.A.S.,Cali,P-031,9,634410,Pagada
+5264,FV-002151,03/09/2024,C-0137,Inversiones Cafetal S.A.S.,Medellín,P-018,17,98600,Pagada
+5270,FV-002154,03/09/2024,c-0031,Fundación Pacífico S.A.S.,Bogotá,P-046,13,474500,Pagada
+5270,FV-002154,03/09/2024,c-0031,Fundación Pacífico S.A.S.,Bogotá,P-046,13,474500,Pagada
+5278,FV-002158,04/09/2024,C-0391,Laboratorios Pacífico S.A.S.,Bogotá,P-011,126,$ 1.508.220,Pagada
+5279,FV-002158,45539,C-0391,Laboratorios Pacífico S.A.S.,bogota ,P-036,14,399000,Pagada
+5294,FV-002165,04/09/2024,C-0225,Servicios Altamira Ltda.,Cali,P-017,56,$ 257.600,Pagada
+5298,FV-002168,05/09/2024,c-0024,Hotel Guadalupe Ltda.,Bucaramanga,P-001,68,$ 924.800,Pagada
+5300,FV-002169,05/09/2024,C-0302,Clínica Farallones S.A.,Medellín,P-034,24,1477440,Anulada
+5311,FV-002175,05/09/2024,C-0005,Fundación Chicamocha S.A.S.,Bogotá,P-025,1,$ 3.089.200,Pagada
+5325,FV-002180,06/09/2024,C-0391,Laboratorios Pacífico S.A.S.,Bogotá,P-033,27,3588435,Pagada
+5332,FV-002182,06/09/2024,c-0392,Consultores Quimbaya S.A.,MEDELLÍN,P-016,10,74000,Pagada
+5345,FV-002187,06/09/2024,C-0072,Notaría Tequendama S.A.S.,Barranquilla ,P-054,38,$ 318.060,Pagada
+5352,FV-002192,07/09/2024,C-0332,Transportes Guadalupe Ltda.,Bogotá,P-029,4,4246120,Pagada
+5376,FV-002200,09/09/2024,C-0339,Laboratorios Orquídea S.A.S.,Bogotá D.C.,P-035,9,1115775,Pagada
+5381,FV-002201,09/09/2024,C-0341,Inversiones Horizonte S.A.S.,Santiago de Cali,P-061,3,2785800,Pagada
+5381,FV-002201,09/09/2024,C-0341,Inversiones Horizonte S.A.S.,Santiago de Cali,P-061,3,2785800,Pagada
+5404,FV-002207,10/09/2024,C-9437,Transportes Cafetal S.A.S.,Bogotá,P-041,39,4138485,Pagada
+5414,FV-002211,10/09/2024,C-0133,Transportes Nogal S.A.,Medellín,P-036,16,456000,Pagada
+5421,FV-002217,11/09/2024,C-0318,Distribuciones Cóndor S.A.,Cali,P-020,17,73100,Pagada
+5430,FV-002221,11/09/2024,C-0301,Laboratorios Palmas S.A.S.,Bucaramanga,P-018,107,$ 558.540,Pagada
+5431,FV-002221,11/09/2024,C-0301,Laboratorios Palmas S.A.S.,Bucaramanga,P-066,9,$ 3.123.315,Pagada
+5433,FV-002222,11/09/2024,C-0229,Clínica Tequendama S.A.S.,Bogotá,P-023,11,94050,Pagada
+5436,FV-002222,11/09/2024,C-0229,Clínica Tequendama S.A.S.,Bogotá,P-069,12,$ 631.560,Pagada
+5440,FV-002224,11/09/2024,C-0240,Alcaldía de Yarumo,Pereira,P-041,25 und,2652875,Pagada
+5458,FV-002230,12/09/2024,C-0243,Centro Médico Cóndor S.A.S.,bogota ,P-004,25,$ 397.500,Pagada
+5473,FV-002235,12/09/2024,C-0231,Grupo Aurora S.A.S.,Bogotá,P-039,20,$ 963.300,Pagada
+5499,FV-002244,13/09/2024,C-0418,Centro Médico Arrayán S.A.S.,bogota ,P-057,1,646900,Pagada
+5504,FV-002245,2024-09-13,C-9172,Consultores Nogal S.A.S.,Medellín,P-005,57,342000,Pagada
+5546,FV-002259,16/09/2024,C-0074,Clínica Arrayán S.A.,Medellín,P-045,11,459800,Pagada
+5549,FV-002261,16/09/2024,C-0406,Alcaldía de Horizonte,MEDELLÍN,P-052,101,1525605,Pagada
+5550,FV-002262,16/09/2024,C-0138 ,Grupo Cóndor S.A.S.,Cali,P-015,60,843600,Pagada
+5554,FV-002263,16/09/2024,C-0047,Transportes Orquídea S.A.S.,CALI,P-031,7,493430,Pagada
+5557,FV-002264,16/09/2024,C-0406,Alcaldía de Horizonte,Medellín,P-021,58,462840,Anulada
+5583,FV-002273,17/09/2024,C-0208,Alcaldía de Cóndor,Bogotá,P-028,2,$ 3.835.720,Pagada
+5593,FV-002279,17/09/2024,C-0191,Clínica Bambú S.A.S.,Pereira,P-056,57,1212960,Pagada
+5600,FV-002283,18/09/2024,C-0086,Colegio Arrayán S.A.S.,Santiago de Cali,P-068,2,655400,Pagada
+5611,FV-002290,18/09/2024,C-0312,Laboratorios Cordillera Ltda.,Bogotá,P-002,132,1153680,Pagada
+5612,FV-002290,18/09/2024,C-0312,Laboratorios Cordillera Ltda.,Bogotá,P-037,12,2772480,Pagada
+5614,FV-002290,18/09/2024,C-0312,Laboratorios Cordillera Ltda.,Bogotá,P-007,169,3307330,Pagada
+5619,FV-002292,18/09/2024,C-0396,Transportes El Prado S.A.S.,Bogotá,P-028,7,12718440,Pagada
+5636,FV-002297,19/09/2024,C-0051,Comercializadora Yarumo S.A.,Medellín,P-006,41,200900,Pagada
+5643,FV-002299,19/09/2024,C-0301,Laboratorios Palmas S.A.S.,Barranquilla,P-051,39,723060,Pagada
+5650,FV-002303,20/09/2024,C-0120,Laboratorios Santa Fe S.A.,Bogotá,P-004,12,181260,Pagada
+5664,FV-002308,2024-09-20,c-0396 ,Transportes El Prado S.A.S.,Bogotá D.C.,P-029,5,4748950,Pagada
+5670,FV-002310,45555,C-0298,Colegio Monserrate S.A.,Cali,P-051,7,$ 144.200,Pagada
+5687,FV-002316,23/09/2024,C-0177 ,Inversiones Llanos S.A.S.,Bogotá,P-042,1,$ 496.700,Pagada
+5703,FV-002324,23/09/2024,C-0339,Laboratorios Orquídea S.A.S.,Bogotá,P-041,33,3501795,Pagada
+5713,FV-002327,45559,C-9103,Servicios Horizonte Ltda.,Cali,P-008,5,116500,Pagada
+5728,FV-002334,24/09/2024,C-0287,Transportes Caribe S.A.,MEDELLÍN,P-035,22,2727450,Pagada
+5764,FV-002345,26/09/2024,C-0299,Ferretería El Prado S.A.S.,MEDELLÍN,P-008,27,597645,Pagada
+5798,FV-002358,2024-09-27,C-0024,Hotel Guadalupe Ltda.,Bucaramanga,P-038,1,308900,Pagada
+5800,FV-002360,27/09/2024,C-0220,Alcaldía de Monserrate,Pereira,P-049,268 und,1884040,Pagada
+5803,FV-002360,45562,C-0220,Alcaldía de Monserrate,Pereira,P-022,116,297540,Pagada
+5810,FV-002365,2024-09-27,C-0339,Laboratorios Orquídea S.A.S.,Bogotá,P-073,13,4511455,Pagada
+5828,FV-002373,30/09/2024,C-0410,Comercializadora Ceiba S.A.S.,Bogotá,P-046,35,1277500,Pagada
+5836,FV-002376,2024-09-30,C-0321,Clínica Yarumo Ltda.,bogota ,P-030,25,2652875,Pagada
+5842,FV-002378,30/09/2024,C-0024,Hotel Guadalupe Ltda.,Bucaramanga,P-053,30,185250,Pagada
+5870,FV-002390,2024-10-01,C-0249,Grupo Nogal S.A.S.,BOGOTÁ,P-026,1,$ 3.737.585,Pagada
+5874,FV-002392,01/10/2024,C-0135,Inversiones Tequendama S.A.S.,Barranquilla,P-035,4,$ 522.000,Pagada
+5876,FV-002392,01/10/2024,C-0135,Inversiones Tequendama S.A.S.,Barranquilla,P-067,4,,Pagada
+5880,FV-002394,45566,C-0416,Fundación Santa Fe Ltda.,Cali,P-022,43,116100,Pagada
+5885,FV-002396,02/10/2024,C-0239,Agencia Yarumo S.A.S.,Bogotá,P-003,82,861000,Pagada
+5900,FV-002403,02/10/2024,C-0111,Alcaldía de Chicamocha,Bogotá,P-059,2,2301470,Pagada
+5901,FV-002403,02/10/2024,C-0111,Alcaldía de Chicamocha,bogota ,P-004,4,60420,Pagada
+5903,FV-002403,02/10/2024,C-0111 ,Alcaldía de Chicamocha,Bogotá,P-044,128,2517120,Pagada
+5910,FV-002405,02/10/2024,C-0352,Constructora Arrayán S.A.S.,Barranquilla,P-023,106,906300,Pagada
+5914,FV-002406,02/10/2024,C-0118,Clínica Quimbaya S.A.S.,Cali,P-036,25,712500,Pagada
+5918,FV-002408,02/10/2024,C-0200,Hotel Quimbaya S.A.S.,MEDELLÍN,P-007,8,$ 164.800,Pagada
+5932,FV-002411,03/10/2024,C-0392,Consultores Quimbaya S.A.,Bogotá,P-014,25,410000,Pagada
+5959,FV-002422,04/10/2024,C-0135,Inversiones Tequendama S.A.S.,Barranquilla,P-046,12,416100,Pagada
+5971,FV-002428,04/10/2024,C-0128,Comercializadora Guadalupe S.A.S.,Cali,P-018,11,$ 63.800,Pagada
+5986,FV-002433,04/10/2024,C-0339,Laboratorios Orquídea S.A.S.,BOGOTÁ,P-034,19,$ 1.169.640,Pagada
+6004,FV-002440,07/10/2024,C-0172,Alcaldía de Aurora,Medellín,P-053,14,86450,Pagada
+6010,FV-002444,07/10/2024,C-0106,Grupo Magdalena S.A.,Barranquilla,P-037,7,$ 1.617.280,Pagada
+6017,FV-002448,07/10/2024,C-0086,Colegio Arrayán S.A.S.,Cali,P-049,42,$ 310.800,Pagada
+6025,FV-002451,08/10/2024,C-0224,Alcaldía de Del Valle,Cali,P-068,4,$ 1.245.260,Pagada
+6033,FV-002453,08/10/2024,C-0346,Hotel Magdalena S.A.S.,BOGOTÁ,P-005,33,198000,Pagada
+6035,FV-002455,08/10/2024,C-0101,Grupo Farallones Ltda.,Bogotá,P-056,190,4043200,Pagada
+6042,FV-002456,08/10/2024,C-0231,Grupo Aurora S.A.S.,Bogota,P-072,4,888440,Pagada
+6062,FV-002466,09/10/2024,c-0051,Comercializadora Yarumo S.A.,Medellín,P-011,51,610470,Pagada
+6070,FV-002469,09/10/2024,C-0004,Hotel Palmas S.A.S.,Medellín,P-008,43,$ 1.001.900,Pagada
+6074,FV-002472,09/10/2024,c-0106,Grupo Magdalena S.A.,Barranquilla ,P-005,19,$ 108.300,Pagada
+6109,FV-002483,10/10/2024,C-0220,Alcaldía de Monserrate,Pereira,P-059,2,$ 2.301.470,Pagada
+6115,FV-002486,10/10/2024,C-0128 ,Comercializadora Guadalupe S.A.S.,Cali,P-025,1,3089200,Pagada
+6117,FV-002488,11/10/2024,C-0064,Clínica Horizonte S.A.S.,Bucaramanga,P-032,38,$ 3.321.200,Pagada
+6119,FV-002489,11/10/2024,C-0133,Transportes Nogal S.A.,Medellín,P-032,15,1311000,Pagada
+6127,FV-002491,11/10/2024,C-0064,Clínica Horizonte S.A.S.,Bucaramanga,P-032,30,$ 2.622.000,Pagada
+6139,FV-002497,11/10/2024,C-0119,Grupo Orquídea S.A.S.,Barranquilla,P-018,166,914660,Pagada
+6140,FV-002497,11/10/2024,C-0119,Grupo Orquídea S.A.S.,Barranquilla,P-007,66,1291620,Pagada
+6142,FV-002497,11/10/2024,C-0119,Grupo Orquídea S.A.S.,Barranquilla,P-038,2,556020,Pagada
+6143,FV-002498,2024-10-11,C-0180,Agencia Llanos S.A.S.,Bucaramanga,P-053,53,344500,Pagada
+6145,FV-002499,11/10/2024,C-0235,Secretaría de Cordillera,Medellín,P-064,1,1061530,Pagada
+6149,FV-002499,11/10/2024,C-0235,Secretaría de Cordillera,Medellin,P-030,24,2546760,Pagada
+6179,FV-002511,45579,C-0335,Alcaldía de Santa Fe,Cali,P-023,7,,Pagada
+6179,FV-002511,45579,C-0335,Alcaldía de Santa Fe,Cali,P-023,7,,Pagada
+6183,FV-002513,14/10/2024,C-0158,Comercializadora Yarumo S.A.S.,Medellin,P-021,14,117600,Pagada
+6196,FV-002518,15/10/2024,C-0214,Fundación Arrayán S.A.S.,Bogotá,P-066,4,1461200,Pagada
+6199,FV-002519,45580,C-0269,Consultores La Sabana S.A.S.,Pereira,P-072,1,233800,Pagada
+6204,FV-002522,2024-10-15,C-0406,Alcaldía de Horizonte,Medellín,P-035,7,$ 867.825,Pagada
+6219,FV-002529,16/10/2024,C-0243,Centro Médico Cóndor S.A.S.,Medellín,P-009,30,363000,Pagada
+6228,FV-002534,16/10/2024,C-0203,Fundación Aurora S.A.S.,Bogotá,P-029,1 und,1117400,Pagada
+6231,FV-002535,17/10/2024,C-0279,Hotel Santa Fe S.A.S.,Medellín,P-026,1,3934300,Pagada
+6234,FV-002536,17/10/2024,C-0304,Servicios Sinú S.A.S.,Bogotá,P-014,5,82000,Pagada
+6243,FV-002540,2024-10-17,C-0314,Servicios Horizonte Ltda.,Cali,P-041,15,1675500,Pagada
+6272,FV-002553,18/10/2024,C-0317,Hotel Farallones Ltda.,Bucaramanga,P-071,1,1023500,Pagada
+6277,FV-002555,18/10/2024,C-0126,Inversiones Guadalupe S.A.S.,Bogotá,P-002,42,386400,Pagada
+6283,FV-002557,19/10/2024,C-0420,Constructora El Prado S.A.S.,Medellín,P-025,6,$ 16.681.680,Pagada
+6284,FV-002558,21/10/2024,C-0174,Notaría Aurora S.A.S.,Bucaramanga,P-042,2,943730,Pagada
+6295,FV-002563,21/10/2024,C-0341,Inversiones Horizonte S.A.S.,Santiago de Cali,P-011,102,1285200,Pagada
+6298,FV-002564,21/10/2024,C-0241,Agencia Ceiba S.A.S.,Pereira,P-060,2,1031000,Pagada
+6305,FV-002566,45586,C-0181,Colegio La Sabana Ltda.,Bogotá,P-046,32,1168000,Pagada
+6309,FV-002568,22/10/2024,C-0282,Secretaría de Los Andes,Medellín,P-023,72,$ 615.600,Pagada
+6312,FV-002569,22/10/2024,C-0038,Transportes La Sabana S.A.,Medellín,P-025,1,$ 2.934.740,Pagada
+6315,FV-002570,22/10/2024,C-0051,Comercializadora Yarumo S.A.,Medellín,P-054,21,195300,Pagada
+6346,FV-002584,2024-10-24,C-0119,Grupo Orquídea S.A.S.,Barranquilla,P-061,3,2646510,Pagada
+6358,FV-002589,24/10/2024,c-0339,Laboratorios Orquídea S.A.S.,Bogotá,P-026,5,17704350,Pagada
+6390,FV-002607,2024-10-26,C-0243,Centro Médico Cóndor S.A.S.,Bogotá,P-052,38,604200,Pagada
+6402,FV-002612,26/10/2024,C-0045,Laboratorios Orquídea Ltda.,Medellín,P-068,11,3424465,Pagada
+6409,FV-002615,28/10/2024,C-0282,Secretaría de Los Andes,Medellín,P-022,122,312930,Pagada
+6424,FV-002620,28/10/2024,C-0008,Ferretería El Prado Ltda.,Pereira,P-022,40,108000,Pagada
+6441,FV-002627,2024-10-28,C-0127,Grupo Monserrate S.A.S.,Medellin,P-046,18,624150,Pagada
+6452,FV-002631,29/10/2024,c-0114,Laboratorios Llanos S.A.,Bogotá,P-036,74,2109000,Pagada
+6454,FV-002632,29/10/2024,C-0071,Inversiones Cordillera S.A.,Bucaramanga,P-063,2,1481600,Pagada
+6461,FV-002635,2024-10-29,C-0344,Transportes Orquídea S.A.,CALI,P-007,26,508820,Pagada
+6473,FV-002641,30/10/2024,C-0406,Alcaldía de Horizonte,Medellín,P-073,2,$ 694.070,Pagada
+6474,FV-002641,2024-10-30,c-0406,Alcaldía de Horizonte,Medellín,P-061,5,4410850,Pagada
+6480,FV-002644,30/10/2024,C-0072,Notaría Tequendama S.A.S.,Barranquilla,P-060,8,$ 3.917.800,Pagada
+6483,FV-002646,2024-10-30,C-0328 ,Inversiones Monserrate S.A.,Cali,P-051,33,679800,Pagada
+6500,FV-002652,30/10/2024,C-0281,Hotel Guayacán S.A.,Barranquilla,P-069,33,1828200,Pagada
+6510,FV-002656,31/10/2024,C-0181,Colegio La Sabana Ltda.,Bogota,P-050,153,$ 2.708.100,Pagada
+6519,FV-002659,31/10/2024,C-0229,Clínica Tequendama S.A.S.,Bogotá,P-037,6,1386240,Pagada
+6523,FV-002660,31/10/2024,C-0332,Transportes Guadalupe Ltda.,Bogotá,P-019,85,1429275,Pagada
+6523,FV-002660,31/10/2024,C-0332,Transportes Guadalupe Ltda.,Bogotá,P-019,85,1429275,Pagada
+6524,FV-002661,31/10/2024,C-0339,Laboratorios Orquídea S.A.S.,Bogotá,P-039,22,$ 1.003.860,Pagada
+6528,FV-002662,31/10/2024,C-0187,Laboratorios El Prado S.A.S.,Santiago de Cali,P-051,78,1526460,Pagada
+6551,FV-002672,01/11/2024,C-0131,Comercializadora Chicamocha S.A.S.,Medellin,P-016,44,325600,Pagada
+6551,FV-002672,01/11/2024,C-0131,Comercializadora Chicamocha S.A.S.,Medellin,P-016,44,325600,Pagada
+6571,FV-002682,01/11/2024,C-0078,Servicios Monserrate Ltda.,Medellin,P-003,45,472500,Pagada
+6583,FV-002687,45598,C-0312,Laboratorios Cordillera Ltda.,Bogotá,P-035,28,3471300,Pagada
+6588,FV-002689,02/11/2024,C-0221,Ferretería Santa Fe Ltda.,B/quilla,P-029,1,$ 1.117.400,Pagada
+6589,FV-002690,02/11/2024,C-0281 ,Hotel Guayacán S.A.,Cali,P-029,2,2234800,Pagada
+6597,FV-002695,04/11/2024,C-0363,Hotel Del Valle S.A.S.,Cali,P-017,103,473800,Pagada
+6608,FV-002700,2024-11-04,C-0161,Centro Médico Cafetal Ltda.,Barranquilla,P-039,13,659100,Pagada
+6615,FV-002704,2024-11-04,C-0137,Inversiones Cafetal S.A.S.,Pereira,P-012,22,389400,Pagada
+6618,FV-002707,04/11/2024,C-0021,Clínica Sinú S.A.S.,Bogotá,P-043,23,$ 1.005.100,Pagada
+6625,FV-002710,04/11/2024,C-0119,Grupo Orquídea S.A.S.,Barranquilla,P-033,62,7806420,Pagada
+6628,FV-002711,04/11/2024,C-0029,Grupo Pacífico Ltda.,Medellín,P-014,30,$ 467.400,Pagada
+6636,FV-002715,05/11/2024,C-0284,Instituto Yarumo S.A.S.,Cali,P-027,6,3881400,Pagada
+6637,FV-002716,05/11/2024,C-0298,Colegio Monserrate S.A.,Cali,P-004,60,954000,Pagada
+6654,FV-002726,06/11/2024,C-0287,Transportes Caribe S.A.,Barranquilla,P-027,1,614555,Pagada
+6670,FV-002731,06/11/2024,C-0348,Comercializadora Aurora S.A.S.,Bogotá,P-047,12,$ 337.200,Pagada
+6678,FV-002735,07/11/2024,C-0314,Servicios Horizonte Ltda.,Cali,P-034,10,648000,Pagada
+6689,FV-002738,2024-11-07,C-0180,Agencia Llanos S.A.S.,Bucaramanga,P-038,2,617800,Pagada
+6700,FV-002744,08/11/2024,C-0352,Constructora Arrayán S.A.S.,Barranquilla,P-054,217,1917195,Pagada
+6717,FV-002750,08/11/2024,C-0139,Constructora Sinú S.A.S.,Medellín,P-046,19,658825,Pagada
+6717,FV-002750,08/11/2024,C-0139,Constructora Sinú S.A.S.,Medellín,P-046,19,658825,Pagada
+6723,FV-002752,08/11/2024,C-0120,Laboratorios Santa Fe S.A.,Bogotá,P-027,2,1229110,Pagada
+6724,FV-002753,08/11/2024,C-0241,Agencia Ceiba S.A.S.,Pereira,P-014,35,$ 574.000,Pagada
+6725,FV-002753,08/11/2024,C-0241,Agencia Ceiba S.A.S.,Pereira,P-067,4,710000,Pagada
+6730,FV-002756,08/11/2024,C-0112,Centro Médico Altamira S.A.S.,Medellin,P-062,4,6030220,Pagada
+6739,FV-002759,2024-11-09,C-0135,Inversiones Tequendama S.A.S.,Barranquilla,P-031,3 und,222600,Pagada
+6750,FV-002763,09/11/2024,C-0417,Grupo Horizonte S.A.S.,Medellin,P-038,4,1173820,Pagada
+6752,FV-002763,09/11/2024,C-0417,Grupo Horizonte S.A.S.,Medellín,P-016,109,766270,Pagada
+6753,FV-002763,09/11/2024,C-0417,Grupo Horizonte S.A.S.,Medellín,P-035,13,1611675,Pagada
+6756,FV-002765,09/11/2024,C-0074,Clínica Arrayán S.A.,Medellín,P-032,39,3408600,Pagada
+6786,FV-002781,12/11/2024,C-0420,Constructora El Prado S.A.S.,Medellín,P-039,8,385320,Pagada
+6799,FV-002785,45608,C-0135,Inversiones Tequendama S.A.S.,B/quilla,P-066,4,1461200,Pagada
+6808,FV-002788,12/11/2024,C-0111,Alcaldía de Chicamocha,Bogotá D.C.,P-073,8,2776280,Pagada
+6821,FV-002793,13/11/2024,C-0042,Transportes Altamira S.A.S.,Bucaramanga,P-054,66,,Pagada
+6826,FV-002795,13/11/2024,C-0179 ,Centro Médico Quimbaya S.A.S.,Barranquilla,P-028,1,2018800,Pagada
+6862,FV-002811,14/11/2024,C-0181,Colegio La Sabana Ltda.,Bogotá,P-005,75,450000,Pagada
+6902,FV-002830,18/11/2024,C-0301,Laboratorios Palmas S.A.S.,Bucaramanga,P-013,50,532000,Pagada
+6914,FV-002833,19/11/2024,C-0243 ,Centro Médico Cóndor S.A.S.,Bogotá,P-056,24,537600,Pagada
+6941,FV-002844,19/11/2024,c-0302 ,Clínica Farallones S.A.,Medellín,P-033,22,2923910,Pagada
+6945,FV-002846,19/11/2024,C-0171,Colegio Tequendama S.A.S.,Pereira,P-012,28 und,495600,Pagada
+6963,FV-002853,20/11/2024,c-0119,Grupo Orquídea S.A.S.,Barranquilla,P-020,119,486115,Pagada
+6980,FV-002860,45616,C-0106,Grupo Magdalena S.A.,Barranquilla,P-063,3,$ 2.111.280,Pagada
+6982,FV-002861,20/11/2024,C-0231,Grupo Aurora S.A.S.,Bogotá,P-011,50,598500,Pagada
+6988,FV-002864,20/11/2024,C-0049,Agencia Bambú S.A.S.,Bogotá,P-004,52,826800,Pagada
+7010,FV-002876,21/11/2024,c-0288,Grupo Ceiba S.A.S.,Medellin,P-041,7,742805,Pagada
+7010,FV-002876,21/11/2024,c-0288,Grupo Ceiba S.A.S.,Medellin,P-041,7,742805,Pagada
+7015,FV-002877,21/11/2024,C-0411,Comercializadora Monserrate S.A.S.,Medellín,P-011,63,793800,Pagada
+7024,FV-002880,21/11/2024,C-0133,Transportes Nogal S.A.,Medellín,P-030,25,$ 2.652.875,Pagada
+7024,FV-002880,21/11/2024,C-0133,Transportes Nogal S.A.,Medellín,P-030,25,$ 2.652.875,Pagada
+7054,FV-002890,2024-11-22,C-0021,Clínica Sinú S.A.S.,Bogotá,P-008,20,442700,Pagada
+7058,FV-002892,22/11/2024,C-0171,Colegio Tequendama S.A.S.,Pereira,P-014,59,$ 967.600,Pagada
+7062,FV-002894,2024-11-22,C-0367 ,Servicios Farallones S.A.S.,Bucaramanga,P-038,11,3228005,Pagada
+7067,FV-002898,22/11/2024,c-0408,Clínica Sinú S.A.,MEDELLÍN,P-029,5,$ 5.028.300,Pagada
+7085,FV-002906,23/11/2024,C-0038 ,Transportes La Sabana S.A.,Medellín,P-043,6,262200,Pagada
+7092,FV-002909,25/11/2024,C-0024,Hotel Guadalupe Ltda.,Bucaramanga,P-001,32,413440,Pagada
+7102,FV-002911,25/11/2024,c-0133,Transportes Nogal S.A.,Medellín,P-059,4,4602940,Pagada
+7114,FV-002914,25/11/2024,C-0314,Servicios Horizonte Ltda.,Cali,P-012,46,773490,Pagada
+7140,FV-002923,26/11/2024,C-0187,Laboratorios El Prado S.A.S.,Cali,P-037,3,$ 656.640,Pagada
+7157,FV-002928,26/11/2024,C-0398,Comercializadora Nogal S.A.S.,Cali,P-073,1,365300,Pagada
+7172,FV-002935,27/11/2024,C-0400,Ferretería El Prado S.A.,Medellín,P-010,38,$ 247.000,Pagada
+7178,FV-002939,27/11/2024,C-0054,Comercializadora Farallones S.A.S.,Barranquilla,P-067,3 und,532500,Pagada
+7181,FV-002941,27/11/2024,C-9273,Clínica Cóndor S.A.,Medellin,P-037,1,231040,Pagada
+7197,FV-002946,27/11/2024,C-0087,Transportes Yarumo S.A.S.,Bogotá,P-029,4,4246120,Pagada
+7222,FV-002957,29/11/2024,C-0301,Laboratorios Palmas S.A.S.,Bucaramanga,P-001,47,$ 607.240,Pagada
+7229,FV-002960,29/11/2024,C-0241 ,Agencia Ceiba S.A.S.,Pereira,P-068,5,1638500,Pagada
+7243,FV-002965,29/11/2024,C-0107,Inversiones Guadalupe S.A.,Cali,P-027,1,646900,Pagada
+7255,FV-002972,02/12/2024,c-0115,Transportes Nogal Ltda.,Cali,P-037,7,1532160,Pagada
+7259,FV-002973,02/12/2024,C-0221,Ferretería Santa Fe Ltda.,Barranquilla,P-029,1,$ 1.117.400,Pagada
+7260,FV-002974,02/12/2024,C-0335,Alcaldía de Santa Fe,Cali,P-034,21,1292760,Pagada
+7266,FV-002975,02/12/2024,C-0137,Inversiones Cafetal S.A.S.,Barranquilla,P-042,2,$ 993.400,Pagada
+7267,FV-002976,02/12/2024,C-0339,Laboratorios Orquídea S.A.S.,Bogotá,P-034,6,369360,Pagada
+7282,FV-002982,03/12/2024,C-0310,Consultores Guadalupe S.A.S.,Cali,P-069,6,332400,Pagada
+7288,FV-002984,03/12/2024,C-0021,Clínica Sinú S.A.S.,Bogotá,P-028,2,$ 3.835.720,Pagada
+7290,FV-002985,03/12/2024,C-0077,Alcaldía de Arrayán,Cali,P-009,15,172425,Pagada
+7299,FV-002988,03/12/2024,C-0363,Hotel Del Valle S.A.S.,Pereira,P-044,18,372600,Pagada
+7316,FV-002994,04/12/2024,C-0120 ,Laboratorios Santa Fe S.A.,Bogotá,P-039,41,1974765,Pagada
+7324,FV-002998,04/12/2024,C-0126 ,Inversiones Guadalupe S.A.S.,Bogotá,P-010,12,78000,Pagada
+7325,FV-002999,04/12/2024,C-0073,Clínica Guadalupe S.A.S.,Bucaramanga,P-034,2,123120,Pagada
+7327,FV-003000,04/12/2024,C-0224,Alcaldía de Del Valle,Cali,P-029,3,3016980,Pagada
+7327,FV-003000,04/12/2024,C-0224,Alcaldía de Del Valle,Cali,P-029,3,3016980,Pagada
+7328,FV-003000,2024-12-04,C-0224,Alcaldía de Del Valle,Cali,P-009,61,701195,Pagada
+7333,FV-003003,04/12/2024,C-0239,Agencia Yarumo S.A.S.,Bogotá,P-047,22,618200,Pagada
+7347,FV-003008,05/12/2024,C-0077,Alcaldía de Arrayán,Cali,P-006,81,377055,Pagada
+7359,FV-003015,2024-12-05,C-0118,Clínica Quimbaya S.A.S.,Bogotá,P-041,36,3820140,Pagada
+7389,FV-003025,06/12/2024,C-0400,Ferretería El Prado S.A.,Medellín,P-014,31,508400,Pagada
+7399,FV-003029,06/12/2024,C-0067,Instituto Los Andes Ltda.,Bogotá,P-026,1,3934300,Pagada
+7405,FV-003030,06/12/2024,C-0038,Transportes La Sabana S.A.,Medellín,P-039,4,,Pagada
+7415,FV-003035,06/12/2024,C-0279,Hotel Santa Fe S.A.S.,Medellin,P-012,2,$ 35.400,Pagada
+7430,FV-003043,07/12/2024,C-0107,Inversiones Guadalupe S.A.,Cali,P-049,43 und,318200,Pagada
+7440,FV-003046,07/12/2024,C-0298,Colegio Monserrate S.A.,Cali,P-031,18,1268820,Pagada
+7444,FV-003048,09/12/2024,C-0021,Clínica Sinú S.A.S.,Bogotá,P-045,15,627000,Pagada
+7446,FV-003048,09/12/2024,C-0021,Clínica Sinú S.A.S.,Bogotá,P-034,17,1046520,Pagada
+7450,FV-003049,09/12/2024,C-0074,Clínica Arrayán S.A.,Medellin,P-045,19,794200,Pagada
+7454,FV-003052,09/12/2024,C-0278,Instituto Pacífico S.A.,Barranquilla,P-011,34,428400,Pagada
+7458,FV-003053,09/12/2024,C-0131,Comercializadora Chicamocha S.A.S.,Medellin,P-058,3,$ 616.800,Pagada
+7462,FV-003055,09/12/2024,C-0221,Ferretería Santa Fe Ltda.,Barranquilla,P-051,60,1236000,Pagada
+7466,FV-003056,09/12/2024,C-0228,Constructora Horizonte Ltda.,Cali,P-045,32,1337600,Pagada
+7475,FV-003060,10/12/2024,C-0231,Grupo Aurora S.A.S.,Bogotá,P-069,32,1684160,Pagada
+7505,FV-003074,10/12/2024,C-0297,Servicios Ceiba S.A.,Barranquilla,P-039,4,202800,Pagada
+7510,FV-003075,10/12/2024,C-0399,Ferretería Horizonte S.A.,Cali,P-026,1,$ 3.934.300,Pagada
+7528,FV-003082,11/12/2024,C-0150 ,Secretaría de Palmas,Bogotá,P-070,9,$ 5.667.120,Anulada
+7532,FV-003083,11/12/2024,C-0120,Laboratorios Santa Fe S.A.,Bogotá,P-058,7,1367240,Pagada
+7545,FV-003089,12/12/2024,C-0130,Distribuciones El Prado S.A.S.,Medellín,P-034,1,64800,Pagada
+7547,FV-003090,12/12/2024,C-0325,Grupo Los Andes S.A.S.,Medellín,P-030,5,,Pagada
+7568,FV-003102,12/12/2024,C-0229,Clínica Tequendama S.A.S.,Medellín,P-025,1,2934740,Pagada
+7571,FV-003104,13/12/2024,C-0417,Grupo Horizonte S.A.S.,Medellín,P-039,44,2119260,Pagada
+7579,FV-003109,13/12/2024,C-0229,Clínica Tequendama S.A.S.,Bogotá D.C.,P-049,22,154660,Pagada
+7586,FV-003111,13/12/2024,C-0327,Fundación Guayacán Ltda.,B/quilla,P-038,6 und,1853400,Pagada
+7590,FV-003112,13/12/2024,C-0161,Centro Médico Cafetal Ltda.,Barranquilla,P-059,1,1211300,Pagada
+7603,FV-003115,13/12/2024,C-0287 ,Transportes Caribe S.A.,Barranquilla,P-037,5,$ 1.155.200,Pagada
+7605,FV-003117,13/12/2024,C-0396,Transportes El Prado S.A.S.,Bogotá,P-030,36,,Pagada
+7620,FV-003124,16/12/2024,C-0228,Constructora Horizonte Ltda.,CALI,P-049,74,520220,Pagada
+7642,FV-003132,16/12/2024,C-0333,Centro Médico Guadalupe S.A.S.,Bogotá,P-069,31,1717400,Pagada
+7652,FV-003136,17/12/2024,C-0137,Inversiones Cafetal S.A.S.,Cali,P-027,3,$ 1.940.700,Pagada
+7654,FV-003136,17/12/2024,C-0137,Inversiones Cafetal S.A.S.,CALI,P-044,35,724500,Pagada
+7664,FV-003140,17/12/2024,C-0111,Alcaldía de Chicamocha,Bogotá,P-039,74,3564210,Pagada
+7665,FV-003141,17/12/2024,C-0129,Grupo Palmas S.A.S.,Barranquilla,P-023,3,25650,Pagada
+7671,FV-003143,17/12/2024,C-0241 ,Agencia Ceiba S.A.S.,Pereira,P-056,35,784000,Pagada
+7698,FV-003152,18/12/2024,C-0012,Agencia Aurora S.A.S.,Bucaramanga,P-018,60,348000,Pagada
+7701,FV-003154,18/12/2024,C-0207,Distribuciones Guadalupe S.A.S.,Medellín,P-051,137,2822200,Pagada
+7705,FV-003155,18/12/2024,C-0179,Centro Médico Quimbaya S.A.S.,Barranquilla ,P-068,2,655400,Pagada
+7715,FV-003159,18/12/2024,C-0252,Alcaldía de Sinú,Barranquilla,P-026,5,17704350,Pagada
+7722,FV-003161,18/12/2024,C-0135,Inversiones Tequendama S.A.S.,Bogotá,P-035,27,$ 3.523.500,Pagada
+7735,FV-003165,2024-12-19,C-0045 ,Laboratorios Orquídea Ltda.,Medellin,P-044,36,707940,Pagada
+7735,FV-003165,2024-12-19,C-0045 ,Laboratorios Orquídea Ltda.,Medellin,P-044,36,707940,Pagada
+7762,FV-003177,20/12/2024,C-0106,Grupo Magdalena S.A.,Barranquilla,P-041,10,$ 1.061.150,Pagada
+7787,FV-003188,20/12/2024,C-0106,Grupo Magdalena S.A.,Barranquilla,P-039,46,$ 2.215.590,Pagada
+7793,FV-003190,2024-12-21,C-0418,Centro Médico Arrayán S.A.S.,Bogotá,P-067,14,2485000,Pagada
+7795,FV-003191,21/12/2024,C-0133,Transportes Nogal S.A.,Medellin,P-013,35,$ 372.400,Pagada
+7805,FV-003196,2024-12-23,C-0221,Ferretería Santa Fe Ltda.,Barranquilla,P-068,3,983100,Pagada
+7807,FV-003198,23/12/2024,C-0350 ,Alcaldía de Nogal,Medellín,P-037,3,693120,Pagada
+7815,FV-003200,23/12/2024,C-9792,Comercializadora Monserrate S.A.S.,Medellín,P-073,1,365300,Pagada
+7818,FV-003201,23/12/2024,C-0367,Servicios Farallones S.A.S.,Bucaramanga,P-066,2,$ 730.600,Pagada
+7838,FV-003209,24/12/2024,C-0298,Colegio Monserrate S.A.,Santiago de Cali,P-002,34,$ 297.160,Pagada
+7867,FV-003222,26/12/2024,C-0120,Laboratorios Santa Fe S.A.,Bogotá,P-012,72,1210680,Pagada
+7871,FV-003224,2024-12-26,C-0047,Transportes Orquídea S.A.S.,Cali,P-028,1,1917860,Pagada
+7882,FV-003228,26/12/2024,C-0262,Notaría Nogal S.A.S.,Pereira,P-012,221,3716115,Pagada
+7930,FV-003245,27/12/2024,C-0411 ,Comercializadora Monserrate S.A.S.,Medellín,P-069,2,110800,Pagada
+7930,FV-003245,27/12/2024,C-0411 ,Comercializadora Monserrate S.A.S.,Medellín,P-069,2,110800,Pagada
+7944,FV-003249,27/12/2024,C-0339,Laboratorios Orquídea S.A.S.,Barranquilla,P-040,6,$ 1.546.980,Pagada
+7947,FV-003251,28/12/2024,C-0120 ,Laboratorios Santa Fe S.A.,Bogotá,P-044,114 und,2241810,Pagada
+7949,FV-003252,28/12/2024,C-0410,Comercializadora Ceiba S.A.S.,Bogotá,P-014,39,639600,Pagada
+7952,FV-003252,28/12/2024,C-0410,Comercializadora Ceiba S.A.S.,Bogotá,P-045,4,176000,Pagada
+7960,FV-003255,28/12/2024,C-0022,Centro Médico Pacífico S.A.S.,Cali,P-050,12,212400,Pagada
+7969,FV-003257,30/12/2024,C-0086,Colegio Arrayán S.A.S.,Cali,P-013,45,478800,Pagada
+7980,FV-003261,30/12/2024,C-0367,Servicios Farallones S.A.S.,Bucaramanga,P-038,3,926700,Pagada
+7996,FV-003267,30/12/2024,C-0250,Clínica Llanos S.A.S.,Pereira,P-043,7,$ 305.900,Pagada
+8002,FV-003268,45656,C-0086,Colegio Arrayán S.A.S.,Cali,P-020,46,197800,Pagada
+8021,FV-003276,02/01/2025,C-0270,Fundación Chicamocha Ltda.,Cali,P-007,24,525600,Pagada
+8027,FV-003279,02/01/2025,C-0111,Alcaldía de Chicamocha,Barranquilla,P-046,16,591280,Pagada
+8035,FV-003282,02/01/2025,C-0306,Transportes Cafetal S.A.S.,bogota ,P-066,2,739100,Pagada
+8043,FV-003285,02/01/2025,C-0051,Comercializadora Yarumo S.A.,Pereira,P-006,23,$ 119.600,Pagada
+8052,FV-003287,02/01/2025,C-0386 ,Colegio Guadalupe S.A.,Barranquilla,P-023,67,643200,Pagada
+8058,FV-003290,02/01/2025,C-0339 ,Laboratorios Orquídea S.A.S.,Bogotá,P-007,97,1911870,Pagada
+8073,FV-003297,03/01/2025,C-0128,Comercializadora Guadalupe S.A.S.,Cali,P-073,4,1478200,Pagada
+8074,FV-003297,03/01/2025,C-0128,Comercializadora Guadalupe S.A.S.,Cali,P-033,10,$ 1.490.000,Pagada
+8074,FV-003297,03/01/2025,C-0128,Comercializadora Guadalupe S.A.S.,Cali,P-033,10,$ 1.490.000,Pagada
+8082,FV-003299,03/01/2025,C-0181,Colegio La Sabana Ltda.,Bogotá,P-036,1,32000,Pagada
+8087,FV-003300,2025-01-03,C-0021,Clínica Sinú S.A.S.,Bogotá,P-012,82,1472310,Pagada
+8091,FV-003302,03/01/2025,C-0285,Constructora Llanos S.A.S.,Medellín,P-007,72,1497960,Pagada
+8100,FV-003307,03/01/2025,C-0141,Servicios Cafetal S.A.S.,Bogotá,P-017,59,289100,Pagada
+8105,FV-003309,04/01/2025,C-0031,Fundación Pacífico S.A.S.,Bogotá,P-017,41,200900,Pagada
+8134,FV-003324,06/01/2025,C-0130,Distribuciones El Prado S.A.S.,Medellín,P-004,26,439400,Pagada
+8137,FV-003326,06/01/2025,C-0134,Notaría Bambú S.A.S.,Cali,P-019,21,377055,Pagada
+8152,FV-003329,07/01/2025,C-0367,Servicios Farallones S.A.S.,Bucaramanga,P-027,2,1378000,Pagada
+8154,FV-003331,2025-01-07,C-0301 ,Laboratorios Palmas S.A.S.,Bucaramanga,P-015,85,1275850,Pagada
+8182,FV-003343,08/01/2025,C-0260,Alcaldía de Los Andes,Bucaramanga,P-010,94,616170,Pagada
+8183,FV-003343,08/01/2025,C-0260,Alcaldía de Los Andes,Bucaramanga,P-062,6,$ 9.126.000,Pagada
+8189,FV-003346,08/01/2025,C-0076,Laboratorios Sinú S.A.,Pereira,P-066,3,1050300,Pagada
+8199,FV-003349,08/01/2025,C-0383,Secretaría de Yarumo,Bogotá,P-046,4,$ 147.820,Pagada
+8211,FV-003354,08/01/2025,C-0314,Servicios Horizonte Ltda.,Cali,P-025,2 und,$ 6.251.000,Pagada
+8215,FV-003354,45665,C-0314,Servicios Horizonte Ltda.,Cali,P-007,131,2868900,Pagada
+8228,FV-003360,09/01/2025,C-0057,Centro Médico Nogal Ltda.,Bogotá,P-068,4,1396000,Pagada
+8242,FV-003367,09/01/2025,C-0312,Laboratorios Cordillera Ltda.,Bogotá,P-062,2,3211000,Pagada
+8243,FV-003367,09/01/2025,C-0312,Laboratorios Cordillera Ltda.,bogota ,P-027,2,$ 1.309.100,Pagada
+8249,FV-003369,09/01/2025,C-0095,Alcaldía de Cordillera,Medellín,P-016,143,1073215,Pagada
+8256,FV-003372,09/01/2025,C-0258,Distribuciones Tequendama Ltda.,Cali,P-052,18,304200,Pagada
+8280,FV-003382,10/01/2025,c-0197,Comercializadora Cordillera S.A.S.,Barranquilla ,P-053,84,579600,Pagada
+8297,FV-003390,10/01/2025,C-0335,Alcaldía de Santa Fe,Cali,P-029,1,1130500,Pagada
+8298,FV-003391,10/01/2025,C-0328,Inversiones Monserrate S.A.,Cali,P-055,37,995300,Pagada
+8304,FV-003393,11/01/2025,C-0038,Transportes La Sabana S.A.,Medellín,P-056,169,3837145,Pagada
+8311,FV-003396,11/01/2025,C-0406,Alcaldía de Horizonte,Medellín,P-070,15,$ 10.651.500,Anulada
+8313,FV-003397,45668,C-0076,Laboratorios Sinú S.A.,Pereira,P-041,3,339150,Pagada
+8314,FV-003398,2025-01-11,C-0065,Grupo Monserrate S.A.,Bogotá,P-066,4,1478200,Pagada
+8319,FV-003399,13/01/2025,C-0120,Laboratorios Santa Fe S.A.,Bogotá,P-009,31,379905,Pagada
+8327,FV-003401,13/01/2025,C-0074,Clínica Arrayán S.A.,Medellín,P-025,5,$ 14.805.000,Pagada
+8334,FV-003404,2025-01-13,C-0142,Colegio Caribe S.A.,Bogotá,P-003,93,1041600,Pagada
+8345,FV-003409,13/01/2025,C-0419,Instituto Llanos S.A.S.,Medellín,P-004,11,176605,Pagada
+8352,FV-003414,14/01/2025,C-0339,Laboratorios Orquídea S.A.S.,Bogotá,P-041,22,2487100,Pagada
+8358,FV-003415,14/01/2025,C-0367,Servicios Farallones S.A.S.,Bucaramanga,P-021,23,204700,Pagada
+8368,FV-003418,14/01/2025,C-0263,Constructora Horizonte S.A.S.,Bogotá,P-024,106,705960,Pagada
+8379,FV-003425,2025-01-14,C-0079,Constructora La Sabana Ltda.,Bogotá,P-028,12,23220000,Pagada
+8406,FV-003436,15/01/2025,C-0111,Alcaldía de Chicamocha,Bogotá,P-072,5,1182750,Pagada
+8420,FV-003444,16/01/2025,C-0224,Alcaldía de Del Valle,Cali,P-023,35,319200,Pagada
+8424,FV-003446,16/01/2025,C-0340,Laboratorios Llanos S.A.S.,Bogotá,P-073,5,1847750,Pagada
+8451,FV-003454,16/01/2025,c-0321,Clínica Yarumo Ltda.,bogota ,P-006,52,256880,Pagada
+8464,FV-003458,17/01/2025,C-0314,Servicios Horizonte Ltda.,Cali,P-004,58,931190,Pagada
+8470,FV-003460,17/01/2025,C-0120,Laboratorios Santa Fe S.A.,Bogotá,P-049,71,532855,Pagada
+8481,FV-003465,17/01/2025,C-0245,Grupo Yarumo Ltda.,Bucaramanga,P-049,50,,Pagada
+8501,FV-003471,17/01/2025,C-0396,Transportes El Prado S.A.S.,Bogotá,P-019,103,1849365,Pagada
+8529,FV-003479,18/01/2025,C-0282,Secretaría de Los Andes,Medellin,P-024,99,659340,Pagada
+8534,FV-003480,18/01/2025,C-0341 ,Inversiones Horizonte S.A.S.,CALI,P-049,72,568800,Pagada
+8537,FV-003480,18/01/2025,C-0341,Inversiones Horizonte S.A.S.,Cali,P-012,93,$ 1.757.700,Pagada
+8537,FV-003480,18/01/2025,C-0341,Inversiones Horizonte S.A.S.,Cali,P-012,93,$ 1.757.700,Pagada
+8542,FV-003481,18/01/2025,C-0227,Ferretería Nogal S.A.S.,Medellín,P-035,29,4031000,Pagada
+8543,FV-003482,18/01/2025,C-0189,Centro Médico Caribe S.A.S.,Bucaramanga,P-010,47,324300,Pagada
+8550,FV-003486,20/01/2025,C-0135,Inversiones Tequendama S.A.S.,Barranquilla ,P-046,7,258685,Pagada
+8552,FV-003486,20/01/2025,C-0135,Inversiones Tequendama S.A.S.,Barranquilla,P-020,55,$ 253.000,Pagada
+8562,FV-003491,20/01/2025,C-0397,Servicios Caribe S.A.S.,Bucaramanga,P-019,26,466830,Pagada
+8574,FV-003494,20/01/2025,C-0139,Constructora Sinú S.A.S.,Medellín,P-008,38,895280,Pagada
+8578,FV-003496,21/01/2025,C-0074,Clínica Arrayán S.A.,Medellín,P-058,5,1040250,Pagada
+8580,FV-003497,21/01/2025,C-0332,Transportes Guadalupe Ltda.,Bogotá,P-014,76,1263500,Pagada
+8581,FV-003497,21/01/2025,C-0332,Transportes Guadalupe Ltda.,Bogotá,P-026,5,$ 18.855.000,Pagada
+8586,FV-003499,21/01/2025,C-0038,Transportes La Sabana S.A.,Medellín,P-004,64,1027520,Pagada
+8586,FV-003499,21/01/2025,C-0038,Transportes La Sabana S.A.,Medellín,P-004,64,1027520,Pagada
+8609,FV-003507,21/01/2025,C-0330 ,Secretaría de Santa Fe,Bogotá,P-019,85,$ 1.526.175,Pagada
+8627,FV-003513,21/01/2025,c-0339,Laboratorios Orquídea S.A.S.,Bogotá,P-009,31,359910,Pagada
+8639,FV-003516,22/01/2025,C-0074,Clínica Arrayán S.A.,Medellin,P-066,2,739100,Pagada
+8642,FV-003517,22/01/2025,C-9930,Centro Médico Quimbaya S.A.S.,Barranquilla,P-070,3,2367000,Pagada
+8661,FV-003526,22/01/2025,C-0406 ,Alcaldía de Horizonte,Medellín,P-033,9,1273950,Pagada
+8673,FV-003531,23/01/2025,C-0225,Servicios Altamira Ltda.,Cali,P-063,2,1578000,Pagada
+8681,FV-003534,45680,C-0106,Grupo Magdalena S.A.,Barranquilla,P-007,113,2350965,Pagada
+8695,FV-003538,2025-01-23,C-0040,Instituto Caribe S.A.,Barranquilla,P-004,27,456300,Pagada
+8700,FV-003540,24/01/2025,C-0286,Consultores Nogal S.A.S.,Medellín,P-042,5,$ 2.645.000,Pagada
+8717,FV-003548,24/01/2025,C-0284,Instituto Yarumo S.A.S.,Cali,P-044,24,528000,Pagada
+8718,FV-003549,24/01/2025,C-0396,Transportes El Prado S.A.S.,Bogotá,P-033,18,2547900,Anulada
+8721,FV-003550,24/01/2025,C-0111,Alcaldía de Chicamocha,Bogotá,P-049,94,705470,Pagada
+8745,FV-003561,27/01/2025,C-0301,Laboratorios Palmas S.A.S.,Bucaramanga,P-007,67,1393935,Pagada
+8747,FV-003561,27/01/2025,C-0301,Laboratorios Palmas S.A.S.,Bucaramanga,P-011,68,865640,Pagada
+8750,FV-003562,27/01/2025,C-0317,Hotel Farallones Ltda.,Bucaramanga,P-019,37,699300,Pagada
+8765,FV-003571,27/01/2025,C-0411,Comercializadora Monserrate S.A.S.,Medellín,P-061,8 und,7516400,Pagada
+8786,FV-003579,28/01/2025,C-0124,Constructora Pacífico S.A.S.,Cali,P-033,39,5229900,Pagada
+8797,FV-003585,28/01/2025,C-0129,Grupo Palmas S.A.S.,Barranquilla,P-057,3,1963650,Pagada
+8855,FV-003614,31/01/2025,C-0187,Laboratorios El Prado S.A.S.,Cali,P-048,70,1655850,Pagada
+8862,FV-003617,31/01/2025,C-0068,Comercializadora Magdalena S.A.S.,Medellín,P-024,139,1028600,Pagada
+8919,FV-003642,04/02/2025,C-0262 ,Notaría Nogal S.A.S.,Pereira,P-034,42,2753100,Pagada
+8930,FV-003647,04/02/2025,C-0314,Servicios Horizonte Ltda.,Cali,P-033,8,1192000,Pagada
+8957,FV-003656,04/02/2025,C-0406,Alcaldía de Horizonte,Medellín,P-038,3,937650,Pagada
+8959,FV-003656,2025-02-04,C-0406,Alcaldía de Horizonte,MEDELLÍN,P-021,149,1259795,Pagada
+8964,FV-003660,05/02/2025,C-0339,Laboratorios Orquídea S.A.S.,Bogotá,P-053,104,$ 681.720,Pagada
+8968,FV-003661,05/02/2025,C-0349,Hotel Magdalena Ltda.,Pereira,P-007,24,$ 525.600,Pagada
+8982,FV-003665,05/02/2025,C-0401 ,Distribuciones Guayacán S.A.S.,Barranquilla,P-023,23,220800,Pagada
+8996,FV-003670,05/02/2025,C-0018,Clínica Magdalena Ltda.,MEDELLÍN,P-025,2,5593000,Pagada
+8999,FV-003671,05/02/2025,C-0394,Constructora Quimbaya Ltda.,Medellín,P-021,74,625670,Pagada
+9000,FV-003671,05/02/2025,C-0394,Constructora Quimbaya Ltda.,Medellín,P-008,105,$ 2.473.800,Pagada
+9000,FV-003671,05/02/2025,C-0394,Constructora Quimbaya Ltda.,Medellín,P-008,105,$ 2.473.800,Pagada
+9005,FV-003672,05/02/2025,C-0065,Grupo Monserrate S.A.,bogota ,P-018,66,388740,Pagada
+9012,FV-003677,06/02/2025,C-0062,Secretaría de Chicamocha,Barranquilla,P-001,20,275500,Pagada
+9014,FV-003678,06/02/2025,C-0025,Hotel Cóndor Ltda.,Medellín,P-021,15,133500,Pagada
+9021,FV-003680,2025-02-06,c-0119,Grupo Orquídea S.A.S.,Barranquilla ,P-052,80,1284400,Pagada
+9021,FV-003680,2025-02-06,c-0119,Grupo Orquídea S.A.S.,Barranquilla ,P-052,80,1284400,Pagada
+9026,FV-003683,06/02/2025,C-0252,Alcaldía de Sinú,Barranquilla,P-069,15,840750,Pagada
+9037,FV-003689,07/02/2025,c-0224,Alcaldía de Del Valle,CALI,P-060,18,8399700,Pagada
+9049,FV-003693,07/02/2025,C-0317,Hotel Farallones Ltda.,Bucaramanga,P-001,22,319000,Pagada
+9062,FV-003699,07/02/2025,C-0133,Transportes Nogal S.A.,Medellín,P-070,8,5680800,Pagada
+9063,FV-003699,07/02/2025,C-0133,Transportes Nogal S.A.,Medellin,P-064,3,3391500,Pagada
+9070,FV-003702,08/02/2025,C-0087 ,Transportes Yarumo S.A.S.,Bogotá,P-033,8,1132400,Pagada
+9093,FV-003711,2025-02-10,C-0351,Colegio Pacífico S.A.,Bogotá,P-006,44,$ 228.800,Pagada
+9106,FV-003716,10/02/2025,C-0021,Clínica Sinú S.A.S.,Bogotá,P-054,92,865260,Pagada
+9124,FV-003724,2025-02-11,C-0038,Transportes La Sabana S.A.,Medellín,P-058,3,624150,Pagada
+9131,FV-003727,11/02/2025,C-0240,Alcaldía de Yarumo,Pereira,P-036,11,334400,Pagada
+9133,FV-003727,11/02/2025,C-0240,Alcaldía de Yarumo,Pereira,P-032,44,4096400,Pagada
+9134,FV-003728,11/02/2025,C-0021,Clínica Sinú S.A.S.,Bogotá,P-010,81,530955,Pagada
+9136,FV-003728,2025-02-11,C-0021,Clínica Sinú S.A.S.,Bogotá,P-059,5,5805000,Pagada
+9191,FV-003748,2025-02-12,C-0323,Clínica Los Andes S.A.,Bogotá,P-058,6,1182600,Pagada
+9197,FV-003753,2025-02-12,C-0026,Colegio Cordillera S.A.,Bogotá,P-012,43,772065,Pagada
+9198,FV-003753,12/02/2025,C-0026,Colegio Cordillera S.A.,Bogotá,P-014,49,857500,Pagada
+9200,FV-003754,12/02/2025,C-0317,Hotel Farallones Ltda.,Bucaramanga,P-023,16,153600,Pagada
+9207,FV-003756,12/02/2025,C-0224,Alcaldía de Del Valle,Cali,P-046,9,332595,Pagada
+9213,FV-003758,2025-02-12,C-0157 ,Transportes Farallones S.A.S.,Medellín,P-034,4,262200,Pagada
+9221,FV-003761,13/02/2025,C-0312,Laboratorios Cordillera Ltda.,Medellín,P-055,198,4793580,Pagada
+9237,FV-003768,13/02/2025,C-0171,Colegio Tequendama S.A.S.,Pereira,P-057,1,689000,Pagada
+9257,FV-003776,13/02/2025,C-0039,Transportes Llanos S.A.S.,Bucaramanga,P-060,7,3650850,Pagada
+9264,FV-003779,14/02/2025,C-0301,Laboratorios Palmas S.A.S.,Bucaramanga,P-003,8,85120,Pagada
+9265,FV-003779,14/02/2025,C-0301,Laboratorios Palmas S.A.S.,Bucaramanga,P-032,4,372400,Pagada
+9309,FV-003798,15/02/2025,C-0419,Instituto Llanos S.A.S.,Medellín,P-062,1,1690000,Pagada
+9317,FV-003801,15/02/2025,C-0393,Agencia Cóndor S.A.S.,Bogotá,P-032,12,1176000,Pagada
+9342,FV-003813,17/02/2025,C-0250,Clínica Llanos S.A.S.,Pereira,P-053,73,478515,Pagada
+9354,FV-003818,17/02/2025,C-0210,Grupo Arrayán S.A.S.,Cali,P-040,6,1647300,Pagada
+9358,FV-003821,18/02/2025,C-0142,Colegio Caribe S.A.,Bogotá,P-015,48,758400,Pagada
+9376,FV-003827,45706,C-0390,Instituto Magdalena S.A.S.,Pereira,P-047,37,1106300,Pagada
+9381,FV-003829,18/02/2025,C-0250 ,Clínica Llanos S.A.S.,Pereira,P-042,5,2512750,Pagada
+9384,FV-003830,19/02/2025,C-0124,Constructora Pacífico S.A.S.,Cali,P-015,58,870580,Pagada
+9385,FV-003830,19/02/2025,C-0124,Constructora Pacífico S.A.S.,Cali,P-034,8,524400,Pagada
+9400,FV-003837,19/02/2025,C-0164,Fundación Bambú Ltda.,CALI,P-004,57,963300,Pagada
+9406,FV-003840,19/02/2025,C-0086,Colegio Arrayán S.A.S.,Pereira,P-007,71,1477155,Pagada
+9413,FV-003843,19/02/2025,C-0284,Instituto Yarumo S.A.S.,Cali,P-024,20,148000,Pagada
+9417,FV-003845,45707,C-0213 ,Laboratorios La Sabana S.A.S.,Cali,P-016,46 und,345230,Pagada
+9419,FV-003846,19/02/2025,C-0184,Alcaldía de Caribe,Cali,P-068,4,1326200,Pagada
+9440,FV-003853,20/02/2025,C-0132,Inversiones Cóndor S.A.,Cali,P-046,2,77800,Pagada
+9441,FV-003853,20/02/2025,C-0132,Inversiones Cóndor S.A.,Cali,P-037,4,1036000,Pagada
+9451,FV-003856,20/02/2025,C-0171,Colegio Tequendama S.A.S.,Pereira,P-017,91,445900,Pagada
+9455,FV-003858,20/02/2025,C-0339,Laboratorios Orquídea S.A.S.,Bogotá,P-061,4,3758200,Pagada
+9456,FV-003859,20/02/2025,C-0317,Hotel Farallones Ltda.,Bucaramanga,P-020,58 und,266800,Pagada
+9469,FV-003864,20/02/2025,C-0074,Clínica Arrayán S.A.,Medellín,P-036,2,60800,Pagada
+9483,FV-003868,2025-02-21,C-0348,Comercializadora Aurora S.A.S.,Bogota,P-024,87,643800,Pagada
+9490,FV-003870,21/02/2025,C-0351,Colegio Pacífico S.A.,Medellín,P-070,3 und,2367000,Anulada
+9502,FV-003876,2025-02-21,C-0253,Ferretería Llanos S.A.S.,Pereira,P-066,1,389000,Pagada
+9515,FV-003882,21/02/2025,C-0386,Colegio Guadalupe S.A.,Barranquilla,P-030,21,2499000,Pagada
+9516,FV-003882,21/02/2025,C-0386,Colegio Guadalupe S.A.,B/quilla,P-043,45,2205000,Pagada
+9517,FV-003882,21/02/2025,C-0386,Colegio Guadalupe S.A.,Barranquilla,P-006,20,104000,Pagada
+9524,FV-003884,21/02/2025,C-0197,Comercializadora Cordillera S.A.S.,Barranquilla,P-005,111 und,$ 710.400,Pagada
+9547,FV-003892,2025-02-22,C-0111,Alcaldía de Chicamocha,bogota ,P-003,25,266000,Pagada
+9547,FV-003892,2025-02-22,C-0111,Alcaldía de Chicamocha,bogota ,P-003,25,266000,Pagada
+9561,FV-003898,24/02/2025,C-0341,Inversiones Horizonte S.A.S.,CALI,P-048,80,$ 1.992.000,Pagada
+9567,FV-003899,24/02/2025,C-0031,Fundación Pacífico S.A.S.,Bogotá,P-053,166,1145400,Pagada
+9567,FV-003899,24/02/2025,C-0031,Fundación Pacífico S.A.S.,Bogotá,P-053,166,1145400,Pagada
+9582,FV-003906,24/02/2025,C-0330,Secretaría de Santa Fe,Bogotá,P-070,8,5680800,Pagada
+9589,FV-003910,25/02/2025,C-0040,Instituto Caribe S.A.,Barranquilla,P-008,4,$ 99.200,Pagada
+9592,FV-003910,25/02/2025,C-0040,Instituto Caribe S.A.,Barranquilla,P-026,4,15922000,Pagada
+9594,FV-003911,25/02/2025,C-0411,Comercializadora Monserrate S.A.S.,Medellín,P-020,7,32200,Pagada
+9601,FV-003913,25/02/2025,C-0224,Alcaldía de Del Valle,Cali,P-006,299,1477060,Pagada
+9605,FV-003914,25/02/2025,C-0140,Alcaldía de Orquídea,Pereira,P-029,4,4522000,Pagada
+9608,FV-003916,25/02/2025,C-0396,Transportes El Prado S.A.S.,Bogotá,P-021,87,735585,Anulada
+9616,FV-003917,25/02/2025,C-0317,Hotel Farallones Ltda.,Bucaramanga,P-043,8,392000,Pagada
+9627,FV-003922,26/02/2025,C-0281,Hotel Guayacán S.A.,Cali,P-012,37,699300,Pagada
+9635,FV-003924,26/02/2025,C-0252 ,Alcaldía de Sinú,Barranquilla,P-020,103,450110,Pagada
+9661,FV-003936,27/02/2025,C-0109,Hotel Llanos S.A.S.,Medellín,P-042,1,$ 529.000,Pagada
+9664,FV-003938,27/02/2025,C-0392,Consultores Quimbaya S.A.,Medellín,P-068,3,1047000,Pagada
+9669,FV-003940,27/02/2025,C-0367 ,Servicios Farallones S.A.S.,Bucaramanga,P-072,2,498000,Pagada
+9694,FV-003952,28/02/2025,C-0115,Transportes Nogal Ltda.,Cali,P-039,9,461700,Pagada
+9701,FV-003955,28/02/2025,C-0137,Inversiones Cafetal S.A.S.,B/quilla,P-060,1,549000,Anulada
+9702,FV-003955,28/02/2025,C-0137,Inversiones Cafetal S.A.S.,Barranquilla,P-022,20,58000,Anulada
+9707,FV-003957,01/03/2025,C-0386,Colegio Guadalupe S.A.,Barranquilla,P-017,243,1190700,Pagada
+9740,FV-003971,03/03/2025,C-0317,Hotel Farallones Ltda.,Bucaramanga,P-071,1,$ 1.090.000,Pagada
+9741,FV-003971,03/03/2025,C-0317,Hotel Farallones Ltda.,Bucaramanga,P-041,1,119000,Pagada
+9742,FV-003972,03/03/2025,C-0131,Comercializadora Chicamocha S.A.S.,MEDELLÍN,P-073,3,1167000,Pagada
+9752,FV-003975,03/03/2025,C-0192,Inversiones Cordillera S.A.S.,bogota ,P-006,10,52000,Pagada
+9753,FV-003975,03/03/2025,c-0192,Inversiones Cordillera S.A.S.,Bogota,P-004,48,770640,Pagada
+9769,FV-003982,04/03/2025,C-0129,Grupo Palmas S.A.S.,Barranquilla,P-042,4,$ 2.010.200,Pagada
+9777,FV-003985,04/03/2025,C-0246,Clínica La Sabana S.A.S.,Bucaramanga,P-039,3,153900,Pagada
+9800,FV-003995,04/03/2025,C-0397 ,Servicios Caribe S.A.S.,Bucaramanga,P-028,1,2150000,Pagada
+9819,FV-004002,05/03/2025,C-0170,Consultores Chicamocha S.A.S.,CALI,P-004,123,2078700,Pagada
+9821,FV-004003,05/03/2025,C-0419,Instituto Llanos S.A.S.,Medellín,P-003,1,11200,Pagada
+9821,FV-004003,05/03/2025,C-0419,Instituto Llanos S.A.S.,Medellín,P-003,1,11200,Pagada
+9833,FV-004010,06/03/2025,C-0129 ,Grupo Palmas S.A.S.,Barranquilla,P-014,120,$ 1.995.000,Pagada
+9834,FV-004010,06/03/2025,c-0129,Grupo Palmas S.A.S.,Barranquilla,P-022,21,57855,Pagada
+9836,FV-004011,06/03/2025,C-0181,Colegio La Sabana Ltda.,Bogotá,P-003,1,11200,Pagada
+9851,FV-004017,06/03/2025,C-0411,Comercializadora Monserrate S.A.S.,Medellín,P-023,40,384000,Pagada
+9873,FV-004025,07/03/2025,C-0224,Alcaldía de Del Valle,Santiago de Cali,P-010,155,962550,Pagada
+9877,FV-004026,2025-03-07,C-0396,Transportes El Prado S.A.S.,Bogotá,P-054,53,498465,Pagada
+9888,FV-004030,07/03/2025,C-0103,Laboratorios Monserrate S.A.S.,Bogota,P-054,60,564300,Pagada
+9907,FV-004039,2025-03-10,C-0246 ,Clínica La Sabana S.A.S.,Bucaramanga,P-039,24,$ 1.231.200,Pagada
+9919,FV-004042,10/03/2025,C-0375,Inversiones Los Andes Ltda.,Barranquilla,P-045,8,375200,Pagada
+9947,FV-004051,11/03/2025,C-0074,Clínica Arrayán S.A.,Bucaramanga,P-022,102,266220,Pagada
+9949,FV-004052,11/03/2025,C-0137,Inversiones Cafetal S.A.S.,Barranquilla,P-019,3,56700,Pagada
+9957,FV-004054,11/03/2025,C-0284,Instituto Yarumo S.A.S.,Cali,P-051,10,$ 219.000,Pagada
+9967,FV-004060,11/03/2025,C-0231,Grupo Aurora S.A.S.,Medellín,P-058,4,832200,Pagada
+9977,FV-004064,11/03/2025,C-0178,Hotel Horizonte S.A.S.,Cali,P-063,1,789000,Pagada
+9977,FV-004064,11/03/2025,C-0178,Hotel Horizonte S.A.S.,Cali,P-063,1,789000,Pagada
+9987,FV-004069,12/03/2025,C-0318,Distribuciones Cóndor S.A.,Cali,P-017,10 und,,Pagada
+9988,FV-004069,12/03/2025,C-0318 ,Distribuciones Cóndor S.A.,Cali,P-028,1,2150000,Pagada
+9995,FV-004072,12/03/2025,C-0179,Centro Médico Quimbaya S.A.S.,Barranquilla,P-012,18,340200,Pagada
+10010,FV-004076,12/03/2025,C-0367,Servicios Farallones S.A.S.,Barranquilla,P-053,16,110400,Pagada
+10011,FV-004077,12/03/2025,C-0005 ,Fundación Chicamocha S.A.S.,Cali,P-064,2,$ 2.380.000,Pagada
+10014,FV-004077,12/03/2025,C-0005,Fundación Chicamocha S.A.S.,Cali,P-041,7,833000,Pagada
+10033,FV-004086,45729,C-0086,Colegio Arrayán S.A.S.,Cali,P-021,79,703100,Pagada
+10074,FV-004104,14/03/2025,C-0239,Agencia Yarumo S.A.S.,Bogotá,P-008,15,372000,Pagada
+10091,FV-004112,15/03/2025,c-0142,Colegio Caribe S.A.,Bogotá,P-028,1,$ 2.150.000,Pagada
+10092,FV-004112,15/03/2025,C-0142,Colegio Caribe S.A.,Bogotá,P-021,71,631900,Pagada
+10093,FV-004113,2025-03-17,C-0393,Agencia Cóndor S.A.S.,Bogotá,P-040,1,$ 289.000,Pagada
+10101,FV-004116,17/03/2025,C-0195,Alcaldía de Farallones,Pereira,P-068,2,$ 663.100,Pagada
+10105,FV-004118,2025-03-17,C-0396,Transportes El Prado S.A.S.,Bogotá,P-017,53,246715,Pagada
+10117,FV-004122,17/03/2025,C-0301,Laboratorios Palmas S.A.S.,Bucaramanga,P-064,3,3391500,Pagada
+10118,FV-004122,2025-03-17,C-0301 ,Laboratorios Palmas S.A.S.,Bucaramanga,P-008,21,494760,Pagada
+10120,FV-004123,17/03/2025,C-0140,Alcaldía de Orquídea,Pereira,P-060,6,$ 3.129.300,Pagada
+10126,FV-004126,17/03/2025,C-0128,Comercializadora Guadalupe S.A.S.,Cali,P-048,42,1045800,Pagada
+10126,FV-004126,17/03/2025,C-0128,Comercializadora Guadalupe S.A.S.,Cali,P-048,42,1045800,Pagada
+10155,FV-004139,45735,C-0198,Consultores Chicamocha S.A.,Bogota,P-045,1,46900,Pagada
+10165,FV-004144,19/03/2025,C-0179,Centro Médico Quimbaya S.A.S.,Barranquilla,P-013,24 und,285600,Pagada
+10166,FV-004144,19/03/2025,c-0179 ,Centro Médico Quimbaya S.A.S.,Barranquilla,P-019,1,18900,Pagada
+10171,FV-004146,19/03/2025,C-0021,Clínica Sinú S.A.S.,Bogotá,P-040,9,2470950,Pagada
+10182,FV-004149,19/03/2025,C-0325,Grupo Los Andes S.A.S.,MEDELLÍN,P-051,7,145635,Pagada
+10185,FV-004150,2025-03-20,C-0239,Agencia Yarumo S.A.S.,Bogotá,P-052,82,1385800,Pagada
+10186,FV-004150,20/03/2025,C-0239,Agencia Yarumo S.A.S.,BOGOTÁ,P-067,3,567000,Pagada
+10195,FV-004153,45736,C-0173,Alcaldía de Palmas,Cali,P-061,9,8010900,Pagada
+10198,FV-004154,2025-03-20,C-0129 ,Grupo Palmas S.A.S.,Barranquilla,P-039,48,$ 2.462.400,Pagada
+10229,FV-004165,20/03/2025,C-0181,Colegio La Sabana Ltda.,Bogotá,P-034,14,$ 966.000,Pagada
+10229,FV-004165,20/03/2025,C-0181,Colegio La Sabana Ltda.,Bogotá,P-034,14,$ 966.000,Pagada
+10299,FV-004192,24/03/2025,C-0287 ,Transportes Caribe S.A.,Barranquilla,P-028,2,$ 4.085.000,Pagada
+10303,FV-004194,24/03/2025,C-0115,Transportes Nogal Ltda.,Cali,P-038,2,625100,Pagada
+10305,FV-004195,24/03/2025,C-0039,Transportes Llanos S.A.S.,Bucaramanga,P-047,14,376740,Pagada
+10328,FV-004205,25/03/2025,C-0317,Hotel Farallones Ltda.,Bucaramanga,P-003,22,246400,Pagada
+10338,FV-004210,25/03/2025,C-0171,Colegio Tequendama S.A.S.,Pereira,P-003,35,$ 392.000,Pagada
+10340,FV-004210,25/03/2025,C-0171,Colegio Tequendama S.A.S.,Pereira,P-059,2,2580000,Pagada
+10341,FV-004211,25/03/2025,C-0367,Servicios Farallones S.A.S.,Bucaramanga,P-073,3,1167000,Pagada
+10350,FV-004214,26/03/2025,C-0229,Clínica Tequendama S.A.S.,Bogotá,P-060,5,2607750,Pagada
+10354,FV-004214,26/03/2025,C-0229,Clínica Tequendama S.A.S.,Bogota,P-039,17,872100,Pagada
+10380,FV-004228,27/03/2025,C-0192,Inversiones Cordillera S.A.S.,Bogota,P-043,20,$ 980.000,Pagada
+10381,FV-004228,27/03/2025,C-0192,Inversiones Cordillera S.A.S.,Bogotá,P-057,4,2756000,Pagada
+10384,FV-004230,28/03/2025,C-0129,Grupo Palmas S.A.S.,Barranquilla,P-070,7,4970700,Pagada
+10392,FV-004232,28/03/2025,C-0021,Clínica Sinú S.A.S.,Bogotá,P-034,3,$ 196.650,Pagada
+10404,FV-004239,28/03/2025,C-9844,Comercializadora Aurora S.A.S.,Bogotá,P-052,32,$ 540.800,Pagada
+10406,FV-004240,29/03/2025,C-0396,Transportes El Prado S.A.S.,Bogotá,P-043,66,3072300,Pagada
+10412,FV-004243,29/03/2025,C-0294,Alcaldía de Altamira,Bogotá,P-070,12,8521200,Pagada
+10425,FV-004247,31/03/2025,C-0171,Colegio Tequendama S.A.S.,Pereira,P-060,1,549000,Pagada
+10438,FV-004253,31/03/2025,C-0179,Centro Médico Quimbaya S.A.S.,Barranquilla,P-004,6,101400,Pagada
+10442,FV-004255,01/04/2025,c-0208,Alcaldía de Cóndor,Bogotá,P-057,15,9301500,Pagada
+10444,FV-004256,01/04/2025,C-0097,Colegio Orquídea S.A.S.,Medellín,P-016,10,79000,Pagada
+10449,FV-004258,01/04/2025,C-0403 ,Agencia El Prado S.A.S.,Medellín,P-058,1,219000,Pagada
+10459,FV-004262,2025-04-01,C-0126,Inversiones Guadalupe S.A.S.,Bogotá,P-018,21,130200,Pagada
+10469,FV-004266,02/04/2025,C-0111 ,Alcaldía de Chicamocha,Bogotá,P-002,74,688940,Pagada
+10469,FV-004266,02/04/2025,C-0111 ,Alcaldía de Chicamocha,Bogotá,P-002,74,688940,Pagada
+10473,FV-004268,02/04/2025,C-0221,Ferretería Santa Fe Ltda.,Barranquilla,P-010,43,296700,Pagada
+10483,FV-004274,2025-04-02,C-0242,Notaría Yarumo S.A.S.,CALI,P-029,4,$ 4.522.000,Pagada
+10496,FV-004277,2025-04-02,C-0007,Colegio Guadalupe Ltda.,Bogotá,P-021,20,$ 178.000,Pagada
+10501,FV-004279,02/04/2025,C-0224,Alcaldía de Del Valle,Santiago de Cali,P-028,2,4085000,Pagada
+10513,FV-004284,03/04/2025,C-0016 ,Ferretería La Sabana Ltda.,Bogotá,P-009,38,490200,Pagada
+10519,FV-004286,03/04/2025,c-0129,Grupo Palmas S.A.S.,Barranquilla,P-022,5,13775,Pagada
+10546,FV-004299,04/04/2025,C-0418,Centro Médico Arrayán S.A.S.,Bogotá,P-026,1,4190000,Pagada
+10549,FV-004300,04/04/2025,C-0181 ,Colegio La Sabana Ltda.,Bogotá,P-024,124,917600,Pagada
+10554,FV-004302,04/04/2025,C-0385 ,Inversiones Cordillera Ltda.,Pereira,P-029,1,1190000,Pagada
+10564,FV-004306,05/04/2025,C-0252 ,Alcaldía de Sinú,Barranquilla,P-006,90,444600,Pagada
+10579,FV-004310,2025-04-05,C-0021,Clínica Sinú S.A.S.,Bogotá,P-007,98 und,2038890,Pagada
+10581,FV-004311,05/04/2025,C-0385,Inversiones Cordillera Ltda.,Pereira,P-020,37,$ 170.200,Pagada
+10586,FV-004314,07/04/2025,C-0021,Clínica Sinú S.A.S.,Bogotá,P-063,3,2248650,Pagada
+10594,FV-004319,07/04/2025,C-0391,Laboratorios Pacífico S.A.S.,Bogotá,P-051,22,457710,Pagada
+10598,FV-004320,07/04/2025,C-9313,Grupo Palmas S.A.S.,Barranquilla,P-050,30,510300,Pagada
+10607,FV-004323,07/04/2025,C-0039,Transportes Llanos S.A.S.,Bucaramanga,P-070,1,749550,Pagada
+10608,FV-004324,07/04/2025,C-0195,Alcaldía de Farallones,Pereira,P-030,41,4391100,Pagada
+10612,FV-004325,07/04/2025,C-0339,Laboratorios Orquídea S.A.S.,Bogotá,P-050,5,89775,Pagada
+10615,FV-004326,08/04/2025,C-0021,Clínica Sinú S.A.S.,Bogotá,P-033,33,4671150,Pagada
+10623,FV-004330,45755,C-0285,Constructora Llanos S.A.S.,Medellín,P-015,104,1561040,Pagada
+10630,FV-004333,08/04/2025,C-0137,Inversiones Cafetal S.A.S.,B/quilla,P-071,2,2180000,Pagada
+10636,FV-004336,08/04/2025,C-0315,Centro Médico Yarumo S.A.S.,Pereira,P-054,17,168300,Anulada
+10639,FV-004337,09/04/2025,C-0187,Laboratorios El Prado S.A.S.,Cali,P-056,110,$ 2.497.550,Pagada
+10648,FV-004340,09/04/2025,C-0400 ,Ferretería El Prado S.A.,Medellín,P-044,30,660000,Pagada
+10651,FV-004341,2025-04-09,C-0393,Agencia Cóndor S.A.S.,Bogotá,P-016,43,339700,Pagada
+10658,FV-004345,45756,C-0133,Transportes Nogal S.A.,Medellín,P-027,8,4960800,Pagada
+10689,FV-004355,10/04/2025,C-0301,Laboratorios Palmas S.A.S.,Bucaramanga,P-035,9 und,1188450,Pagada
+10694,FV-004356,10/04/2025,C-0301,Laboratorios Palmas S.A.S.,Bucaramanga,P-038,2,625100,Pagada
+10697,FV-004359,2025-04-10,C-0144,Transportes Horizonte S.A.,Bogotá,P-033,18,$ 2.547.900,Pagada
+10710,FV-004366,2025-04-10,C-0272,Ferretería Los Andes S.A.S.,Cali,P-027,4,2756000,Pagada
+10714,FV-004368,10/04/2025,C-0310,Consultores Guadalupe S.A.S.,Bogotá,P-057,1,689000,Pagada
+10728,FV-004373,2025-04-11,C-0115,Transportes Nogal Ltda.,Cali,P-006,137,676780,Pagada
+10768,FV-004389,2025-04-14,C-0154,Fundación Del Valle S.A.S.,Cali,P-060,1,$ 549.000,Pagada
+10774,FV-004391,14/04/2025,C-0221,Ferretería Santa Fe Ltda.,Barranquilla,P-070,1,789000,Pagada
+10787,FV-004395,2025-04-14,C-0119,Grupo Orquídea S.A.S.,Barranquilla,P-027,3,1963650,Pagada
+10792,FV-004398,2025-04-14,C-0129,Grupo Palmas S.A.S.,Barranquilla,P-018,276,1625640,Pagada
+10796,FV-004399,14/04/2025,C-0071,Inversiones Cordillera S.A.,Bucaramanga,P-004,26,439400,Pagada
+10800,FV-004400,2025-04-14,C-0086,Colegio Arrayán S.A.S.,Cali,P-012,39,737100,Pagada
+10803,FV-004401,14/04/2025,C-0355,Hotel Orquídea S.A.S.,Pereira,P-046,1,38900,Pagada
+10823,FV-004408,15/04/2025,C-0086,Colegio Arrayán S.A.S.,Santiago de Cali,P-028,2,4300000,Pagada
+10849,FV-004418,45763,c-0106,Grupo Magdalena S.A.,B/quilla,P-011,208,2647840,Pagada
+10856,FV-004420,17/04/2025,C-0418,Centro Médico Arrayán S.A.S.,Bogotá,P-035,27,3753000,Pagada
+10859,FV-004423,17/04/2025,C-0317,Hotel Farallones Ltda.,Bucaramanga,P-008,27,636120,Pagada
+10864,FV-004424,17/04/2025,C-0373,Laboratorios Chicamocha S.A.S.,Bogotá,P-073,2,739100,Pagada
+10869,FV-004427,17/04/2025,C-0040 ,Instituto Caribe S.A.,Barranquilla ,P-061,6,5637300,Pagada
+10872,FV-004428,17/04/2025,C-0284,Instituto Yarumo S.A.S.,Cali,P-012,85,$ 1.606.500,Pagada
+10882,FV-004432,18/04/2025,C-0119,Grupo Orquídea S.A.S.,Barranquilla,P-028,1,$ 2.042.500,Pagada
+10893,FV-004435,18/04/2025,C-0224,Alcaldía de Del Valle,CALI,P-032,13,1210300,Pagada
+10895,FV-004436,2025-04-18,C-0135,Inversiones Tequendama S.A.S.,Barranquilla ,P-010,123,848700,Pagada
+10898,FV-004437,18/04/2025,C-0260,Alcaldía de Los Andes,Bucaramanga,P-056,348 und,7485480,Pagada
+10913,FV-004444,19/04/2025,C-0332 ,Transportes Guadalupe Ltda.,Bogotá,P-046,27,997785,Pagada
+10920,FV-004446,19/04/2025,C-0317,Hotel Farallones Ltda.,Bucaramanga,P-001,49,710500,Pagada
+10942,FV-004454,21/04/2025,C-0352,Constructora Arrayán S.A.S.,Barranquilla,P-037,1,$ 246.050,Pagada
+10968,FV-004463,2025-04-22,C-0302 ,Clínica Farallones S.A.,Medellín,P-060,2,1043100,Pagada
+10972,FV-004465,22/04/2025,C-0147,Fundación Guayacán S.A.S.,Medellín,P-020,16,73600,Pagada
+10975,FV-004466,45769,C-0196,Clínica Orquídea S.A.,Pereira,P-022,3,8265,Pagada
+10978,FV-004467,22/04/2025,C-0325,Grupo Los Andes S.A.S.,Medellín,P-031,24,1801200,Pagada
+10982,FV-004469,22/04/2025,C-0393,Agencia Cóndor S.A.S.,Bogotá,P-008,50,1240000,Pagada
+11015,FV-004483,23/04/2025,C-0239,Agencia Yarumo S.A.S.,BOGOTÁ,P-011,15,201000,Pagada
+11021,FV-004485,23/04/2025,C-0115,Transportes Nogal Ltda.,Cali,P-012,103,1849365,Pagada
+11024,FV-004486,24/04/2025,C-0411,Comercializadora Monserrate S.A.S.,Medellín,P-063,2,1578000,Pagada
+11026,FV-004487,24/04/2025,C-0038,Transportes La Sabana S.A.,Medellín,P-032,19,1768900,Pagada
+11033,FV-004490,24/04/2025,C-0179,Centro Médico Quimbaya S.A.S.,Barranquilla,P-052,68,1149200,Pagada
+11050,FV-004495,24/04/2025,C-0339,Laboratorios Orquídea S.A.S.,Bogotá,P-039,1,51300,Pagada
+11063,FV-004501,24/04/2025,C-0026,Colegio Cordillera S.A.,Bogotá,P-040,2,$ 578.000,Pagada
+11067,FV-004502,24/04/2025,C-0128,Comercializadora Guadalupe S.A.S.,Cali,P-011,24,305520,Pagada
+11088,FV-004510,25/04/2025,C-0161,Centro Médico Cafetal Ltda.,Barranquilla,P-048,50,1245000,Pagada
+11123,FV-004523,28/04/2025,C-0172,Alcaldía de Aurora,Medellín,P-044,95,1985500,Pagada
+11138,FV-004530,2025-04-29,C-0198,Consultores Chicamocha S.A.,Bogotá,P-019,21,$ 396.900,Pagada
+11139,FV-004531,29/04/2025,C-0124 ,Constructora Pacífico S.A.S.,Medellin,P-005,54,328320,Pagada
+11148,FV-004534,29/04/2025,C-0076,Laboratorios Sinú S.A.,Pereira,P-020,3,13110,Pagada
+11166,FV-004544,30/04/2025,C-0111 ,Alcaldía de Chicamocha,BOGOTÁ,P-005,43,261440,Pagada
+11187,FV-004555,30/04/2025,C-0102,Ferretería Horizonte Ltda.,Medellín,P-025,3,$ 9.376.500,Anulada
+11192,FV-004556,30/04/2025,C-0139,Constructora Sinú S.A.S.,Medellín,P-008,113,2662280,Pagada
+11199,FV-004559,02/05/2025,c-0119,Grupo Orquídea S.A.S.,Barranquilla,P-037,11,2706550,Pagada
+11200,FV-004559,02/05/2025,C-0119,Grupo Orquídea S.A.S.,Barranquilla,P-014,63,1047375,Pagada
+11209,FV-004562,45779,C-0250,Clínica Llanos S.A.S.,Pereira,P-072,6,1419300,Pagada
+11255,FV-004584,2025-05-05,C-0252,Alcaldía de Sinú,Barranquilla ,P-051,102,2122110,Pagada
+11257,FV-004585,05/05/2025,C-0039,Transportes Llanos S.A.S.,Bucaramanga,P-069,44,2466200,Pagada
+11259,FV-004585,05/05/2025,C-0039,Transportes Llanos S.A.S.,Bucaramanga,P-018,25,$ 147.250,Pagada
+11265,FV-004588,06/05/2025,C-0127,Grupo Monserrate S.A.S.,Medellín,P-046,45,1575450,Pagada
+11265,FV-004588,06/05/2025,C-0127,Grupo Monserrate S.A.S.,Medellín,P-046,45,1575450,Pagada
+11267,FV-004590,06/05/2025,C-0400 ,Ferretería El Prado S.A.,Medellín,P-054,18,178200,Pagada
+11275,FV-004592,06/05/2025,C-0341,Inversiones Horizonte S.A.S.,Cali,P-064,1,1130500,Pagada
+11275,FV-004592,06/05/2025,C-0341,Inversiones Horizonte S.A.S.,Cali,P-064,1,1130500,Pagada
+11281,FV-004595,06/05/2025,C-0297,Servicios Ceiba S.A.,Barranquilla ,P-012,13,245700,Pagada
+11283,FV-004595,06/05/2025,C-0297,Servicios Ceiba S.A.,Barranquilla ,P-018,9,55800,Pagada
+11296,FV-004602,07/05/2025,C-0407,Comercializadora Guayacán S.A.,Bogotá,P-019,23,434700,Pagada
+11299,FV-004603,07/05/2025,C-0316,Hotel Cafetal S.A.,Medellín,P-047,22,657800,Pagada
+11305,FV-004605,07/05/2025,C-0302,Clínica Farallones S.A.,Medellín,P-037,4,984200,Pagada
+11309,FV-004606,07/05/2025,C-0119,Grupo Orquídea S.A.S.,Pereira,P-035,5,660250,Pagada
+11313,FV-004607,07/05/2025,C-0138,Grupo Cóndor S.A.S.,Medellín,P-011,13,165490,Pagada
+11319,FV-004608,2025-05-07,C-0062,Secretaría de Chicamocha,B/quilla,P-047,122,3465410,Pagada
+11353,FV-004624,08/05/2025,C-0139,Constructora Sinú S.A.S.,Pereira,P-070,5,3747750,Pagada
+11367,FV-004630,09/05/2025,C-0118,Clínica Quimbaya S.A.S.,Bogotá,P-059,3,3676500,Pagada
+11370,FV-004630,2025-05-09,C-0118,Clínica Quimbaya S.A.S.,Bogotá,P-010,64,419520,Pagada
+11371,FV-004631,09/05/2025,C-0336,Comercializadora Del Valle S.A.S.,Bucaramanga,P-056,68,1625200,Pagada
+11376,FV-004633,09/05/2025,C-0363,Hotel Del Valle S.A.S.,Bogotá,P-019,30,567000,Anulada
+11379,FV-004635,09/05/2025,C-0363,Hotel Del Valle S.A.S.,Bogotá,P-069,5,295000,Pagada
+11385,FV-004637,2025-05-09,C-0239,Agencia Yarumo S.A.S.,Bogotá,P-012,18,340200,Pagada
+11402,FV-004644,12/05/2025,C-0301,Laboratorios Palmas S.A.S.,Bucaramanga,P-041,19,2147950,Pagada
+11416,FV-004649,12/05/2025,C-0301 ,Laboratorios Palmas S.A.S.,Bucaramanga,P-004,27,433485,Pagada
+11419,FV-004650,2025-05-12,C-0367,Servicios Farallones S.A.S.,Bucaramanga,P-007,13,284700,Pagada
+11422,FV-004651,12/05/2025,C-0231,Grupo Aurora S.A.S.,Bogotá,P-020,79,345230,Pagada
+11436,FV-004657,12/05/2025,C-0287,Transportes Caribe S.A.,Barranquilla,P-034,22 und,1442100,Pagada
+11443,FV-004658,13/05/2025,C-0339,Laboratorios Orquídea S.A.S.,Bogotá,P-073,3,1108650,Pagada
+11449,FV-004661,13/05/2025,C-0301,Laboratorios Palmas S.A.S.,Bucaramanga,P-008,111,2615160,Pagada
+11459,FV-004664,13/05/2025,C-0312,Laboratorios Cordillera Ltda.,Bogotá,P-010,368,2412240,Pagada
+11466,FV-004668,13/05/2025,C-0040,Instituto Caribe S.A.,Barranquilla,P-068,4,1396000,Pagada
+11467,FV-004668,13/05/2025,c-0040,Instituto Caribe S.A.,Barranquilla,P-070,1,789000,Pagada
+11468,FV-004668,13/05/2025,C-0040,Instituto Caribe S.A.,Barranquilla,P-044,100,$ 2.200.000,Pagada
+11488,FV-004677,14/05/2025,C-0091,Centro Médico Magdalena Ltda.,Cali,P-036,4,128000,Pagada
+11514,FV-004691,15/05/2025,C-0129,Grupo Palmas S.A.S.,Barranquilla,P-015,67,1005670,Pagada
+11517,FV-004693,16/05/2025,C-0119,Grupo Orquídea S.A.S.,Barranquilla,P-027,4,2618200,Pagada
+11534,FV-004699,45793,C-0111,Alcaldía de Chicamocha,Bogotá,P-011,37,446220,Pagada
+11564,FV-004712,19/05/2025,C-0111,Alcaldía de Chicamocha,Bogotá,P-025,1,3125500,Pagada
+11565,FV-004713,19/05/2025,C-0262,Notaría Nogal S.A.S.,Pereira,P-021,173,1462715,Pagada
+11590,FV-004723,20/05/2025,C-0224,Alcaldía de Del Valle,Cali,P-059,1,$ 1.225.500,Pagada
+11601,FV-004727,20/05/2025,C-0038 ,Transportes La Sabana S.A.,Medellín,P-042,10,$ 4.496.500,Pagada
+11628,FV-004739,21/05/2025,C-0317,Hotel Farallones Ltda.,Bucaramanga,P-051,76,$ 1.581.180,Pagada
+11641,FV-004743,21/05/2025,C-0284,Instituto Yarumo S.A.S.,Santiago de Cali,P-009,22,283800,Pagada
+11648,FV-004746,21/05/2025,C-0016,Ferretería La Sabana Ltda.,Bogotá,P-017,32,156800,Pagada
+11672,FV-004756,22/05/2025,C-0419,Instituto Llanos S.A.S.,Medellín,P-063,2,1578000,Pagada
+11680,FV-004761,22/05/2025,C-0314,Servicios Horizonte Ltda.,Cali,P-004,39,659100,Pagada
+11714,FV-004775,24/05/2025,C-0366,Hotel Monserrate Ltda.,Santiago de Cali,P-063,1,789000,Pagada
+11717,FV-004776,24/05/2025,C-0038,Transportes La Sabana S.A.,MEDELLÍN,P-062,3,4563000,Pagada
+11726,FV-004781,45803,C-0100,Inversiones Del Valle S.A.S.,Pereira,P-023,49,470400,Pagada
+11737,FV-004787,26/05/2025,C-0021,Clínica Sinú S.A.S.,Bogotá,P-049,35,262675,Pagada
+11741,FV-004789,26/05/2025,C-0080,Grupo Altamira Ltda.,bogota ,P-007,77,1601985,Pagada
+11743,FV-004789,26/05/2025,C-0080,Grupo Altamira Ltda.,Bogotá,P-060,8,4172400,Pagada
+11751,FV-004792,2025-05-26,C-0076,Laboratorios Sinú S.A.,Pereira,P-044,152,3176800,Pagada
+11756,FV-004794,27/05/2025,C-0385,Inversiones Cordillera Ltda.,Pereira,P-072,2,498000,Pagada
+11771,FV-004800,2025-05-27,C-0155,Notaría Cordillera S.A.,Bogotá,P-046,8,$ 295.640,Pagada
+11791,FV-004810,2025-05-27,C-0065,Grupo Monserrate S.A.,Bogotá,P-067,1,179550,Pagada
+11797,FV-004813,28/05/2025,c-0140,Alcaldía de Orquídea,Pereira,P-034,1,$ 65.550,Pagada
+11815,FV-004817,28/05/2025,C-0224,Alcaldía de Del Valle,Cali,P-001,62,854050,Pagada
+11819,FV-004820,2025-05-28,C-0119,Grupo Orquídea S.A.S.,Barranquilla ,P-007,29,603345,Pagada
+11839,FV-004832,30/05/2025,C-0115,Transportes Nogal Ltda.,Cali,P-066,4,1478200,Pagada
+11844,FV-004833,30/05/2025,C-0012,Agencia Aurora S.A.S.,Bucaramanga,P-011,34,455600,Pagada
+11869,FV-004844,02/06/2025,C-0115 ,Transportes Nogal Ltda.,Cali,P-009,11,$ 134.805,Pagada
+11874,FV-004845,2025-06-02,C-0120,Laboratorios Santa Fe S.A.,Bogotá,P-044,116,$ 2.424.400,Pagada
+11882,FV-004848,03/06/2025,C-0196,Clínica Orquídea S.A.,Pereira,P-020,17,74290,Pagada
+11892,FV-004850,03/06/2025,C-0107,Inversiones Guadalupe S.A.,Cali,P-036,18,576000,Pagada
+11894,FV-004851,2025-06-03,C-9725,Comercializadora Ceiba S.A.S.,Bogota,P-001,12,$ 174.000,Pagada
+11896,FV-004851,45811,C-0410,Comercializadora Ceiba S.A.S.,Bogotá,P-053,14,96600,Pagada
+11916,FV-004859,04/06/2025,c-0314 ,Servicios Horizonte Ltda.,Cali,P-024,35,259000,Pagada
+11919,FV-004860,04/06/2025,C-0121,Secretaría de Tequendama,Bogotá D.C.,P-016,61,457805,Pagada
+11939,FV-004866,05/06/2025,C-0119,Grupo Orquídea S.A.S.,Barranquilla,P-025,1,3125500,Pagada
+11948,FV-004868,05/06/2025,C-0302,Clínica Farallones S.A.,Medellín,P-013,51,576555,Pagada
+11958,FV-004871,05/06/2025,C-0163,Hotel Cordillera Ltda.,BOGOTÁ,P-066,1,389000,Pagada
+11962,FV-004872,05/06/2025,C-0135,Inversiones Tequendama S.A.S.,Medellín,P-050,7,132300,Pagada
+11969,FV-004876,05/06/2025,C-0272,Ferretería Los Andes S.A.S.,Cali,P-004,9,152100,Pagada
+11978,FV-004880,05/06/2025,C-0249,Grupo Nogal S.A.S.,Bogotá,P-024,160,1124800,Pagada
+11980,FV-004880,05/06/2025,C-0249,Grupo Nogal S.A.S.,Bogotá,P-041,21,2374050,Pagada
+11991,FV-004886,2025-06-05,C-0120,Laboratorios Santa Fe S.A.,Bogotá,P-069,12,672600,Pagada
+12019,FV-004900,06/06/2025,C-0046,Grupo Llanos S.A.,Medellín,P-022,36,99180,Pagada
+12025,FV-004902,06/06/2025,C-0406,Alcaldía de Horizonte,Medellin,P-027,12,7441200,Pagada
+12033,FV-004906,07/06/2025,C-0150,Secretaría de Palmas,Bogotá,P-017,158,735490,Anulada
+12053,FV-004916,09/06/2025,C-0339,Laboratorios Orquídea S.A.S.,Bogotá,P-007,78,1622790,Pagada
+12061,FV-004919,09/06/2025,C-0038,Transportes La Sabana S.A.,Medellín,P-021,41,346655,Pagada
+12072,FV-004924,10/06/2025,C-0039,Transportes Llanos S.A.S.,Bucaramanga,P-045,14,,Pagada
+12098,FV-004936,11/06/2025,C-0274 ,Inversiones Aurora S.A.S.,Pereira,P-021,19,$ 169.100,Pagada
+12110,FV-004940,11/06/2025,C-0339,Laboratorios Orquídea S.A.S.,Bogotá,P-023,9,$ 82.080,Pagada
+12137,FV-004954,2025-06-12,C-0418,Centro Médico Arrayán S.A.S.,Bogotá,P-060,4,2196000,Pagada
+12154,FV-004959,13/06/2025,C-0129,Grupo Palmas S.A.S.,B/quilla,P-040,8,$ 2.196.400,Pagada
+12156,FV-004960,45821,c-0111,Alcaldía de Chicamocha,Bogotá,P-069,34,1905700,Pagada
+12158,FV-004961,13/06/2025,C-0224,Alcaldía de Del Valle,Cali,P-052,66,1059630,Pagada
+12158,FV-004961,13/06/2025,C-0224,Alcaldía de Del Valle,Cali,P-052,66,1059630,Pagada
+12175,FV-004968,13/06/2025,C-0119,Grupo Orquídea S.A.S.,Barranquilla ,P-008,59,$ 1.390.040,Pagada
+12176,FV-004968,2025-06-13,C-0119,Grupo Orquídea S.A.S.,Barranquilla,P-063,4,2998200,Pagada
+12186,FV-004971,13/06/2025,C-0076,Laboratorios Sinú S.A.,Pereira,P-018,90,530100,Pagada
+12194,FV-004973,14/06/2025,C-0139,Constructora Sinú S.A.S.,Medellín,P-026,3,$ 11.313.000,Pagada
+12199,FV-004975,14/06/2025,C-0399,Ferretería Horizonte S.A.,Cali,P-014,50,875000,Pagada
+12205,FV-004979,16/06/2025,C-0196,Clínica Orquídea S.A.,Pereira,P-060,11,5435100,Pagada
+12217,FV-004985,16/06/2025,C-0028,Clínica Del Valle S.A.S.,Bogotá,P-045,39,1737645,Pagada
+12223,FV-004986,16/06/2025,C-0086,Colegio Arrayán S.A.S.,CALI,P-002,133,1303400,Pagada
+12225,FV-004988,16/06/2025,C-0154,Fundación Del Valle S.A.S.,Cali,P-022,42,121800,Pagada
+12227,FV-004988,2025-06-16,C-0154,Fundación Del Valle S.A.S.,Cali,P-029,3,3570000,Pagada
+12240,FV-004993,16/06/2025,C-0396,Transportes El Prado S.A.S.,bogota ,P-010,208,$ 1.363.440,Pagada
+12242,FV-004994,16/06/2025,C-0187,Laboratorios El Prado S.A.S.,Cali,P-033,34,4306100,Pagada
+12247,FV-004996,17/06/2025,C-0150,Secretaría de Palmas,Bogotá,P-042,7,$ 3.517.850,Pagada
+12258,FV-005001,17/06/2025,C-0131,Comercializadora Chicamocha S.A.S.,Medellín,P-024,83,583490,Pagada
+12264,FV-005003,17/06/2025,C-0161,Centro Médico Cafetal Ltda.,Barranquilla,P-033,8,$ 1.192.000,Pagada
+12272,FV-005007,17/06/2025,C-0119,Grupo Orquídea S.A.S.,Barranquilla,P-055,24,613320,Pagada
+12276,FV-005008,18/06/2025,C-0287,Transportes Caribe S.A.,Medellín,P-022,45,$ 123.975,Pagada
+12293,FV-005013,18/06/2025,C-0287,Transportes Caribe S.A.,Barranquilla,P-065,7,3052350,Pagada
+12304,FV-005017,45827,C-0007,Colegio Guadalupe Ltda.,Bogotá,P-059,3,3870000,Pagada
+12305,FV-005018,19/06/2025,C-0129,Grupo Palmas S.A.S.,Barranquilla,P-035,10,$ 1.251.000,Pagada
+12306,FV-005019,19/06/2025,C-0024 ,Hotel Guadalupe Ltda.,Bucaramanga,P-062,1,1690000,Pagada
+12308,FV-005019,19/06/2025,C-0024,Hotel Guadalupe Ltda.,Bucaramanga,P-066,3,1167000,Pagada
+12311,FV-005020,19/06/2025,C-0097,Colegio Orquídea S.A.S.,Medellín,P-017,145,710500,Pagada
+12314,FV-005020,2025-06-19,C-0097,Colegio Orquídea S.A.S.,Medellín,P-018,27,167400,Pagada
+12323,FV-005022,19/06/2025,C-0181,Colegio La Sabana Ltda.,Bogotá,P-064,1,1190000,Pagada
+12336,FV-005027,20/06/2025,C-0335,Alcaldía de Santa Fe,Cali,P-013,145,1639225,Pagada
+12338,FV-005027,20/06/2025,C-0335,Alcaldía de Santa Fe,Cali,P-036,8,$ 243.200,Pagada
+12345,FV-005031,20/06/2025,C-0031,Fundación Pacífico S.A.S.,Bogota,P-035,33,4587000,Pagada
+12347,FV-005032,20/06/2025,C-0286,Consultores Nogal S.A.S.,Medellín,P-067,1,$ 189.000,Pagada
+12349,FV-005033,20/06/2025,C-0064,Clínica Horizonte S.A.S.,Bucaramanga,P-028,6,11610000,Pagada
+12356,FV-005035,20/06/2025,C-0281,Hotel Guayacán S.A.,Cali,P-039,11,594000,Pagada
+12358,FV-005037,2025-06-20,c-0038,Transportes La Sabana S.A.,MEDELLÍN,P-070,5,3747750,Pagada
+12370,FV-005042,21/06/2025,C-0139,Constructora Sinú S.A.S.,Medellín,P-027,2,1309100,Pagada
+12374,FV-005045,23/06/2025,C-0161,Centro Médico Cafetal Ltda.,Barranquilla,P-044,3,66000,Pagada
+12380,FV-005047,23/06/2025,C-0263,Constructora Horizonte S.A.S.,Bogotá,P-026,4,$ 15.084.000,Pagada
+12412,FV-005061,24/06/2025,C-0198,Consultores Chicamocha S.A.,Pereira,P-020,47,$ 216.200,Pagada
+12415,FV-005061,24/06/2025,C-0198,Consultores Chicamocha S.A.,Pereira,P-052,46,777400,Pagada
+12416,FV-005062,24/06/2025,C-0335,Alcaldía de Santa Fe,Cali,P-049,121,908105,Pagada
+12419,FV-005062,24/06/2025,C-0335,Alcaldía de Santa Fe,CALI,P-058,3,$ 624.150,Pagada
+12425,FV-005064,2025-06-24,C-0241,Agencia Ceiba S.A.S.,Pereira,P-002,30,294000,Pagada
+12432,FV-005067,24/06/2025,C-0312 ,Laboratorios Cordillera Ltda.,Bogotá,P-029,6,$ 6.426.000,Pagada
+12451,FV-005074,25/06/2025,C-0287,Transportes Caribe S.A.,Barranquilla,P-002,155,1443050,Pagada
+12477,FV-005082,2025-06-26,C-0021,Clínica Sinú S.A.S.,Bogota,P-012,42,$ 754.110,Pagada
+12479,FV-005083,26/06/2025,C-0393,Agencia Cóndor S.A.S.,Bogotá,P-054,2,19800,Pagada
+12486,FV-005088,26/06/2025,C-0038,Transportes La Sabana S.A.,MEDELLÍN,P-069,15,796500,Pagada
+12488,FV-005089,26/06/2025,C-0129,Grupo Palmas S.A.S.,Barranquilla,P-015,17,255170,Pagada
+12503,FV-005096,27/06/2025,C-0126,Inversiones Guadalupe S.A.S.,Bogotá,P-051,15,328500,Pagada
+12507,FV-005097,27/06/2025,C-0038,Transportes La Sabana S.A.,Medellín,P-044,40,836000,Pagada
+12521,FV-005105,30/06/2025,C-0181,Colegio La Sabana Ltda.,Bogotá,P-018,20,124000,Pagada
+12524,FV-005106,30/06/2025,C-0287,Transportes Caribe S.A.,B/quilla,P-034,4,262200,Pagada
+12525,FV-005106,30/06/2025,C-0287,Transportes Caribe S.A.,Barranquilla,P-060,11,5435100,Pagada
+12532,FV-005109,30/06/2025,C-0031,Fundación Pacífico S.A.S.,Bogotá,P-067,4,756000,Pagada
+12535,FV-005109,30/06/2025,C-0031,Fundación Pacífico S.A.S.,Bogotá,P-016,91,718900,Pagada
+12537,FV-005110,30/06/2025,C-0107,Inversiones Guadalupe S.A.,Cali,P-021,12,106800,Pagada
+12539,FV-005110,30/06/2025,C-0107,Inversiones Guadalupe S.A.,Cali,P-016,31,$ 244.900,Pagada
+12543,FV-005113,01/07/2025,C-0154,Fundación Del Valle S.A.S.,Cali,P-070,5,3945000,Pagada
+12546,FV-005114,01/07/2025,C-0150,Secretaría de Palmas,Bogota,P-070,1,749550,Pagada
+12551,FV-005116,01/07/2025,C-0386,Colegio Guadalupe S.A.,Barranquilla,P-073,2,778000,Pagada
+12561,FV-005120,2025-07-01,C-0039,Transportes Llanos S.A.S.,Bucaramanga,P-068,6,1989300,Pagada
+12573,FV-005124,02/07/2025,C-0139,Constructora Sinú S.A.S.,MEDELLÍN,P-040,6,$ 1.647.300,Pagada
+12576,FV-005125,02/07/2025,C-0138,Grupo Cóndor S.A.S.,Santiago de Cali,P-035,24,$ 3.169.200,Pagada
+12582,FV-005129,02/07/2025,C-0271,Alcaldía de Guayacán,Barranquilla,P-006,44,217360,Pagada
+12614,FV-005141,45841,C-0192,Inversiones Cordillera S.A.S.,Barranquilla,P-019,44,831600,Pagada
+12620,FV-005143,04/07/2025,C-0179,Centro Médico Quimbaya S.A.S.,Barranquilla ,P-027,3,2067000,Pagada
+12625,FV-005145,04/07/2025,C-0239,Agencia Yarumo S.A.S.,Bogotá,P-010,72,$ 471.960,Pagada
+12627,FV-005147,2025-07-04,C-0399,Ferretería Horizonte S.A.,Cali,P-011,37,495800,Pagada
+12635,FV-005149,2025-07-04,C-0007,Colegio Guadalupe Ltda.,Bucaramanga,P-045,48,2251200,Pagada
+12644,FV-005152,05/07/2025,C-0115,Transportes Nogal Ltda.,Cali,P-072,1,236550,Pagada
+12645,FV-005152,2025-07-05,C-0115,Transportes Nogal Ltda.,Cali,P-031,51,3827550,Pagada
+12651,FV-005155,05/07/2025,C-0031,Fundación Pacífico S.A.S.,Bogotá,P-058,2,$ 438.000,Pagada
+12651,FV-005155,05/07/2025,C-0031,Fundación Pacífico S.A.S.,Bogotá,P-058,2,$ 438.000,Pagada
+12689,FV-005174,08/07/2025,C-0390,Instituto Magdalena S.A.S.,Pereira,P-073,2,778000,Pagada
+12708,FV-005180,08/07/2025,C-0065,Grupo Monserrate S.A.,Bucaramanga,P-030,7,791350,Pagada
+12713,FV-005182,09/07/2025,C-0265,Agencia La Sabana S.A.S.,Pereira,P-034,31,2139000,Pagada
+12728,FV-005189,09/07/2025,C-0231,Grupo Aurora S.A.S.,Bogotá,P-026,2,7542000,Pagada
+12737,FV-005192,2025-07-10,C-0135,Inversiones Tequendama S.A.S.,B/quilla,P-005,3 und,19200,Pagada
+12739,FV-005193,10/07/2025,C-0242,Notaría Yarumo S.A.S.,Cali,P-011,94,1196620,Pagada
+12759,FV-005202,10/07/2025,C-0111,Alcaldía de Chicamocha,Bogotá,P-020,145,633650,Pagada
+12763,FV-005203,10/07/2025,C-0129,Grupo Palmas S.A.S.,Barranquilla ,P-064,1,1071000,Pagada
+12769,FV-005205,11/07/2025,c-0321,Clínica Yarumo Ltda.,Bogotá,P-034,10,655500,Pagada
+12776,FV-005208,45849,c-0287,Transportes Caribe S.A.,Barranquilla,P-012,160,$ 2.872.800,Pagada
+12785,FV-005212,11/07/2025,C-0403,Agencia El Prado S.A.S.,Medellin,P-016,52,410800,Pagada
+12798,FV-005218,11/07/2025,C-0301,Laboratorios Palmas S.A.S.,Bucaramanga,P-032,54,$ 4.762.800,Pagada
+12799,FV-005218,11/07/2025,C-0301,Laboratorios Palmas S.A.S.,Bucaramanga,P-043,6,279300,Pagada
+12801,FV-005220,11/07/2025,C-0375,Inversiones Los Andes Ltda.,Bogotá,P-012,16,302400,Pagada
+12804,FV-005220,11/07/2025,C-0375,Inversiones Los Andes Ltda.,Bogotá,P-024,17,125800,Pagada
+12804,FV-005220,11/07/2025,C-0375,Inversiones Los Andes Ltda.,Bogotá,P-024,17,125800,Pagada
+12805,FV-005221,11/07/2025,C-0221,Ferretería Santa Fe Ltda.,Barranquilla,P-027,3,2067000,Pagada
+12813,FV-005224,12/07/2025,C-9547,Agencia Yarumo S.A.S.,BOGOTÁ,P-048,57,1419300,Pagada
+12824,FV-005228,14/07/2025,C-0221,Ferretería Santa Fe Ltda.,Barranquilla,P-008,43,1066400,Pagada
+12827,FV-005229,14/07/2025,C-0307,Constructora Santa Fe S.A.,Barranquilla,P-035,30,3961500,Pagada
+12828,FV-005230,14/07/2025,C-0411,Comercializadora Monserrate S.A.S.,Pereira,P-019,15,283500,Pagada
+12831,FV-005232,14/07/2025,C-0171,Colegio Tequendama S.A.S.,Pereira,P-024,47,347800,Pagada
+12834,FV-005233,14/07/2025,C-0106,Grupo Magdalena S.A.,Barranquilla,P-051,84,1747620,Pagada
+12836,FV-005234,14/07/2025,C-0063,Secretaría de Quimbaya,Barranquilla,P-047,58,1647490,Pagada
+12839,FV-005235,14/07/2025,C-0289,Agencia Cordillera S.A.S.,Medellín,P-026,1,4190000,Pagada
+12845,FV-005237,14/07/2025,C-0390,Instituto Magdalena S.A.S.,Pereira,P-018,26,$ 153.140,Pagada
+12865,FV-005247,15/07/2025,C-0281,Hotel Guayacán S.A.,Cali,P-068,6,2094000,Pagada
+12887,FV-005255,16/07/2025,C-0234,Fundación Farallones S.A.S.,Bogotá,P-007,30,657000,Pagada
+12888,FV-005256,16/07/2025,C-0191 ,Clínica Bambú S.A.S.,Pereira,P-036,7,212800,Pagada
+12893,FV-005258,16/07/2025,C-0224,Alcaldía de Del Valle,Cali,P-060,2,1043100,Pagada
+12913,FV-005265,17/07/2025,c-0298,Colegio Monserrate S.A.,Cali,P-070,5,$ 3.945.000,Pagada
+12915,FV-005266,17/07/2025,C-0051,Comercializadora Yarumo S.A.,Medellín,P-066,3,,Pagada
+12917,FV-005267,17/07/2025,c-0224,Alcaldía de Del Valle,Santiago de Cali,P-008,35,824600,Pagada
+12922,FV-005269,2025-07-17,C-0072,Notaría Tequendama S.A.S.,Barranquilla ,P-030,27,3052350,Pagada
+12924,FV-005270,17/07/2025,C-0270,Fundación Chicamocha Ltda.,Cali,P-062,6,9633000,Pagada
+12930,FV-005272,17/07/2025,C-0017,Instituto Guayacán Ltda.,bogota ,P-015,85,1343000,Pagada
+12937,FV-005276,18/07/2025,C-0171,Colegio Tequendama S.A.S.,Bogotá,P-016,31,244900,Pagada
+12943,FV-005278,18/07/2025,C-0086,Colegio Arrayán S.A.S.,Cali,P-043,26,1274000,Pagada
+12944,FV-005278,18/07/2025,c-0086,Colegio Arrayán S.A.S.,Cali,P-005,61,$ 390.400,Pagada
+12966,FV-005287,21/07/2025,C-0097,Colegio Orquídea S.A.S.,Medellín,P-023,31,297600,Pagada
+12968,FV-005287,21/07/2025,C-0097,Colegio Orquídea S.A.S.,Medellín,P-053,42,,Pagada
+12983,FV-005293,21/07/2025,C-0198,Consultores Chicamocha S.A.,Bogotá,P-028,1,2150000,Pagada
+12991,FV-005297,22/07/2025,C-0129,Grupo Palmas S.A.S.,Barranquilla,P-013,64,723520,Pagada
+12993,FV-005297,22/07/2025,c-0129,Grupo Palmas S.A.S.,Barranquilla,P-024,178,1251340,Pagada
+13001,FV-005300,22/07/2025,C-0314,Servicios Horizonte Ltda.,Cali,P-073,1,389000,Pagada
+13007,FV-005301,22/07/2025,C-0217,Fundación Palmas S.A.,Cali,P-055,70,,Pagada
+13009,FV-005302,2025-07-22,C-0301 ,Laboratorios Palmas S.A.S.,Bucaramanga,P-064,6,6426000,Pagada
+13011,FV-005302,22/07/2025,C-0301,Laboratorios Palmas S.A.S.,Bucaramanga,P-052,57,915135,Pagada
+13019,FV-005304,23/07/2025,C-0139,Constructora Sinú S.A.S.,MEDELLÍN,P-030,16,1808800,Pagada
+13024,FV-005305,23/07/2025,C-0417,Grupo Horizonte S.A.S.,Medellín,P-044,39,815100,Pagada
+13040,FV-005314,24/07/2025,C-0021 ,Clínica Sinú S.A.S.,bogota ,P-039,21,1077300,Pagada
+13061,FV-005325,25/07/2025,C-0086,Colegio Arrayán S.A.S.,Cali,P-021,115 und,$ 1.023.500,Pagada
+13076,FV-005331,25/07/2025,C-0332,Transportes Guadalupe Ltda.,BOGOTÁ,P-030,30,3391500,Pagada
+13082,FV-005333,25/07/2025,C-0180,Agencia Llanos S.A.S.,Bucaramanga,P-022,127,368300,Pagada
+13090,FV-005338,26/07/2025,C-0304 ,Servicios Sinú S.A.S.,Bogotá,P-003,50,560000,Pagada
+13097,FV-005340,2025-07-28,C-0239,Agencia Yarumo S.A.S.,Bogotá,P-008,25,620000,Pagada
+13098,FV-005340,28/07/2025,C-0239,Agencia Yarumo S.A.S.,Bogotá,P-021,58,516200,Pagada
+13125,FV-005350,29/07/2025,C-0110,Hotel Chicamocha S.A.,Bucaramanga,P-016,57 und,450300,Pagada
+13127,FV-005351,2025-07-29,C-0321 ,Clínica Yarumo Ltda.,Bogotá,P-018,31,182590,Pagada
+13158,FV-005365,30/07/2025,C-0120,Laboratorios Santa Fe S.A.,Bogotá,P-022,133,$ 366.415,Anulada
+13161,FV-005366,30/07/2025,C-0236,Colegio El Prado S.A.S.,Barranquilla,P-073,7,2723000,Pagada
+13167,FV-005370,31/07/2025,C-0138,Grupo Cóndor S.A.S.,CALI,P-028,3,5805000,Pagada
+13175,FV-005373,31/07/2025,C-0227,Ferretería Nogal S.A.S.,Medellín,P-057,1,689000,Pagada
+13185,FV-005376,31/07/2025,C-0356,Clínica Arrayán S.A.S.,Medellín,P-019,107,1921185,Pagada
+13193,FV-005381,01/08/2025,C-0385,Inversiones Cordillera Ltda.,Pereira,P-004,9,152100,Pagada
+13204,FV-005386,2025-08-01,C-0115,Transportes Nogal Ltda.,Cali,P-042,11,$ 5.237.100,Pagada
+13205,FV-005387,45870,C-0241,Agencia Ceiba S.A.S.,Pereira,P-021,87,774300,Pagada
+13212,FV-005389,01/08/2025,C-0137 ,Inversiones Cafetal S.A.S.,B/quilla,P-023,29,278400,Pagada
+13213,FV-005390,2025-08-02,C-0400,Ferretería El Prado S.A.,Medellín,P-044,32,704000,Pagada
+13225,FV-005396,02/08/2025,C-0243,Centro Médico Cóndor S.A.S.,Bogotá,P-027,3,2067000,Pagada
+13226,FV-005397,04/08/2025,C-0221,Ferretería Santa Fe Ltda.,Barranquilla,P-031,8,632000,Pagada
+13232,FV-005400,04/08/2025,C-0263,Constructora Horizonte S.A.S.,Bogotá,P-020,23,$ 100.510,Pagada
+13239,FV-005403,45873,C-0396,Transportes El Prado S.A.S.,Bucaramanga,P-051,143,2975115,Pagada
+13256,FV-005408,05/08/2025,C-0169,Comercializadora Farallones S.A.,Medellín,P-012,46,869400,Pagada
+13258,FV-005410,2025-08-05,C-0301,Laboratorios Palmas S.A.S.,Bucaramanga,P-059,3,3676500,Pagada
+13269,FV-005413,05/08/2025,C-0272 ,Ferretería Los Andes S.A.S.,Cali,P-010,125 und,862500,Pagada
+13270,FV-005414,05/08/2025,C-0316,Hotel Cafetal S.A.,Medellín,P-005,49,313600,Pagada
+13289,FV-005420,06/08/2025,C-0141,Servicios Cafetal S.A.S.,Barranquilla,P-022,39,$ 113.100,Pagada
+13304,FV-005427,06/08/2025,C-9663,Hotel Chicamocha S.A.,Bucaramanga,P-007,10,219000,Pagada
+13315,FV-005431,06/08/2025,C-0047,Transportes Orquídea S.A.S.,Cali,P-058,2,416100,Pagada
+13318,FV-005433,08/08/2025,C-0306,Transportes Cafetal S.A.S.,Bogota,P-049,72,540360,Pagada
+13337,FV-005441,08/08/2025,C-0075,Notaría Arrayán S.A.S.,Bucaramanga,P-057,3,1963650,Pagada
+13364,FV-005453,11/08/2025,C-0398,Comercializadora Nogal S.A.S.,Cali,P-005,30,192000,Pagada
+13372,FV-005455,11/08/2025,C-0074 ,Clínica Arrayán S.A.,Medellín,P-028,2 und,,Pagada
+13381,FV-005461,11/08/2025,C-0301 ,Laboratorios Palmas S.A.S.,Bucaramanga,P-035,36,$ 4.503.600,Pagada
+13388,FV-005465,12/08/2025,C-0419,Instituto Llanos S.A.S.,Medellín,P-068,4,1396000,Pagada
+13424,FV-005479,13/08/2025,C-0038,Transportes La Sabana S.A.,Medellín,P-001,96,$ 1.322.400,Pagada
+13429,FV-005481,13/08/2025,C-0133,Transportes Nogal S.A.,MEDELLÍN,P-051,98,2038890,Pagada
+13441,FV-005485,13/08/2025,C-0129,Grupo Palmas S.A.S.,Barranquilla,P-010,17,105570,Pagada
+13444,FV-005485,13/08/2025,C-0129,Grupo Palmas S.A.S.,Barranquilla,P-042,4,2010200,Pagada
+13447,FV-005486,13/08/2025,c-0120,Laboratorios Santa Fe S.A.,Bogotá,P-062,3,4563000,Pagada
+13459,FV-005492,13/08/2025,c-0128,Comercializadora Guadalupe S.A.S.,Cali,P-035,9,$ 1.188.450,Pagada
+13460,FV-005493,14/08/2025,C-0329,Distribuciones Arrayán S.A.S.,Bucaramanga,P-072,2 und,,Pagada
+13461,FV-005493,14/08/2025,C-0329,Distribuciones Arrayán S.A.S.,Bucaramanga,P-044,88,1936000,Pagada
+13470,FV-005496,14/08/2025,C-0128,Comercializadora Guadalupe S.A.S.,Cali,P-040,4,1156000,Pagada
+13472,FV-005497,14/08/2025,C-0396,Transportes El Prado S.A.S.,Bogotá,P-057,2,1309100,Pagada
+13477,FV-005500,14/08/2025,C-0064,Clínica Horizonte S.A.S.,Bogotá,P-044,44,919600,Pagada
+13479,FV-005500,14/08/2025,C-0064 ,Clínica Horizonte S.A.S.,Bogotá,P-018,55,$ 323.950,Pagada
+13480,FV-005501,14/08/2025,C-0076,Laboratorios Sinú S.A.,Pereira,P-015,59,885590,Pagada
+13485,FV-005505,2025-08-14,C-0396,Transportes El Prado S.A.S.,Cali,P-032,68,5997600,Pagada
+13493,FV-005509,15/08/2025,C-0139,Constructora Sinú S.A.S.,Medellín,P-026,1,$ 3.980.500,Pagada
+13505,FV-005513,15/08/2025,C-0243,Centro Médico Cóndor S.A.S.,Bogota,P-037,1,259000,Pagada
+13507,FV-005514,15/08/2025,C-0119 ,Grupo Orquídea S.A.S.,Barranquilla,P-006,33,163020,Pagada
+13533,FV-005526,45885,C-0393,Agencia Cóndor S.A.S.,Bogotá,P-047,4,119600,Pagada
+13541,FV-005528,45885,C-0301,Laboratorios Palmas S.A.S.,Bucaramanga,P-015,40,$ 600.400,Pagada
+13548,FV-005531,18/08/2025,C-0052,Colegio Los Andes S.A.S.,Bogotá,P-062,1,$ 1.690.000,Pagada
+13554,FV-005534,18/08/2025,C-0301,Laboratorios Palmas S.A.S.,Bucaramanga,P-017,42,$ 195.510,Pagada
+13588,FV-005549,19/08/2025,C-0287,Transportes Caribe S.A.,Barranquilla ,P-009,67,821085,Pagada
+13603,FV-005555,19/08/2025,C-0199,Distribuciones Cóndor Ltda.,Bogotá,P-056,56,$ 1.338.400,Pagada
+13610,FV-005557,19/08/2025,C-0221,Ferretería Santa Fe Ltda.,Barranquilla ,P-022,18,52200,Pagada
+13612,FV-005557,19/08/2025,C-0221,Ferretería Santa Fe Ltda.,Barranquilla,P-012,73,1379700,Pagada
+13636,FV-005568,2025-08-20,C-0295,Notaría Caribe S.A.,Bogotá,P-039,46,2359800,Pagada
+13655,FV-005575,2025-08-20,C-0224,Alcaldía de Del Valle,Cali,P-002,99,921690,Pagada
+13660,FV-005577,20/08/2025,C-0242,Notaría Yarumo S.A.S.,Cali,P-034,35,2294250,Pagada
+13664,FV-005578,21/08/2025,C-0021,Clínica Sinú S.A.S.,Bogotá,P-058,4,832200,Pagada
+13672,FV-005580,21/08/2025,C-0024 ,Hotel Guadalupe Ltda.,Bucaramanga,P-015,74,1169200,Pagada
+13681,FV-005583,21/08/2025,C-0221,Ferretería Santa Fe Ltda.,Barranquilla,P-019,10,189000,Pagada
+13684,FV-005584,2025-08-21,C-0120,Laboratorios Santa Fe S.A.,Bogotá,P-005,49,297920,Pagada
+13698,FV-005592,22/08/2025,C-0051,Comercializadora Yarumo S.A.,MEDELLÍN,P-068,10,$ 3.490.000,Pagada
+13708,FV-005596,23/08/2025,C-0330,Secretaría de Santa Fe,Bogotá,P-002,103,958930,Pagada
+13716,FV-005600,23/08/2025,C-0284,Instituto Yarumo S.A.S.,Cali,P-020,109,501400,Anulada
+13730,FV-005605,25/08/2025,C-0139 ,Constructora Sinú S.A.S.,Medellín,P-072,1,236550,Pagada
+13752,FV-005614,26/08/2025,C-0173,Alcaldía de Palmas,Cali,P-001,45,587250,Pagada
+13769,FV-005620,26/08/2025,C-0369,Consultores Tequendama S.A.S.,Medellín,P-047,18,$ 538.200,Pagada
+13780,FV-005622,26/08/2025,C-0161 ,Centro Médico Cafetal Ltda.,Barranquilla,P-037,5,$ 1.295.000,Pagada
+13783,FV-005623,26/08/2025,C-0411,Comercializadora Monserrate S.A.S.,Medellín,P-023,60,576000,Pagada
+13787,FV-005624,26/08/2025,C-0231,Grupo Aurora S.A.S.,Bogotá,P-042,7,3517850,Pagada
+13787,FV-005624,26/08/2025,C-0231,Grupo Aurora S.A.S.,Bogotá,P-042,7,3517850,Pagada
+13807,FV-005633,27/08/2025,C-0242,Notaría Yarumo S.A.S.,Bogotá,P-061,8,,Anulada
+13809,FV-005634,27/08/2025,C-0065,Grupo Monserrate S.A.,Bogotá,P-007,76,1581180,Pagada
+13817,FV-005638,27/08/2025,C-0118 ,Clínica Quimbaya S.A.S.,Bogotá,P-003,8,85120,Pagada
+13827,FV-005643,28/08/2025,C-0114,Laboratorios Llanos S.A.,Bogotá,P-035,16,$ 2.001.600,Pagada
+13834,FV-005647,28/08/2025,C-0111,Alcaldía de Chicamocha,Bogota,P-041,43 und,4605300,Pagada
+13835,FV-005648,28/08/2025,C-0119,Grupo Orquídea S.A.S.,Barranquilla,P-069,43,2410150,Pagada
+13836,FV-005649,28/08/2025,C-0129,Grupo Palmas S.A.S.,Barranquilla,P-015,103,1546030,Pagada
+13852,FV-005656,29/08/2025,C-0133,Transportes Nogal S.A.,Medellin,P-009,76,931380,Pagada
+13853,FV-005656,29/08/2025,C-0133,Transportes Nogal S.A.,Medellín,P-052,45,,Pagada
+13867,FV-005660,29/08/2025,C-0072,Notaría Tequendama S.A.S.,Barranquilla,P-016,98,735490,Pagada
+13867,FV-005660,29/08/2025,C-0072,Notaría Tequendama S.A.S.,Barranquilla,P-016,98,735490,Pagada
+13873,FV-005662,29/08/2025,C-0153,Ferretería Guayacán S.A.S.,Medellín,P-059,1,1290000,Pagada
+13886,FV-005666,29/08/2025,C-0363 ,Hotel Del Valle S.A.S.,Bogotá,P-017,79,$ 387.100,Pagada
+13887,FV-005667,29/08/2025,C-0396,Transportes El Prado S.A.S.,Bogotá,P-070,9,6390900,Pagada
+13897,FV-005671,2025-08-30,C-0256,Instituto Caribe S.A.S.,Bogotá,P-040,7 und,2023000,Pagada
+13901,FV-005673,30/08/2025,C-0320,Instituto Guadalupe S.A.,Cali,P-003,33,369600,Pagada
+13922,FV-005683,01/09/2025,C-0133,Transportes Nogal S.A.,Medellín,P-026,1,3980500,Pagada
+13933,FV-005687,01/09/2025,C-0317,Hotel Farallones Ltda.,Bucaramanga,P-010,102,703800,Pagada
+13939,FV-005691,02/09/2025,C-0264,Notaría Cóndor Ltda.,Bogotá,P-049,114,855570,Pagada
+13947,FV-005694,2025-09-02,C-0198,Consultores Chicamocha S.A.,Bogotá,P-010,39,269100,Pagada
+13953,FV-005695,02/09/2025,C-0083,Colegio Orquídea S.A.,Bogotá,P-067,2,$ 378.000,Pagada
+13958,FV-005697,02/09/2025,C-0010,Consultores Cafetal S.A.S.,Cali,P-027,4,2756000,Pagada
+13970,FV-005702,02/09/2025,C-0301,Laboratorios Palmas S.A.S.,Bucaramanga,P-012,11,197505,Pagada
+13973,FV-005703,03/09/2025,C-0003,Colegio Guayacán S.A.S.,MEDELLÍN,P-015,39,616200,Pagada
+13987,FV-005709,03/09/2025,C-0418,Centro Médico Arrayán S.A.S.,Bogotá,P-070,3,$ 2.367.000,Pagada
+14001,FV-005714,04/09/2025,C-0409,Ferretería Santa Fe S.A.S.,Pereira,P-039,25,1350000,Pagada
+14011,FV-005718,04/09/2025,C-0400,Ferretería El Prado S.A.,Medellín,P-008,157,3893600,Pagada
+14014,FV-005720,04/09/2025,C-0272,Ferretería Los Andes S.A.S.,Cali,P-043,19,931000,Pagada
+14020,FV-005724,04/09/2025,c-0334,Comercializadora Pacífico S.A.S.,Bucaramanga,P-029,3,3570000,Pagada
+14024,FV-005725,04/09/2025,C-0029,Grupo Pacífico Ltda.,MEDELLÍN,P-064,1,1130500,Pagada
+14026,FV-005726,04/09/2025,C-0409,Ferretería Santa Fe S.A.S.,Bogotá,P-042,1,529000,Pagada
+14027,FV-005727,04/09/2025,C-0135,Inversiones Tequendama S.A.S.,Barranquilla,P-017,18,88200,Pagada
+14041,FV-005733,05/09/2025,C-0187,Laboratorios El Prado S.A.S.,Cali,P-038,7,2187850,Pagada
+14042,FV-005734,05/09/2025,C-0330,Secretaría de Santa Fe,Bogotá,P-014,175,2909375,Pagada
+14055,FV-005738,2025-09-05,C-0161,Centro Médico Cafetal Ltda.,Barranquilla,P-034,32,,Pagada
+14060,FV-005741,05/09/2025,C-0087,Transportes Yarumo S.A.S.,Bogotá,P-050,65,1167075,Pagada
+14061,FV-005741,05/09/2025,C-0087,Transportes Yarumo S.A.S.,Bogotá,P-048,95,2247225,Pagada
+14066,FV-005743,05/09/2025,c-0120,Laboratorios Santa Fe S.A.,Bogotá,P-032,20,1862000,Pagada
+14068,FV-005743,05/09/2025,C-0120,Laboratorios Santa Fe S.A.,Bogotá,P-053,191,1252005,Pagada
+14069,FV-005743,05/09/2025,C-0120,Laboratorios Santa Fe S.A.,Bogotá,P-017,110,512050,Pagada
+14075,FV-005746,06/09/2025,C-0236,Colegio El Prado S.A.S.,Barranquilla,P-047,5,149500,Pagada
+14086,FV-005748,06/09/2025,C-0114,Laboratorios Llanos S.A.,Bucaramanga,P-070,4,$ 2.998.200,Pagada
+14098,FV-005754,2025-09-08,C-0038,Transportes La Sabana S.A.,Medellín,P-062,1,1605500,Pagada
+14115,FV-005760,08/09/2025,C-0154,Fundación Del Valle S.A.S.,Cali,P-039,35,1890000,Pagada
+14120,FV-005762,09/09/2025,C-0301,Laboratorios Palmas S.A.S.,Bucaramanga,P-001,35,$ 482.125,Pagada
+14125,FV-005765,09/09/2025,C-0164,Fundación Bambú Ltda.,Cali,P-024,27,$ 189.810,Pagada
+14132,FV-005767,09/09/2025,C-0181,Colegio La Sabana Ltda.,Bogotá,P-002,13,127400,Pagada
+14135,FV-005769,09/09/2025,C-0119,Grupo Orquídea S.A.S.,Barranquilla,P-029,2,2261000,Pagada
+14147,FV-005774,09/09/2025,C-0396,Transportes El Prado S.A.S.,bogota ,P-032,10,$ 931.000,Pagada
+14153,FV-005777,10/09/2025,C-0229,Clínica Tequendama S.A.S.,BOGOTÁ,P-007,166,3453630,Pagada
+14166,FV-005782,10/09/2025,C-0087,Transportes Yarumo S.A.S.,Barranquilla,P-051,101,2101305,Pagada
+14170,FV-005783,2025-09-10,C-0281,Hotel Guayacán S.A.,Cali,P-013,11,$ 130.900,Pagada
+14204,FV-005799,11/09/2025,C-0119,Grupo Orquídea S.A.S.,Barranquilla,P-064,7,7497000,Pagada
+14221,FV-005803,11/09/2025,C-0254,Grupo Magdalena Ltda.,Bucaramanga,P-037,4,$ 984.200,Pagada
+14227,FV-005806,12/09/2025,C-0224,Alcaldía de Del Valle,Cali,P-014,167,2776375,Pagada
+14245,FV-005813,12/09/2025,C-0028,Clínica Del Valle S.A.S.,Bogotá,P-042,3,1507650,Pagada
+14249,FV-005814,12/09/2025,C-0143,Fundación Ceiba S.A.S.,Medellín,P-008,36,892800,Pagada
+14276,FV-005827,15/09/2025,C-0171,Colegio Tequendama S.A.S.,Pereira,P-018,42,260400,Pagada
+14281,FV-005829,45915,C-0005,Fundación Chicamocha S.A.S.,Bogotá,P-014,98,1715000,Pagada
+14281,FV-005829,45915,C-0005,Fundación Chicamocha S.A.S.,Bogotá,P-014,98,1715000,Pagada
+14284,FV-005831,15/09/2025,C-0159,Hotel Ceiba S.A.S.,Pereira,P-047,58,1734200,Pagada
+14292,FV-005834,16/09/2025,C-9589,Colegio Los Andes S.A.S.,Bogotá,P-042,2,$ 1.058.000,Pagada
+14300,FV-005840,16/09/2025,C-0064,Clínica Horizonte S.A.S.,Bucaramanga,P-008,12,$ 267.840,Pagada
+14303,FV-005841,16/09/2025,C-0317 ,Hotel Farallones Ltda.,Bucaramanga,P-066,1,$ 389.000,Pagada
+14306,FV-005842,16/09/2025,C-0054,Comercializadora Farallones S.A.S.,Barranquilla,P-006,46,227240,Pagada
+14316,FV-005848,45916,C-0413,Laboratorios Nogal Ltda.,Medellín,P-026,3,$ 11.313.000,Pagada
+14326,FV-005851,16/09/2025,C-0385,Inversiones Cordillera Ltda.,Pereira,P-006,28,145600,Pagada
+14332,FV-005853,16/09/2025,C-0245,Grupo Yarumo Ltda.,Bucaramanga,P-014,72,1197000,Pagada
+14338,FV-005855,17/09/2025,C-0376,Servicios Tequendama S.A.S.,Barranquilla,P-015,36 und,540360,Pagada
+14347,FV-005860,2025-09-17,c-0074,Clínica Arrayán S.A.,Medellin,P-038,1,$ 312.550,Pagada
+14354,FV-005864,17/09/2025,C-0187,Laboratorios El Prado S.A.S.,Cali,P-028,4,7740000,Pagada
+14362,FV-005866,2025-09-17,C-9000,Fundación Guadalupe S.A.S.,BOGOTÁ,P-004,70,1123850,Pagada
+14366,FV-005868,17/09/2025,C-0339,Laboratorios Orquídea S.A.S.,Bogotá,P-062,2,3211000,Pagada
+14371,FV-005870,17/09/2025,C-0076,Laboratorios Sinú S.A.,Pereira,P-011,25,318250,Pagada
+14376,FV-005873,18/09/2025,C-0312,Laboratorios Cordillera Ltda.,Bogotá,P-069,18,1008900,Pagada
+14377,FV-005874,18/09/2025,C-0239,Agencia Yarumo S.A.S.,Bogotá,P-054,25,247500,Pagada
+14392,FV-005879,18/09/2025,C-0163,Hotel Cordillera Ltda.,Bogotá D.C.,P-040,3 und,867000,Pagada
+14403,FV-005882,19/09/2025,C-0331,Transportes Cóndor S.A.S.,Bucaramanga,P-060,1,521550,Pagada
+14405,FV-005883,2025-09-19,C-0214,Fundación Arrayán S.A.S.,Bogotá D.C.,P-037,2,518000,Pagada
+14411,FV-005885,19/09/2025,C-0224,Alcaldía de Del Valle,Cali,P-005,53,322240,Pagada
+14416,FV-005887,19/09/2025,C-0106,Grupo Magdalena S.A.,Barranquilla,P-015,199,2829780,Pagada
+14447,FV-005901,22/09/2025,C-0356 ,Clínica Arrayán S.A.S.,Medellín,P-025,3,8883000,Pagada
+14462,FV-005907,22/09/2025,C-0017,Instituto Guayacán Ltda.,Bogotá,P-019,15,,Pagada
+14464,FV-005909,22/09/2025,C-0139,Constructora Sinú S.A.S.,Medellin,P-056,65,1475825,Pagada
+14497,FV-005921,24/09/2025,C-0321,Clínica Yarumo Ltda.,Bogotá,P-049,27,202635,Pagada
+14542,FV-005936,25/09/2025,C-0224,Alcaldía de Del Valle,CALI,P-052,215 und,3451825,Pagada
+14543,FV-005937,25/09/2025,C-0044,Hotel Los Andes S.A.S.,Bogotá D.C.,P-063,4,3156000,Pagada
+14548,FV-005938,25/09/2025,C-0129,Grupo Palmas S.A.S.,Barranquilla,P-032,23,2141300,Pagada
+14561,FV-005943,2025-09-25,C-0142,Colegio Caribe S.A.,Bogotá,P-020,50,$ 218.500,Pagada
+14570,FV-005947,26/09/2025,C-0180 ,Agencia Llanos S.A.S.,Bucaramanga,P-053,28,193200,Pagada
+14585,FV-005953,27/09/2025,C-0187,Laboratorios El Prado S.A.S.,CALI,P-039,34,$ 1.744.200,Pagada
+14591,FV-005956,2025-09-29,C-0339,Laboratorios Orquídea S.A.S.,BOGOTÁ,P-032,6,558600,Pagada
+14608,FV-005963,29/09/2025,c-0356,Clínica Arrayán S.A.S.,Medellín,P-026,1,3980500,Pagada
+14633,FV-005972,30/09/2025,C-0224,Alcaldía de Del Valle,CALI,P-007,21,436905,Pagada
+14638,FV-005974,30/09/2025,C-0367,Servicios Farallones S.A.S.,Bucaramanga,P-006,15,78000,Pagada
+14647,FV-005978,30/09/2025,c-0339,Laboratorios Orquídea S.A.S.,Bogotá,P-059,5 und,5805000,Pagada
+14650,FV-005980,30/09/2025,C-0106,Grupo Magdalena S.A.,Barranquilla,P-043,13,605150,Pagada
+14657,FV-005982,30/09/2025,C-0073,Clínica Guadalupe S.A.S.,Bucaramanga,P-063,7,4970700,Pagada
+14660,FV-005983,30/09/2025,C-0275,Laboratorios Guadalupe S.A.,Pereira,P-054,87,818235,Pagada
+14671,FV-005988,01/10/2025,c-0366,Hotel Monserrate Ltda.,Cali,P-049,26,205400,Pagada
+14674,FV-005990,01/10/2025,C-0259,Centro Médico Guayacán S.A.S.,Bogotá,P-055,128,3443200,Pagada
+14677,FV-005992,01/10/2025,C-0335,Alcaldía de Santa Fe,Cali,P-037,6,$ 1.476.300,Pagada
+14684,FV-005995,01/10/2025,C-0079,Constructora La Sabana Ltda.,Bogotá,P-027,7,4581850,Pagada
+14685,FV-005995,01/10/2025,C-0079,Constructora La Sabana Ltda.,Bogotá,P-042,7,3517850,Pagada
+14697,FV-005999,02/10/2025,C-0133,Transportes Nogal S.A.,Medellín,P-013,48,,Pagada
+14716,FV-006003,45932,C-0243,Centro Médico Cóndor S.A.S.,Bogotá,P-073,3,1167000,Pagada
+14729,FV-006008,03/10/2025,C-0332,Transportes Guadalupe Ltda.,bogota ,P-025,4,11844000,Pagada
+14749,FV-006019,03/10/2025,C-0142,Colegio Caribe S.A.,Bogotá,P-034,41,2829000,Pagada
+14753,FV-006020,03/10/2025,C-0139,Constructora Sinú S.A.S.,Medellín,P-045,10,445550,Pagada
+14766,FV-006025,04/10/2025,C-0276,Fundación Cóndor S.A.,Bogotá,P-066,2,778000,Pagada
+14790,FV-006035,07/10/2025,C-0315,Centro Médico Yarumo S.A.S.,Pereira,P-048,29,$ 722.100,Pagada
+14791,FV-006035,07/10/2025,C-0315,Centro Médico Yarumo S.A.S.,Pereira,P-052,36,$ 608.400,Pagada
+14796,FV-006038,07/10/2025,C-0302,Clínica Farallones S.A.,Medellín,P-071,3,3106500,Pagada
+14801,FV-006041,07/10/2025,C-0186,Transportes Del Valle S.A.S.,Pereira,P-053,12,78660,Pagada
+14804,FV-006042,07/10/2025,C-0301,Laboratorios Palmas S.A.S.,Bucaramanga,P-002,108,1005480,Pagada
+14810,FV-006046,07/10/2025,C-0284 ,Instituto Yarumo S.A.S.,Santiago de Cali,P-045,70,3283000,Pagada
+14826,FV-006052,08/10/2025,C-0106,Grupo Magdalena S.A.,B/quilla,P-029,4,4522000,Pagada
+14828,FV-006052,08/10/2025,C-0106,Grupo Magdalena S.A.,Barranquilla,P-030,20,2261000,Pagada
+14845,FV-006059,09/10/2025,C-0192,Inversiones Cordillera S.A.S.,Bogotá,P-016,18,142200,Pagada
+14869,FV-006068,10/10/2025,C-0120 ,Laboratorios Santa Fe S.A.,Bogotá D.C.,P-038,2,625100,Anulada
+14873,FV-006070,10/10/2025,C-0224,Alcaldía de Del Valle,Cali,P-053,69,452295,Pagada
+14875,FV-006070,10/10/2025,C-0224,Alcaldía de Del Valle,Cali,P-057,6,3720600,Pagada
+14886,FV-006074,10/10/2025,C-0317 ,Hotel Farallones Ltda.,Bucaramanga,P-030,10,1190000,Pagada
+14889,FV-006076,10/10/2025,C-0396,Transportes El Prado S.A.S.,Bogotá,P-066,2,739100,Pagada
+14892,FV-006078,10/10/2025,C-0396,Transportes El Prado S.A.S.,Bogotá,P-005,22,133760,Pagada
+14893,FV-006078,10/10/2025,C-0396,Transportes El Prado S.A.S.,Bogotá,P-050,22,395010,Pagada
+14906,FV-006084,11/10/2025,C-0041,Comercializadora Nogal S.A.,B/quilla,P-033,8,1192000,Pagada
+14918,FV-006088,13/10/2025,C-0368,Secretaría de Nogal,Cali,P-065,1,436050,Pagada
+14921,FV-006088,13/10/2025,c-0368,Secretaría de Nogal,Cali,P-011,3,38190,Pagada
+14924,FV-006090,13/10/2025,C-0281 ,Hotel Guayacán S.A.,Cali,P-065,4,1836000,Pagada
+14928,FV-006091,2025-10-13,C-0038,Transportes La Sabana S.A.,Medellin,P-071,1,1035500,Pagada
+14930,FV-006091,13/10/2025,C-0038,Transportes La Sabana S.A.,Medellín,P-025,1,$ 3.125.500,Pagada
+14937,FV-006096,13/10/2025,C-0038,Transportes La Sabana S.A.,Medellín,P-039,8,410400,Pagada
+14984,FV-006112,14/10/2025,C-0137,Inversiones Cafetal S.A.S.,Barranquilla,P-059,3,3870000,Pagada
+14990,FV-006113,14/10/2025,C-0337,Servicios Magdalena Ltda.,Cali,P-013,14,$ 166.600,Pagada
+15004,FV-006118,15/10/2025,C-0103,Laboratorios Monserrate S.A.S.,Bogotá,P-007,102,$ 2.122.110,Pagada
+15015,FV-006123,15/10/2025,C-0113,Laboratorios Arrayán S.A.S.,Pereira,P-047,66,$ 1.874.730,Pagada
+15021,FV-006125,15/10/2025,C-0044,Hotel Los Andes S.A.S.,Bogotá,P-017,7 und,32585,Pagada
+15031,FV-006129,15/10/2025,C-0100 ,Inversiones Del Valle S.A.S.,Pereira,P-006,36,$ 187.200,Pagada
+15041,FV-006134,16/10/2025,C-0161,Centro Médico Cafetal Ltda.,Barranquilla,P-061,1,$ 989.000,Pagada
+15075,FV-006148,17/10/2025,C-0051,Comercializadora Yarumo S.A.,Medellín,P-060,3,1564650,Pagada
+15086,FV-006153,17/10/2025,C-0350,Alcaldía de Nogal,Medellín,P-018,39,229710,Pagada
+15096,FV-006156,18/10/2025,C-0263,Constructora Horizonte S.A.S.,Bogotá,P-010,132,865260,Pagada
+15102,FV-006158,18/10/2025,C-0325,Grupo Los Andes S.A.S.,Medellín,P-052,63,1011465,Pagada
+15104,FV-006159,18/10/2025,C-0016,Ferretería La Sabana Ltda.,Bogotá,P-034,23,1507650,Anulada
+15109,FV-006162,20/10/2025,C-0268,Fundación La Sabana S.A.S.,Bucaramanga,P-022,62 und,$ 179.800,Pagada
+15111,FV-006162,20/10/2025,C-0268,Fundación La Sabana S.A.S.,Bucaramanga,P-028,7,14297500,Pagada
+15127,FV-006171,20/10/2025,C-0351,Colegio Pacífico S.A.,Medellín,P-014,23,,Pagada
+15127,FV-006171,20/10/2025,C-0351,Colegio Pacífico S.A.,Medellín,P-014,23,,Pagada
+15149,FV-006182,21/10/2025,C-0142 ,Colegio Caribe S.A.,Bogotá,P-031,8,632000,Anulada
+15150,FV-006182,21/10/2025,C-0142,Colegio Caribe S.A.,Bogotá,P-064,1,1190000,Anulada
+15150,FV-006182,21/10/2025,C-0142,Colegio Caribe S.A.,Bogotá,P-064,1,1190000,Anulada
+15176,FV-006194,45952,C-0339,Laboratorios Orquídea S.A.S.,Cali,P-069,17,952850,Pagada
+15196,FV-006201,23/10/2025,C-0219,Colegio Del Valle S.A.S.,Pereira,P-016,8,63200,Pagada
+15206,FV-006207,23/10/2025,C-0044,Hotel Los Andes S.A.S.,Bogotá,P-026,1,3980500,Pagada
+15225,FV-006215,2025-10-24,C-0317 ,Hotel Farallones Ltda.,Bucaramanga,P-061,1,989000,Pagada
+15238,FV-006223,25/10/2025,C-0137,Inversiones Cafetal S.A.S.,Barranquilla ,P-049,27,213300,Pagada
+15238,FV-006223,25/10/2025,C-0137,Inversiones Cafetal S.A.S.,Barranquilla ,P-049,27,213300,Pagada
+15245,FV-006227,27/10/2025,C-0367,Servicios Farallones S.A.S.,Bucaramanga,P-017,64,313600,Pagada
+15266,FV-006235,2025-10-27,C-0287,Transportes Caribe S.A.,Barranquilla,P-029,4,4522000,Pagada
+15267,FV-006235,27/10/2025,c-0287,Transportes Caribe S.A.,Barranquilla,P-034,19,$ 1.245.450,Pagada
+15271,FV-006237,27/10/2025,c-0073,Clínica Guadalupe S.A.S.,Bucaramanga,P-040,3,$ 823.650,Pagada
+15274,FV-006239,2025-10-28,C-0206,Instituto Quimbaya S.A.,CALI,P-005,19,121600,Pagada
+15280,FV-006241,2025-10-28,C-0239,Agencia Yarumo S.A.S.,Bogotá,P-051,34,$ 744.600,Pagada
+15283,FV-006242,28/10/2025,C-0225,Servicios Altamira Ltda.,Cali,P-032,9,882000,Pagada
+15285,FV-006242,28/10/2025,C-0225,Servicios Altamira Ltda.,Cali,P-040,1,$ 289.000,Pagada
+15286,FV-006243,28/10/2025,C-0139,Constructora Sinú S.A.S.,Medellín,P-056,57,1294185,Pagada
+15297,FV-006247,28/10/2025,C-0391,Laboratorios Pacífico S.A.S.,Bogotá,P-029,2,2261000,Pagada
+15303,FV-006248,29/10/2025,C-0199,Distribuciones Cóndor Ltda.,Bogotá,P-001,88,1276000,Pagada
+15305,FV-006249,2025-10-29,C-0137,Inversiones Cafetal S.A.S.,Barranquilla,P-018,51,300390,Pagada
+15310,FV-006252,2025-10-29,C-0284,Instituto Yarumo S.A.S.,Cali,P-007,5,109500,Anulada
+15314,FV-006253,29/10/2025,C-0198,Consultores Chicamocha S.A.,Bogotá,P-048,24,$ 597.600,Pagada
+15314,FV-006253,29/10/2025,C-0198,Consultores Chicamocha S.A.,Bogotá,P-048,24,$ 597.600,Pagada
+15317,FV-006254,29/10/2025,C-0367,Servicios Farallones S.A.S.,Bucaramanga,P-051,22,481800,Pagada
+15318,FV-006255,29/10/2025,C-0171 ,Colegio Tequendama S.A.S.,Pereira,P-056,114,2724600,Pagada
+15319,FV-006255,29/10/2025,C-0171 ,Colegio Tequendama S.A.S.,Pereira,P-026,2,7542000,Pagada
+15325,FV-006257,29/10/2025,C-0353,Clínica Los Andes S.A.S.,Pereira,P-039,61,$ 3.129.300,Pagada
+15331,FV-006258,2025-10-29,C-0263,Constructora Horizonte S.A.S.,bogota ,P-061,1,939550,Pagada
+15339,FV-006261,2025-10-29,c-0305,Instituto Ceiba Ltda.,Medellín,P-022,24,69600,Pagada
+15341,FV-006262,29/10/2025,C-0154 ,Fundación Del Valle S.A.S.,Cali,P-043,3,147000,Pagada
+15348,FV-006264,30/10/2025,C-0272 ,Ferretería Los Andes S.A.S.,Santiago de Cali,P-034,23,1587000,Pagada
+15362,FV-006270,30/10/2025,C-0344,Transportes Orquídea S.A.,Pereira,P-023,31,282720,Pagada
+15365,FV-006271,30/10/2025,C-0341,Inversiones Horizonte S.A.S.,Santiago de Cali,P-044,10,,Pagada
+15382,FV-006280,31/10/2025,C-0367,Servicios Farallones S.A.S.,Bucaramanga,P-034,8,552000,Pagada
+15398,FV-006287,2025-10-31,C-0137,Inversiones Cafetal S.A.S.,Barranquilla,P-001,56,$ 812.000,Pagada
+15407,FV-006291,01/11/2025,C-0021,Clínica Sinú S.A.S.,Bogotá,P-046,29,1071695,Pagada
+15409,FV-006292,45962,C-0284,Instituto Yarumo S.A.S.,Cali,P-043,13,$ 637.000,Pendiente
+15410,FV-006292,01/11/2025,C-0284,Instituto Yarumo S.A.S.,Cali,P-004,96,1622400,Pendiente
+15414,FV-006293,2025-11-01,C-0180,Agencia Llanos S.A.S.,Bucaramanga,P-046,2,77800,Pagada
+15429,FV-006298,03/11/2025,C-0401,Distribuciones Guayacán S.A.S.,Bogotá,P-051,16,$ 350.400,Pagada
+15446,FV-006307,03/11/2025,c-0238,Clínica Cafetal S.A.S.,Cali,P-043,28,1303400,Pagada
+15454,FV-006311,04/11/2025,C-0112,Centro Médico Altamira S.A.S.,Medellín,P-062,1,1690000,Pagada
+15458,FV-006312,04/11/2025,C-0237,Comercializadora El Prado S.A.S.,Medellín,P-016,96,758400,Pagada
+15470,FV-006319,04/11/2025,C-0287,Transportes Caribe S.A.,Barranquilla,P-028,1 und,2042500,Pagada
+15495,FV-006329,2025-11-05,C-0046,Grupo Llanos S.A.,Medellín,P-028,2,4085000,Pagada
+15498,FV-006330,05/11/2025,C-0074,Clínica Arrayán S.A.,Medellín,P-035,30,3961500,Pagada
+15506,FV-006332,05/11/2025,C-0015,Constructora Monserrate S.A.,bogota ,P-015,128,1921280,Pagada
+15508,FV-006333,05/11/2025,C-0077,Alcaldía de Arrayán,Cali,P-007,29 und,603345,Pendiente
+15522,FV-006341,06/11/2025,C-0107,Inversiones Guadalupe S.A.,Cali,P-066,3,1108650,Pendiente
+15533,FV-006348,06/11/2025,C-0270,Fundación Chicamocha Ltda.,Pereira,P-007,49,$ 1.073.100,Pagada
+15536,FV-006349,06/11/2025,C-0004,Hotel Palmas S.A.S.,Medellin,P-007,5,109500,Pagada
+15537,FV-006349,06/11/2025,C-0004,Hotel Palmas S.A.S.,Medellín,P-021,28,249200,Pagada
+15538,FV-006350,07/11/2025,C-0198,Consultores Chicamocha S.A.,Bogota,P-040,2,$ 578.000,Pagada
+15550,FV-006355,07/11/2025,C-0184,Alcaldía de Caribe,Cali,P-003,107,1138480,Pagada
+15551,FV-006355,07/11/2025,c-0184,Alcaldía de Caribe,CALI,P-062,3,$ 4.563.000,Pagada
+15565,FV-006364,07/11/2025,C-0139,Constructora Sinú S.A.S.,MEDELLÍN,P-065,4,1744200,Pagada
+15582,FV-006372,10/11/2025,C-0298,Colegio Monserrate S.A.,CALI,P-002,37,362600,Pagada
+15602,FV-006378,10/11/2025,C-0080,Grupo Altamira Ltda.,Bogotá,P-055,30,766650,Pendiente
+15607,FV-006380,10/11/2025,C-0375,Inversiones Los Andes Ltda.,Medellín,P-052,15 und,253500,Pagada
+15629,FV-006387,2025-11-11,C-0301,Laboratorios Palmas S.A.S.,Bucaramanga,P-067,2,359100,Pagada
+15637,FV-006390,11/11/2025,C-0290 ,Fundación Guadalupe S.A.S.,Bogotá,P-040,2,578000,Pagada
+15651,FV-006396,11/11/2025,C-0088,Clínica Cóndor S.A.S.,Pereira,P-034,15,$ 983.250,Pendiente
+15653,FV-006397,11/11/2025,C-0141,Servicios Cafetal S.A.S.,Bogota,P-053,19,$ 131.100,Pagada
+15656,FV-006398,11/11/2025,C-0396,Transportes El Prado S.A.S.,Bogotá,P-030,37,4182850,Pagada
+15657,FV-006398,11/11/2025,C-0396,Transportes El Prado S.A.S.,Bogotá,P-008,60,$ 1.413.600,Pagada
+15665,FV-006402,11/11/2025,C-0368,Secretaría de Nogal,Cali,P-034,11,683100,Pendiente
+15667,FV-006403,2025-11-11,c-0263,Constructora Horizonte S.A.S.,bogota ,P-060,19,,Pagada
+15685,FV-006411,12/11/2025,C-0120,Laboratorios Santa Fe S.A.,Bucaramanga,P-059,5,5805000,Pagada
+15690,FV-006412,12/11/2025,C-0119,Grupo Orquídea S.A.S.,Barranquilla,P-014,148,2331000,Pendiente
+15691,FV-006413,12/11/2025,C-0139 ,Constructora Sinú S.A.S.,Medellín,P-026,1,$ 3.980.500,Pendiente
+15703,FV-006417,12/11/2025,C-0391,Laboratorios Pacífico S.A.S.,Bogotá,P-023,226,2061120,Pagada
+15708,FV-006418,12/11/2025,C-0135,Inversiones Tequendama S.A.S.,Barranquilla,P-011,5,63650,Pagada
+15709,FV-006419,12/11/2025,C-0396,Transportes El Prado S.A.S.,Barranquilla,P-012,140,2513700,Pendiente
+15715,FV-006421,12/11/2025,C-0239 ,Agencia Yarumo S.A.S.,Bogotá,P-053,22,151800,Pagada
+15719,FV-006423,12/11/2025,C-0095,Alcaldía de Cordillera,Medellín,P-073,12,4434600,Pagada
+15742,FV-006433,13/11/2025,C-0182,Secretaría de Altamira,Barranquilla,P-043,9,$ 418.950,Pendiente
+15743,FV-006434,13/11/2025,C-0196,Clínica Orquídea S.A.,Pereira,P-042,3,1507650,Pagada
+15765,FV-006443,14/11/2025,C-0243,Centro Médico Cóndor S.A.S.,Bogotá,P-012,65,1228500,Pagada
+15765,FV-006443,14/11/2025,C-0243,Centro Médico Cóndor S.A.S.,Bogotá,P-012,65,1228500,Pagada
+15778,FV-006447,14/11/2025,C-0221,Ferretería Santa Fe Ltda.,Barranquilla,P-004,17,287300,Pendiente
+15800,FV-006455,45975,C-0307,Constructora Santa Fe S.A.,Barranquilla,P-053,13,$ 85.215,Pagada
+15812,FV-006459,15/11/2025,C-0002,Secretaría de Magdalena,Cali,P-030,9,963900,Pagada
+15820,FV-006462,15/11/2025,C-0106,Grupo Magdalena S.A.,Barranquilla,P-036,49,1489600,Pagada
+15824,FV-006464,15/11/2025,C-0363,Hotel Del Valle S.A.S.,Bogotá,P-039,25,1350000,Pagada
+15841,FV-006470,17/11/2025,C-0200,Hotel Quimbaya S.A.S.,Medellín,P-001,48,$ 696.000,Pagada
+15842,FV-006471,17/11/2025,C-0298,Colegio Monserrate S.A.,Cali,P-030,4,476000,Pendiente
+15842,FV-006471,17/11/2025,C-0298,Colegio Monserrate S.A.,Cali,P-030,4,476000,Pendiente
+15848,FV-006473,17/11/2025,C-0183,Centro Médico Del Valle S.A.,Barranquilla,P-023,104,998400,Pagada
+15857,FV-006477,17/11/2025,C-0179,Centro Médico Quimbaya S.A.S.,Pereira,P-066,1,389000,Pagada
+15869,FV-006481,17/11/2025,C-0019,Comercializadora Horizonte S.A.S.,CALI,P-067,6,1134000,Pagada
+15884,FV-006486,18/11/2025,C-0135,Inversiones Tequendama S.A.S.,Barranquilla,P-038,2,625100,Pendiente
+15897,FV-006495,18/11/2025,C-0047,Transportes Orquídea S.A.S.,Santiago de Cali,P-051,103,$ 2.142.915,Pagada
+15910,FV-006501,18/11/2025,C-0120,Laboratorios Santa Fe S.A.,Bogotá,P-002,62,577220,Pagada
+15914,FV-006501,18/11/2025,C-0120,Laboratorios Santa Fe S.A.,Bogotá,P-005,102,620160,Pagada
+15935,FV-006509,19/11/2025,C-0115,Transportes Nogal Ltda.,Cali,P-015,46,654120,Pendiente
+15938,FV-006510,2025-11-19,C-0341,Inversiones Horizonte S.A.S.,Cali,P-009,93,1199700,Pagada
+15949,FV-006515,19/11/2025,C-0195,Alcaldía de Farallones,Pereira,P-005,130,$ 790.400,Pagada
+15951,FV-006516,19/11/2025,C-0400,Ferretería El Prado S.A.,Medellín,P-071,2,$ 2.180.000,Pagada
+15972,FV-006525,2025-11-20,C-0401,Distribuciones Guayacán S.A.S.,Barranquilla,P-002,75,735000,Pagada
+15977,FV-006526,20/11/2025,C-0312,Laboratorios Cordillera Ltda.,Bogotá,P-051,61,1269105,Pendiente
+15977,FV-006526,20/11/2025,C-0312,Laboratorios Cordillera Ltda.,Bogotá,P-051,61,1269105,Pendiente
+15987,FV-006530,20/11/2025,C-0314,Servicios Horizonte Ltda.,Barranquilla,P-003,7,78400,Pagada
+15994,FV-006533,2025-11-20,C-0129,Grupo Palmas S.A.S.,B/quilla,P-028,2,4085000,Pagada
+16004,FV-006540,21/11/2025,C-0225,Servicios Altamira Ltda.,Bogotá,P-054,42,415800,Pendiente
+16012,FV-006543,21/11/2025,C-0367,Servicios Farallones S.A.S.,Bucaramanga,P-053,102,668610,Pagada
+16031,FV-006554,24/11/2025,C-0185,Constructora Yarumo Ltda.,Bogotá,P-048,92,$ 2.176.260,Pagada
+16039,FV-006558,24/11/2025,C-0119,Grupo Orquídea S.A.S.,B/quilla,P-028,2,4085000,Pendiente
+16042,FV-006558,24/11/2025,C-0119,Grupo Orquídea S.A.S.,Barranquilla,P-060,6,3129300,Pendiente
+16045,FV-006559,24/11/2025,C-0380,Agencia Altamira S.A.S.,Bogotá,P-003,4,44800,Pendiente
+16050,FV-006560,24/11/2025,C-0139,Constructora Sinú S.A.S.,Medellín,P-043,3,139650,Pendiente
+16052,FV-006561,2025-11-24,C-0271,Alcaldía de Guayacán,Bogotá,P-061,5 und,$ 4.697.750,Pagada
+16055,FV-006562,24/11/2025,C-0198,Consultores Chicamocha S.A.,Bogotá,P-011,95,$ 1.273.000,Pagada
+16061,FV-006563,24/11/2025,c-0347,Secretaría de Horizonte,Bogotá,P-038,1,312550,Pendiente
+16066,FV-006567,25/11/2025,C-0400,Ferretería El Prado S.A.,Medellín,P-007,5,109500,Pagada
+16072,FV-006571,25/11/2025,c-0325,Grupo Los Andes S.A.S.,Medellín,P-067,6,1077300,Pagada
+16074,FV-006572,25/11/2025,C-0301,Laboratorios Palmas S.A.S.,Bucaramanga,P-041,25,2826250,Pendiente
+16075,FV-006572,25/11/2025,C-0301,Laboratorios Palmas S.A.S.,Bucaramanga,P-064,1,1130500,Pendiente
+16079,FV-006573,25/11/2025,C-0039,Transportes Llanos S.A.S.,Bucaramanga,P-022,91,250705,Pagada
+16084,FV-006575,25/11/2025,C-0308 ,Clínica Palmas Ltda.,Bogotá,P-036,68,$ 2.067.200,Pagada
+16084,FV-006575,25/11/2025,C-0308 ,Clínica Palmas Ltda.,Bogotá,P-036,68,$ 2.067.200,Pagada
+16086,FV-006576,26/11/2025,C-0181,Colegio La Sabana Ltda.,Bogotá,P-002,41,401800,Pagada
+16090,FV-006577,26/11/2025,C-0031,Fundación Pacífico S.A.S.,Bogotá,P-018,23,142600,Pagada
+16097,FV-006580,26/11/2025,C-0301,Laboratorios Palmas S.A.S.,Bucaramanga,P-045,20,891100,Pagada
+16112,FV-006586,26/11/2025,C-0272,Ferretería Los Andes S.A.S.,Santiago de Cali,P-001,15,217500,Anulada
+16130,FV-006594,2025-11-26,C-0281,Hotel Guayacán S.A.,Cali,P-045,2,93800,Pagada
+16137,FV-006598,27/11/2025,C-0224,Alcaldía de Del Valle,Bogotá,P-032,30,$ 2.793.000,Pagada
+16137,FV-006598,27/11/2025,C-0224,Alcaldía de Del Valle,Bogotá,P-032,30,$ 2.793.000,Pagada
+16157,FV-006605,27/11/2025,C-0139,Constructora Sinú S.A.S.,Medellín,P-036,4,121600,Pagada
+16157,FV-006605,27/11/2025,C-0139,Constructora Sinú S.A.S.,Medellín,P-036,4,121600,Pagada
+16174,FV-006612,28/11/2025,C-0179,Centro Médico Quimbaya S.A.S.,Barranquilla,P-055,23,618700,Pagada
+16182,FV-006617,2025-11-28,C-0075,Notaría Arrayán S.A.S.,Bucaramanga,P-042,21,9998100,Pagada
+16190,FV-006622,45989,C-0041 ,Comercializadora Nogal S.A.,Barranquilla,P-007,73,1598700,Pagada
+16195,FV-006625,28/11/2025,C-0065,Grupo Monserrate S.A.,Bogotá,P-059,6 und,6966000,Pagada
+16213,FV-006632,29/11/2025,C-0172,Alcaldía de Aurora,Medellín,P-063,13,9231300,Pagada
+16217,FV-006633,29/11/2025,C-0086,Colegio Arrayán S.A.S.,Cali,P-017,112,548800,Pagada
+16227,FV-006637,29/11/2025,C-0252,Alcaldía de Sinú,Bogotá,P-028,5,9675000,Pendiente
+16228,FV-006637,29/11/2025,C-0252,Alcaldía de Sinú,Bogotá,P-012,15,269325,Pendiente
+16248,FV-006646,01/12/2025,C-0161,Centro Médico Cafetal Ltda.,Barranquilla,P-071,1,1090000,Pagada
+16250,FV-006646,01/12/2025,C-0161,Centro Médico Cafetal Ltda.,Barranquilla,P-052,4,$ 67.600,Pagada
+16251,FV-006646,01/12/2025,C-0161,Centro Médico Cafetal Ltda.,Barranquilla,P-014,42,735000,Pagada
+16268,FV-006654,01/12/2025,C-0119,Grupo Orquídea S.A.S.,Barranquilla,P-062,1,1605500,Pagada
+16273,FV-006656,2025-12-01,C-0301,Laboratorios Palmas S.A.S.,Bucaramanga,P-020,132,576840,Pagada
+16275,FV-006658,01/12/2025,C-0112,Centro Médico Altamira S.A.S.,Medellín,P-016,32,$ 252.800,Pagada
+16303,FV-006670,02/12/2025,C-0097 ,Colegio Orquídea S.A.S.,Medellín,P-029,1,1190000,Pendiente
+16314,FV-006675,02/12/2025,C-0288,Grupo Ceiba S.A.S.,Medellín,P-038,6,1875300,Pagada
+16333,FV-006681,03/12/2025,C-0419 ,Instituto Llanos S.A.S.,Barranquilla,P-054,85,841500,Pendiente
+16335,FV-006683,03/12/2025,C-0122,Alcaldía de Magdalena,Bogotá,P-046,45,1662975,Pagada
+16345,FV-006685,03/12/2025,C-0038,Transportes La Sabana S.A.,CALI,P-064,4,4522000,Pagada
+16352,FV-006690,03/12/2025,C-0043,Clínica Nogal S.A.S.,Bogota,P-011,96,$ 1.222.080,Pagada
+16358,FV-006694,04/12/2025,C-0243,Centro Médico Cóndor S.A.S.,Bogotá D.C.,P-041,7,833000,Pendiente
+16365,FV-006698,04/12/2025,C-0385,Inversiones Cordillera Ltda.,Pereira,P-005,17,108800,Pagada
+16367,FV-006698,04/12/2025,C-0385 ,Inversiones Cordillera Ltda.,Pereira,P-061,5,4945000,Pagada
+16369,FV-006699,04/12/2025,C-0400,Ferretería El Prado S.A.,Medellin,P-072,4,996000,Pagada
+16382,FV-006705,04/12/2025,C-0186,Transportes Del Valle S.A.S.,Pereira,P-068,8,2652400,Pagada
+16402,FV-006711,05/12/2025,c-0332,Transportes Guadalupe Ltda.,Bogotá,P-063,6,$ 4.497.300,Pagada
+16408,FV-006714,05/12/2025,C-0063 ,Secretaría de Quimbaya,Barranquilla,P-010,63,391230,Pagada
+16416,FV-006716,05/12/2025,C-0185,Constructora Yarumo Ltda.,Bogotá,P-044,72,1504800,Pendiente
+16420,FV-006717,05/12/2025,C-0411,Comercializadora Monserrate S.A.S.,Medellín,P-008,45,1116000,Pagada
+16422,FV-006718,05/12/2025,C-0120,Laboratorios Santa Fe S.A.,Bogota,P-039,7,359100,Pendiente
+16437,FV-006725,05/12/2025,C-0138,Grupo Cóndor S.A.S.,Cali,P-055,144,$ 3.679.920,Pagada
+16440,FV-006726,06/12/2025,C-0411,Comercializadora Monserrate S.A.S.,Medellín,P-040,6,1734000,Pagada
+16487,FV-006744,2025-12-08,C-0406,Alcaldía de Horizonte,Medellin,P-034,12,786600,Pagada
+16513,FV-006755,09/12/2025,c-0392,Consultores Quimbaya S.A.,Medellín,P-017,38,186200,Pagada
+16515,FV-006757,09/12/2025,C-0117,Distribuciones Aurora S.A.,Barranquilla ,P-054,3,,Pagada
+16519,FV-006758,09/12/2025,C-0390,Instituto Magdalena S.A.S.,Pereira,P-039,5,$ 270.000,Pagada
+16522,FV-006759,09/12/2025,C-0341,Inversiones Horizonte S.A.S.,Cali,P-038,1,329000,Pagada
+16527,FV-006761,10/12/2025,C-0051 ,Comercializadora Yarumo S.A.,Medellín,P-025,1,3125500,Pagada
+16528,FV-006762,10/12/2025,C-0129,Grupo Palmas S.A.S.,Barranquilla,P-032,8,$ 744.800,Pendiente
+16532,FV-006764,10/12/2025,C-0076,Laboratorios Sinú S.A.,Pereira,P-025,6,17766000,Pagada
+16535,FV-006765,10/12/2025,C-0396,Transportes El Prado S.A.S.,Bogotá,P-027,8,4960800,Pagada
+16547,FV-006770,11/12/2025,C-0340,Laboratorios Llanos S.A.S.,Bogotá,P-062,1,,Pagada
+16548,FV-006770,11/12/2025,C-0340,Laboratorios Llanos S.A.S.,bogota ,P-065,3,1308150,Pagada
+16552,FV-006772,11/12/2025,C-0049,Agencia Bambú S.A.S.,Bogotá D.C.,P-003,32,$ 340.480,Pendiente
+16558,FV-006776,11/12/2025,C-0219,Colegio Del Valle S.A.S.,Pereira,P-024,38,$ 281.200,Pagada
+16568,FV-006779,11/12/2025,C-9269,Laboratorios Santa Fe S.A.,Bogotá,P-030,2,$ 226.100,Pagada
+16595,FV-006790,12/12/2025,C-0374,Fundación Llanos S.A.S.,BOGOTÁ,P-042,3,,Anulada
+16600,FV-006793,12/12/2025,c-0264,Notaría Cóndor Ltda.,Bogotá,P-026,8,30168000,Pagada
+16618,FV-006801,12/12/2025,C-0397 ,Servicios Caribe S.A.S.,Bucaramanga,P-039,14 und,756000,Pendiente
+16619,FV-006801,12/12/2025,C-0397,Servicios Caribe S.A.S.,Bucaramanga,P-007,17,$ 372.300,Pendiente
+16620,FV-006801,12/12/2025,C-0397,Servicios Caribe S.A.S.,Bucaramanga,P-070,3,2367000,Pendiente
+16624,FV-006803,2025-12-12,C-0076,Laboratorios Sinú S.A.,Pereira,P-054,158,$ 1.485.990,Pagada
+16639,FV-006808,13/12/2025,C-0420,Constructora El Prado S.A.S.,Medellín,P-037,6,1476300,Pagada
+16662,FV-006819,15/12/2025,C-0198,Consultores Chicamocha S.A.,Bogota,P-029,4,4760000,Pendiente
+16664,FV-006819,15/12/2025,C-0198 ,Consultores Chicamocha S.A.,Bogotá,P-020,37,170200,Pendiente
+16666,FV-006820,15/12/2025,C-0138,Grupo Cóndor S.A.S.,Cali,P-021,140,$ 1.183.700,Pagada
+16671,FV-006822,15/12/2025,C-0242,Notaría Yarumo S.A.S.,Cali,P-011,87,1049220,Pendiente
+16678,FV-006825,15/12/2025,C-0116,Fundación Cóndor S.A.S.,Medellín,P-056,9,204345,Pagada
+16679,FV-006825,15/12/2025,C-0116 ,Fundación Cóndor S.A.S.,Medellín,P-017,71,347900,Pagada
+16697,FV-006831,16/12/2025,C-0133 ,Transportes Nogal S.A.,Medellín,P-053,142,930810,Pagada
+16705,FV-006833,16/12/2025,C-0051,Comercializadora Yarumo S.A.,Medellín,P-050,141,$ 2.664.900,Pagada
+16712,FV-006837,16/12/2025,C-0200,Hotel Quimbaya S.A.S.,Medellín,P-010,60,393300,Pagada
+16714,FV-006838,16/12/2025,C-0154,Fundación Del Valle S.A.S.,Cali,P-014,96,1680000,Pagada
+16718,FV-006839,2025-12-16,C-0314,Servicios Horizonte Ltda.,Cali,P-007,21,$ 459.900,Pagada
+16720,FV-006840,16/12/2025,C-0298,Colegio Monserrate S.A.,Santiago de Cali,P-018,55,341000,Pagada
+16724,FV-006842,17/12/2025,C-0317,Hotel Farallones Ltda.,Bucaramanga,P-048,50,1245000,Pagada
+16732,FV-006845,17/12/2025,C-0180,Agencia Llanos S.A.S.,Bucaramanga,P-040,2,578000,Pagada
+16742,FV-006848,17/12/2025,C-0192,Inversiones Cordillera S.A.S.,Bogotá,P-045,2,93800,Pagada
+16760,FV-006857,18/12/2025,C-0306,Transportes Cafetal S.A.S.,Bogotá,P-068,14,$ 4.641.700,Pagada
+16769,FV-006860,18/12/2025,C-0340,Laboratorios Llanos S.A.S.,Bogotá,P-050,109,$ 1.957.095,Pendiente
+16771,FV-006860,18/12/2025,C-0340,Laboratorios Llanos S.A.S.,Bogotá,P-010,104,681720,Pendiente
+16774,FV-006862,18/12/2025,c-0119 ,Grupo Orquídea S.A.S.,Barranquilla,P-059,2,2451000,Pagada
+16775,FV-006863,2025-12-18,C-0339,Laboratorios Orquídea S.A.S.,Bogotá,P-032,20,1862000,Pagada
+16801,FV-006873,2025-12-18,C-0054,Comercializadora Farallones S.A.S.,B/quilla,P-068,11,3839000,Pagada
+16803,FV-006874,18/12/2025,C-0214,Fundación Arrayán S.A.S.,Bogotá,P-046,29,$ 1.128.100,Pagada
+16812,FV-006876,19/12/2025,C-0024,Hotel Guadalupe Ltda.,Bucaramanga,P-011,40,536000,Pagada
+16831,FV-006885,19/12/2025,C-0309 ,Ferretería Guayacán S.A.,Barranquilla,P-036,12,$ 384.000,Pagada
+16847,FV-006892,20/12/2025,C-0025,Hotel Cóndor Ltda.,Medellín,P-068,2,698000,Pagada
+16856,FV-006895,2025-12-20,C-0274,Inversiones Aurora S.A.S.,Pereira,P-070,1,789000,Pagada
+16864,FV-006899,2025-12-22,C-0243,Centro Médico Cóndor S.A.S.,Bogotá,P-042,1,529000,Pagada
+16865,FV-006899,22/12/2025,C-0243,Centro Médico Cóndor S.A.S.,Bogotá,P-031,1,79000,Pagada
+16872,FV-006902,22/12/2025,C-0119,Grupo Orquídea S.A.S.,Pereira,P-010,125,819375,Pagada
+16883,FV-006907,22/12/2025,C-0047,Transportes Orquídea S.A.S.,Cali,P-072,1,236550,Pendiente
+16887,FV-006908,22/12/2025,C-0124,Constructora Pacífico S.A.S.,CALI,P-043,23,1070650,Pagada
+16910,FV-006917,2025-12-23,C-0067,Instituto Los Andes Ltda.,Bogotá,P-065,1,459000,Pagada
+16914,FV-006919,23/12/2025,C-0221,Ferretería Santa Fe Ltda.,Barranquilla,P-049,50,395000,Pagada
+16919,FV-006921,23/12/2025,C-0149,Notaría El Prado S.A.S.,Barranquilla,P-048,37,875235,Pagada
+16919,FV-006921,23/12/2025,C-0149,Notaría El Prado S.A.S.,Barranquilla,P-048,37,875235,Pagada
+16941,FV-006929,24/12/2025,C-0133 ,Transportes Nogal S.A.,Medellín,P-037,2,492100,Pagada
+16967,FV-006939,24/12/2025,C-0037,Laboratorios Monserrate Ltda.,Cali,P-052,25,$ 401.375,Pagada
+16970,FV-006940,24/12/2025,C-0392,Consultores Quimbaya S.A.,Medellin,P-025,6,18753000,Pagada
+16972,FV-006942,2025-12-24,C-0245,Grupo Yarumo Ltda.,Bucaramanga,P-040,4,$ 1.098.200,Pagada
+16992,FV-006955,26/12/2025,C-0221,Ferretería Santa Fe Ltda.,Barranquilla,P-043,6,294000,Pagada
+17005,FV-006962,27/12/2025,C-0290,Fundación Guadalupe S.A.S.,Bogotá,P-027,3,2067000,Pagada
+17012,FV-006964,27/12/2025,C-0080,Grupo Altamira Ltda.,Bogotá,P-058,11,2288550,Pagada
+17022,FV-006968,29/12/2025,C-0341,Inversiones Horizonte S.A.S.,CALI,P-037,1,$ 259.000,Pagada
+17041,FV-006975,29/12/2025,c-0418,Centro Médico Arrayán S.A.S.,Bogotá,P-043,13,$ 637.000,Pendiente
+17066,FV-006985,29/12/2025,C-0356,Clínica Arrayán S.A.S.,Pereira,P-030,9,1017450,Pagada
+17068,FV-006985,29/12/2025,C-0356,Clínica Arrayán S.A.S.,Pereira,P-003,65,691600,Pagada
+17069,FV-006986,2025-12-29,C-0117 ,Distribuciones Aurora S.A.,Bogotá,P-026,3,11941500,Pendiente
+17080,FV-006992,30/12/2025,C-0395,Clínica Altamira S.A.,Cali,P-017,60,279300,Anulada

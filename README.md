@@ -36,14 +36,14 @@ Requisitos: Windows para Power BI Desktop (gratuito), Windows o Mac para Tableau
 
 | Tramo (área PL-300) | # | Clave | Estado |
 |---|---|---|---|
-| Preparar | 1 | Conectar y perfilar | Orientación y ejemplo |
-| | 2 | Transformar para el modelo | Orientación y ejemplo |
+| Preparar | 1 | Conectar y perfilar | **Completa** |
+| | 2 | Transformar para el modelo | **Completa** |
 | Modelar | 3 | Modelo estrella y relaciones | **Completa** |
 | | 4 | Medidas DAX y el contexto de filtro | **Completa** |
-| | 5 | Inteligencia de tiempo | Orientación y ejemplo |
+| | 5 | Inteligencia de tiempo | **Completa** |
 | Comunicar | 6 | Informe que responde preguntas | **Completa** |
-| | 7 | Interactividad y narrativa | Orientación y ejemplo |
-| Publicar y portafolio | 8 | Publicar, gobernar y portafolio | Orientación y ejemplo |
+| | 7 | Interactividad y narrativa | **Completa** |
+| Publicar y portafolio | 8 | Publicar, gobernar y portafolio | **Completa** |
 
 Cada clave completa tiene ocho pasos: para qué sirve (con su equivalente en Tableau), entender, ver el error, simulador, pasos en Power BI y en Tableau, verificación en Colab, apoyo de IA y autoevaluación.
 
@@ -60,9 +60,14 @@ Cada clave completa tiene ocho pasos: para qué sirve (con su equivalente en Tab
 
 | Cuaderno | Para qué | Colab |
 |---|---|---|
+| `01_conectar_y_perfilar` | Calidad y distribución de cada columna de la exportación del ERP | [Abrir](https://colab.research.google.com/github/OmarLi-360/powerbi-tableau-analista/blob/main/notebooks/01_conectar_y_perfilar.ipynb) |
+| `02_transformar_para_el_modelo` | Días sin ventas, tabla plana frente a estrella y granularidad | [Abrir](https://colab.research.google.com/github/OmarLi-360/powerbi-tableau-analista/blob/main/notebooks/02_transformar_para_el_modelo.ipynb) |
 | `03_modelo_estrella` | Tamaño de las tablas, verificación de llaves y el síntoma de una relación que falta | [Abrir](https://colab.research.google.com/github/OmarLi-360/powerbi-tableau-analista/blob/main/notebooks/03_modelo_estrella.ipynb) |
 | `04_medidas_dax` | Tabla de control de las seis medidas y el contexto de filtro | [Abrir](https://colab.research.google.com/github/OmarLi-360/powerbi-tableau-analista/blob/main/notebooks/04_medidas_dax.ipynb) |
+| `05_inteligencia_de_tiempo` | Acumulado del año, variación mensual y anual por sede | [Abrir](https://colab.research.google.com/github/OmarLi-360/powerbi-tableau-analista/blob/main/notebooks/05_inteligencia_de_tiempo.ipynb) |
 | `06_informe_que_responde` | Pregunta y visual, y la página del comité | [Abrir](https://colab.research.google.com/github/OmarLi-360/powerbi-tableau-analista/blob/main/notebooks/06_informe_que_responde.ipynb) |
+| `07_interactividad_y_narrativa` | Ruta de detalle, información sobre herramientas y pequeños múltiplos | [Abrir](https://colab.research.google.com/github/OmarLi-360/powerbi-tableau-analista/blob/main/notebooks/07_interactividad_y_narrativa.ipynb) |
+| `08_publicar_y_gobernar` | Lo que ve cada rol de seguridad y dónde publicar | [Abrir](https://colab.research.google.com/github/OmarLi-360/powerbi-tableau-analista/blob/main/notebooks/08_publicar_y_gobernar.ipynb) |
 
 ## Los datos
 

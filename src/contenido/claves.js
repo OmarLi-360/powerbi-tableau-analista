@@ -3,7 +3,7 @@
    Para completar una clave: su objeto en MOD[n], su simulador en SIMS[n],
    su «Ver el error» en ERRORES[n] y su número en PILOTO.
    ====================================================================== */
-const PILOTO = [3,4,6];
+const PILOTO = [1,2,3,4,5,6,7,8];
 
 const TRAMOS = [
  {t:"Preparar", d:"Traer los datos y dejarlos listos para el modelo. Es el 25–30 % del examen PL-300."},

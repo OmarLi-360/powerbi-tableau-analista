@@ -10,6 +10,7 @@ Empresa ficticia de suministros de oficina y tecnología con seis sedes. Son los
 | `productos.csv` | 73 | Dimensión | sku | Producto, categoría, precios y costos |
 | `vendedores.csv` | 18 | Dimensión | id_vendedor | Nombre, sede, ingreso y retiro |
 | `sedes.csv` | 6 | Dimensión | id_sede | Ciudad, departamento, región |
+| `ventas_erp_sucio.csv` | 1.854 | Práctica | — | Exportación del ERP con defectos (tipos mezclados, variantes de ciudad, duplicados) para la clave 1 |
 | `nuevo_mes/ventas_2026_01.csv` | 914 | Hechos | id_linea | Enero de 2026 con el mismo esquema (Taller P2) |
 | `nuevo_mes/metas_2026_01.csv` | 6 | Hechos | — | Metas de enero de 2026 |
 
